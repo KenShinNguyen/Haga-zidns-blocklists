@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jul 2026 17:38 UTC
-# Version: 2026.0708.1738.36
+# Last modified: 09 Jul 2026 18:05 UTC
+# Version: 2026.0709.1805.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3841
+# Number of entries: 3839
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3529,7 +3529,6 @@
 0.0.0.0 dot.ublockdns.com
 0.0.0.0 my.ublockdns.com
 0.0.0.0 v1.ufamax.eu
-0.0.0.0 vless-service.ufodns.com
 0.0.0.0 blokuj.ujwie.co
 0.0.0.0 nitter.ujwie.co
 0.0.0.0 adguard.ulbricht.cloud
@@ -3664,7 +3663,6 @@
 0.0.0.0 dns.jsd.web.id
 0.0.0.0 panser.web.id
 0.0.0.0 doh.this.web.id
-0.0.0.0 web-rated.ie
 0.0.0.0 quadrogramma.vps.webdock.cloud
 0.0.0.0 dns.webfork.in
 0.0.0.0 doh.webnmail.de

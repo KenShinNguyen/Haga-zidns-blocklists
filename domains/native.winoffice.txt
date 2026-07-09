@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jul 2026 17:50 UTC
-# Version: 2026.0708.1750.11
+# Last modified: 09 Jul 2026 18:16 UTC
+# Version: 2026.0709.1816.14
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 746
 #
@@ -103,6 +103,7 @@ ukwest-0.in.applicationinsights.azure.com
 usgovarizona-0.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
+usgovvirginia-global.in.applicationinsights.azure.us
 westeurope.in.applicationinsights.azure.com
 westeurope-0.in.applicationinsights.azure.com
 westeurope-1.in.applicationinsights.azure.com
@@ -687,7 +688,6 @@ ssp-prod-eastus-nonmutt.trafficmanager.net
 stats-partner.trafficmanager.net
 teams-events-data.trafficmanager.net
 telemetry-lcp.trafficmanager.net
-tenmax-ads.trafficmanager.net
 tm-analytics-pr.trafficmanager.net
 tm-enrollment-telemetry-datacore.trafficmanager.net
 us-mesh-events-data-leafs.trafficmanager.net

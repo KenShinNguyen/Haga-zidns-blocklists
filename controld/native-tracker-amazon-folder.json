@@ -561,6 +561,13 @@
       }
     },
     {
+      "PK": "adserver.pubtech.amazon.dev",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-setu-proxy.amazon.com",
       "action": {
         "do": 0,
@@ -2340,6 +2347,13 @@
     },
     {
       "PK": "vfwm.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vfwm-eu.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

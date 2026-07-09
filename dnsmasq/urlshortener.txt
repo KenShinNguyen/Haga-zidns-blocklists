@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 06:54 UTC
-# Version: 2026.0709.0654.45
+# Last modified: 09 Jul 2026 18:06 UTC
+# Version: 2026.0709.1806.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9914
+# Number of entries: 9905
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -8708,7 +8708,6 @@ local=/uafly.co/
 local=/ual.fyi/
 local=/ualam.com/
 local=/ub0.cc/
-local=/ubbk.xyz/
 local=/ubd.one/
 local=/ubidata.link/
 local=/ubm.io/
@@ -8722,7 +8721,6 @@ local=/ucla.in/
 local=/udight.com/
 local=/uepx.com/
 local=/ufai.app/
-local=/ufasofilmebi.one/
 local=/ufcqc.link/
 local=/ufflink.com/
 local=/ufg.to/
@@ -8731,7 +8729,6 @@ local=/ug.cz/
 local=/ugm.id/
 local=/ugp.io/
 local=/uh.ht/
-local=/uhishado.com/
 local=/ui.la/
 local=/ui8.ru/
 local=/uich.cc/
@@ -8870,7 +8867,6 @@ local=/url5xx.com/
 local=/url647.xyz/
 local=/url666x.com/
 local=/url69xx.com/
-local=/url6x.com/
 local=/url6xx.com/
 local=/url724.link/
 local=/url777x.com/
@@ -8970,7 +8966,6 @@ local=/urlme.ru/
 local=/urlme.us/
 local=/urlmini.io/
 local=/urlmkr.net/
-local=/urlmy.link/
 local=/urlno.com/
 local=/urlnova.com/
 local=/urlo.in/
@@ -9012,7 +9007,6 @@ local=/urlshorten.link/
 local=/urlshortener.at/
 local=/urlshortener.biz/
 local=/urlshortener.bnpparibas/
-local=/urlshortener.pro/
 local=/urlshortener.site/
 local=/urlshortenerking.com/
 local=/urlshortenertool.com/
@@ -9169,7 +9163,6 @@ local=/vefsupply.ca/
 local=/vegamoveis.link/
 local=/vehi.co/
 local=/veja.me/
-local=/vemna.bio/
 local=/vena.sh/
 local=/vendoagora.live/
 local=/venkateswaragases.com/
@@ -9202,7 +9195,6 @@ local=/vid.lu/
 local=/vid4u.net/
 local=/vidcy.co/
 local=/videopro.live/
-local=/videyx.fun/
 local=/vidzsb.com/
 local=/view.page/
 local=/vig.fit/
@@ -9389,7 +9381,6 @@ local=/webcataloger.com/
 local=/webdevtutor.net/
 local=/webi.li/
 local=/webinfos.info/
-local=/webixcard.me/
 local=/weblink.biz/
 local=/webmienphi.net/
 local=/webn.in/

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 06:54 UTC
-# Version: 2026.0709.0654.45
+# Last modified: 09 Jul 2026 18:06 UTC
+# Version: 2026.0709.1806.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9914
+# Number of entries: 9905
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -8708,7 +8708,6 @@
 *.ual.fyi
 *.ualam.com
 *.ub0.cc
-*.ubbk.xyz
 *.ubd.one
 *.ubidata.link
 *.ubm.io
@@ -8722,7 +8721,6 @@
 *.udight.com
 *.uepx.com
 *.ufai.app
-*.ufasofilmebi.one
 *.ufcqc.link
 *.ufflink.com
 *.ufg.to
@@ -8731,7 +8729,6 @@
 *.ugm.id
 *.ugp.io
 *.uh.ht
-*.uhishado.com
 *.ui.la
 *.ui8.ru
 *.uich.cc
@@ -8870,7 +8867,6 @@
 *.url647.xyz
 *.url666x.com
 *.url69xx.com
-*.url6x.com
 *.url6xx.com
 *.url724.link
 *.url777x.com
@@ -8970,7 +8966,6 @@
 *.urlme.us
 *.urlmini.io
 *.urlmkr.net
-*.urlmy.link
 *.urlno.com
 *.urlnova.com
 *.urlo.in
@@ -9012,7 +9007,6 @@
 *.urlshortener.at
 *.urlshortener.biz
 *.urlshortener.bnpparibas
-*.urlshortener.pro
 *.urlshortener.site
 *.urlshortenerking.com
 *.urlshortenertool.com
@@ -9169,7 +9163,6 @@
 *.vegamoveis.link
 *.vehi.co
 *.veja.me
-*.vemna.bio
 *.vena.sh
 *.vendoagora.live
 *.venkateswaragases.com
@@ -9202,7 +9195,6 @@
 *.vid4u.net
 *.vidcy.co
 *.videopro.live
-*.videyx.fun
 *.vidzsb.com
 *.view.page
 *.vig.fit
@@ -9389,7 +9381,6 @@
 *.webdevtutor.net
 *.webi.li
 *.webinfos.info
-*.webixcard.me
 *.weblink.biz
 *.webmienphi.net
 *.webn.in

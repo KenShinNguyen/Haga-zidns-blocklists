@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jul 2026 17:49 UTC
-# Version: 2026.0708.1749.33
+# Last modified: 09 Jul 2026 18:15 UTC
+# Version: 2026.0709.1815.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 704
+# Number of entries: 705
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -120,6 +120,7 @@
 0.0.0.0 ads-setu-proxy.amazon.com
 0.0.0.0 ads.amazon.com
 0.0.0.0 ads.aps.amazon-adsystem.com
+0.0.0.0 adserver.pubtech.amazon.dev
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising.a2z.com
 0.0.0.0 advertising.amazon.ae
@@ -249,7 +250,6 @@
 0.0.0.0 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.web.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell7002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
@@ -260,7 +260,6 @@
 0.0.0.0 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
@@ -558,6 +557,7 @@
 0.0.0.0 sq-tungsten-ts-fe.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 st.amazon-adsystem.com
+0.0.0.0 standard-1.eu-south-2.prod.adserver.pubtech.amazon.dev
 0.0.0.0 strategicpub.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 strategicpub.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 strategicpub.us-west.aps.axp.amazon-adsystem.com
@@ -648,6 +648,7 @@
 0.0.0.0 vfw-us-west.amazon-adsystem.com
 0.0.0.0 vfw-us.amazon-adsystem.com
 0.0.0.0 vfw.amazon-adsystem.com
+0.0.0.0 vfwm-eu.amazon-adsystem.com
 0.0.0.0 vfwm-us-west.amazon-adsystem.com
 0.0.0.0 vfwm-us.amazon-adsystem.com
 0.0.0.0 vfwm.amazon-adsystem.com
