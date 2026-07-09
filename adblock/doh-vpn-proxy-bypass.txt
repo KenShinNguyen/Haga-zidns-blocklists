@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Jul 2026 17:40 UTC
-! Version: 2026.0708.1740.03
+! Last modified: 09 Jul 2026 07:57 UTC
+! Version: 2026.0709.0757.08
 ! Syntax: AdBlock
-! Number of entries: 16759
+! Number of entries: 16725
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -5847,10 +5847,7 @@
 ||graph.train.stampsforfood.org^
 ||use.star.is^
 ||hk2.ss.startagegames.com^
-||freshgeo.startechcomputacion.com^
-||keenscience.startechcomputacion.com^
 ||logical.startechcomputacion.com^
-||trueenglish.startechcomputacion.com^
 ||ams1.startpage.com^
 ||ams2.startpage.com^
 ||browse.startpage.com^
@@ -5893,21 +5890,15 @@
 ||dns.stormycloud.org^
 ||adguard.strafer.dk^
 ||alice.armani.strangled.net^
-||dwaekkiluvschngbin.com.strangled.net^
 ||endis.org.discord.strangled.net^
 ||ajh.his.strangled.net^
-||gavinsstudyhelp-study-math-science-ela.cloudflare.net.org.strangled.net^
 ||1234589turtlepotato.strangled.net^
 ||67818-bro.strangled.net^
-||abukar.strangled.net^
 ||creativemathfun.strangled.net^
 ||imgonnaticklefrank.strangled.net^
 ||risdpublicdomain.strangled.net^
 ||robertthefrost.strangled.net^
-||sixsevwnmanfosude.strangled.net^
 ||squidward.strangled.net^
-||wspbaddies.strangled.net^
-||zhapeslearning.strangled.net^
 ||konnektor.stratipharm.de^
 ||adguard.streamlas.fr^
 ||cdn.streamr.com^
@@ -5963,7 +5954,6 @@
 ||dns.surobe.com^
 ||core.atom.sv-italia.it^
 ||dns.sv-zauner.at^
-||mirrors.svmblocker.com^
 ||dns.svoi.dev^
 ||iuewkgfbvakludg.swanndvr.net^
 ||keito.swanndvr.net^
@@ -5974,8 +5964,6 @@
 ||interstellar.nana.swift.cl^
 ||rammer.nana.swift.cl^
 ||nana.ddx.v2.swift.cl^
-||newdropper.swift.cl^
-||sharks.swift.cl^
 ||sharp.swift.cl^
 ||vpn.dev.swisscows.com^
 ||vpn.swisscows.com^
@@ -6021,7 +6009,6 @@
 ||glint.tantrum.org^
 ||pizzaisfood.tantrum.org^
 ||slinitie.tantrum.org^
-||smokerstale.tantrum.org^
 ||dns.taoday.top^
 ||dns.tapawan.ca^
 ||vpns.taplink.ws^
@@ -6052,7 +6039,6 @@
 ||de51.tcpdoor.net^
 ||adguard.tcpu.io^
 ||teach.state.teachmetofish.net^
-||keeplearning.teachthinklearn.com^
 ||learning.teamgaming.pw^
 ||dns.teaminfo.fr^
 ||dns-br.leonardo.tec.br^
@@ -6099,8 +6085,6 @@
 ||adguard.tetnet.net^
 ||trade.my.texmotive.com^
 ||cloud.tezoi.com^
-||foil.thanatos.com^
-||math.thanatos.com^
 ||voidnettty.thanatos.com^
 ||shark.thatguy.space^
 ||www.3.theartieschaffer.com^
@@ -6147,7 +6131,6 @@
 ||explore.theoceanforest.com^
 ||giggachad.thepotionsmaster.net^
 ||by-playernation.thepresenttraveller.com^
-||gogurdianw9e7disjw3iehei.thepresenttraveller.com^
 ||learnvcsa.thepresenttraveller.com^
 ||mx1.therealauthority.com^
 ||dns.therifleman.name^
@@ -6208,15 +6191,11 @@
 ||center.k12.mo.us.tornotluk.in^
 ||doh.totoro.pub^
 ||cease.touchofpink.ca^
-||endismadebyevan.tovamiasto.com^
-||flashisthebestlinkdropper.tovamiasto.com^
 ||khanacadamyregistry67.tovamiasto.com^
-||nasaforlifejoboptions.tovamiasto.com^
 ||site.tovamiasto.com^
 ||stellarwriting.tovamiasto.com^
 ||truechem.tovamiasto.com^
 ||vcsa.tovamiasto.com^
-||wiki-national-numbers.tovamiasto.com^
 ||home.sso.toythieves.com^
 ||chronicle14.tplinkdns.com^
 ||ebpmc.tplinkdns.com^
@@ -6293,7 +6272,6 @@
 ||apps.truckbel.com^
 ||yuno.truckbel.com^
 ||smart.vocab.truckoccasion.ch^
-||abhub1134.truckstore.ch^
 ||dns.truong.fi^
 ||dns.trust404.win^
 ||swe.try-dns.com^
@@ -6316,21 +6294,15 @@
 ||friedchimkensaurus.tvjumbleanswers.com^
 ||itscauseiamblack.tvjumbleanswers.com^
 ||littlepiggies571s.tvjumbleanswers.com^
-||dbqonline.com.login.a.twilightparadox.com^
 ||biggerneverknown.com.twilightparadox.com^
 ||ilovelearninggames.com.twilightparadox.com^
-||1922wutio.bt-a.g.p.qwe.cv-77.twilightparadox.com^
 ||lightspeedisahh.edu.gov.education.twilightparadox.com^
-||toofuntoostudy-math-study.gavin.twilightparadox.com^
 ||classroom.google.twilightparadox.com^
 ||support.sghub.co.za.twilightparadox.com^
 ||230704953-learn-maths-starters.twilightparadox.com^
-||278765434574.twilightparadox.com^
 ||alearluvsruby.twilightparadox.com^
 ||dagsonbanana.twilightparadox.com^
 ||djsnsnsnsnn.twilightparadox.com^
-||goofygang.twilightparadox.com^
-||gtjschool.twilightparadox.com^
 ||ifyournotfirstyourlast.twilightparadox.com^
 ||iliasbetweaking.twilightparadox.com^
 ||ismaelsstinkytimmytufknuckles.twilightparadox.com^
@@ -6338,7 +6310,6 @@
 ||mathgeometryalgebralearning.twilightparadox.com^
 ||mathstudyhub.twilightparadox.com^
 ||mathstudysplunger.twilightparadox.com^
-||maybe7667.twilightparadox.com^
 ||meowkittehmeew.twilightparadox.com^
 ||noahiscool.twilightparadox.com^
 ||samual.twilightparadox.com^
@@ -14624,7 +14595,6 @@
 ||starvpnapp.com^
 ||starwayvpn.com^
 ||statemindpath.com^
-||statetestingstudies.com^
 ||staticnetcontent.com^
 ||staticrush.com^
 ||staticstream.org^
@@ -14690,7 +14660,6 @@
 ||stunnel.cc^
 ||stunnelvpn.id^
 ||stupidproxy.com^
-||stupidstow.xyz^
 ||su89-cdn.net^
 ||suazwlmz.com^
 ||subclsnet.com^
@@ -14929,7 +14898,6 @@
 ||thisthingrighthere.store^
 ||threeproxy.net^
 ||thriftychoice.space^
-||thrxdqtm.com^
 ||thunder-vpn.help^
 ||thundervpnwin.com^
 ||thxvv.ru^
@@ -15003,7 +14971,6 @@
 ||tois.tech^
 ||tokvpn.help^
 ||tolveno.ru^
-||tommattinglyda.site^
 ||tonvpn.com^
 ||toolara.net^
 ||toolcio.com^
@@ -15070,7 +15037,6 @@
 ||tproxy.mom^
 ||tproxy.monster^
 ||tproxyru.live^
-||tq8izzzrqtktkdoarptl3u.online^
 ||tqqzrbjd.com^
 ||tqwrf6t2g.space^
 ||tradeadspace.info^
@@ -15136,7 +15102,6 @@
 ||tubeprox.com^
 ||tubeunblock.me^
 ||tubevpn.help^
-||tui5515.site^
 ||tujdixrq.com^
 ||tujenasnaszato.xyz^
 ||tukinos.ru^
@@ -16232,6 +16197,7 @@
 ||wycloudjs.com^
 ||wyrhub.xyz^
 ||wyx.cloud^
+||wzqy.shop^
 ||x-cdn-static.com^
 ||x-lets-vpn.com^
 ||x-smm.com^

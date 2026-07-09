@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jul 2026 06:40 UTC
-# Version: 2026.0708.0640.07
+# Last modified: 09 Jul 2026 06:39 UTC
+# Version: 2026.0709.0639.40
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2315
+# Number of entries: 2318
 #
 1-aclk.net
 1aurl.io
@@ -408,6 +408,7 @@ seu2.cleverreach.com
 166879.seu2.cleverreach.com
 170289.seu2.cleverreach.com
 172320.seu2.cleverreach.com
+172351.seu2.cleverreach.com
 174192.seu2.cleverreach.com
 176292.seu2.cleverreach.com
 177168.seu2.cleverreach.com
@@ -579,6 +580,7 @@ seu2.cleverreach.com
 382058.seu2.cleverreach.com
 382064.seu2.cleverreach.com
 385761.seu2.cleverreach.com
+387284.seu2.cleverreach.com
 393609.seu2.cleverreach.com
 393666.seu2.cleverreach.com
 394092.seu2.cleverreach.com
@@ -613,6 +615,7 @@ seu2.cleverreach.com
 451645.seu2.cleverreach.com
 92140.seu2.cleverreach.com
 94641.seu2.cleverreach.com
+95253.seu2.cleverreach.com
 97054.seu2.cleverreach.com
 click-trk.com
 clickcease.com
@@ -756,6 +759,7 @@ open.convertkit-mail.com
 2e9869a7.open.convertkit-mail.com
 37fdfba9.open.convertkit-mail.com
 4d40e5c7.open.convertkit-mail.com
+5f4bc1ac.open.convertkit-mail.com
 86db75f9.open.convertkit-mail.com
 9dff4e9a.open.convertkit-mail.com
 af5d45b9.open.convertkit-mail.com
@@ -864,7 +868,6 @@ bc25b130.open.convertkit-mail4.com
 be02e1ee.open.convertkit-mail4.com
 bfe50086.open.convertkit-mail4.com
 c2368d3d.open.convertkit-mail4.com
-c4d2e6d6.open.convertkit-mail4.com
 c7d830ed.open.convertkit-mail4.com
 cbc7e342.open.convertkit-mail4.com
 d41e12b1.open.convertkit-mail4.com
@@ -936,6 +939,7 @@ m-szy.custobar.com
 m-tcg.custobar.com
 m-tfe.custobar.com
 m-tmsif.custobar.com
+m-tp3tv.custobar.com
 m-ueuba.custobar.com
 m-va.custobar.com
 m-vek.custobar.com
@@ -1051,7 +1055,6 @@ suite3-cf.emarsys.net
 suite30.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
-suite32.emarsys.net
 suite33.emarsys.net
 suite33-cf.emarsys.net
 suite34.emarsys.net
@@ -1126,7 +1129,6 @@ mc.s10.exacttarget.com
 members.s10.exacttarget.com
 pub.s10.exacttarget.com
 virt.s10.exacttarget.com
-click.virt.s10.exacttarget.com
 s11.exacttarget.com
 bounce.s11.exacttarget.com
 mc.s11.exacttarget.com
@@ -1303,7 +1305,6 @@ homesrvcs.com
 go.hotmart.com
 click.instantink.hpsmart.com
 href.li
-sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139786927.sites.hscoscdn-eu1.net
 139808002.sites.hscoscdn-eu1.net
@@ -1336,6 +1337,7 @@ sites.hscoscdn-eu1.net
 26050820.sites.hscoscdn-eu1.net
 26142091.sites.hscoscdn-eu1.net
 26329120.sites.hscoscdn-eu1.net
+26492205.sites.hscoscdn-eu1.net
 26544488.sites.hscoscdn-eu1.net
 26556211.sites.hscoscdn-eu1.net
 26560911.sites.hscoscdn-eu1.net
@@ -1613,7 +1615,6 @@ mkto-ab130037.com
 mkto-ab130188.com
 mkto-ab140048.com
 mkto-ab150013.com
-mkto-ab150224.com
 mkto-ab170094.com
 mkto-ab170123.com
 mkto-ab170161.com
@@ -1625,6 +1626,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -1696,6 +1698,7 @@ mkto-ab630042.com
 mkto-ab640171.com
 mkto-ab650097.com
 mkto-ab650172.com
+mkto-ab650200.com
 mkto-ab660121.com
 mkto-ab660168.com
 mkto-ab680016.com
