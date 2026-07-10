@@ -29,6 +29,20 @@
       }
     },
     {
+      "PK": "ad-drcn.media.dbankcloud.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-drcn.media.dbankcloud.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads.cloud.huawei.com",
       "action": {
         "do": 0,

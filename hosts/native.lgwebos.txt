@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 18:18 UTC
-# Version: 2026.0709.1818.53
+# Last modified: 10 Jul 2026 18:11 UTC
+# Version: 2026.0710.1811.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1693
+# Number of entries: 1690
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 ad-inserter.alphonso.tv
@@ -297,10 +297,6 @@
 0.0.0.0 krishnaw261.alphonso.tv
 0.0.0.0 krishnaw262.alphonso.tv
 0.0.0.0 krishnaw263.alphonso.tv
-0.0.0.0 krishnaw264.alphonso.tv
-0.0.0.0 krishnaw265.alphonso.tv
-0.0.0.0 krishnaw266.alphonso.tv
-0.0.0.0 krishnaw267.alphonso.tv
 0.0.0.0 krishnaw268.alphonso.tv
 0.0.0.0 krishnaw270.alphonso.tv
 0.0.0.0 krishnaw271.alphonso.tv
@@ -402,7 +398,6 @@
 0.0.0.0 krishnaw374.alphonso.tv
 0.0.0.0 krishnaw375.alphonso.tv
 0.0.0.0 krishnaw377.alphonso.tv
-0.0.0.0 krishnaw378.alphonso.tv
 0.0.0.0 krishnaw380.alphonso.tv
 0.0.0.0 krishnaw381.alphonso.tv
 0.0.0.0 krishnaw382.alphonso.tv
@@ -446,6 +441,7 @@
 0.0.0.0 krishnaw441.alphonso.tv
 0.0.0.0 krishnaw445.alphonso.tv
 0.0.0.0 krishnaw446.alphonso.tv
+0.0.0.0 krishnaw447.alphonso.tv
 0.0.0.0 krishnaw448.alphonso.tv
 0.0.0.0 krishnaw449.alphonso.tv
 0.0.0.0 krishnaw450.alphonso.tv
@@ -476,6 +472,7 @@
 0.0.0.0 krishnaw477.alphonso.tv
 0.0.0.0 krishnaw478.alphonso.tv
 0.0.0.0 krishnaw481.alphonso.tv
+0.0.0.0 krishnaw482.alphonso.tv
 0.0.0.0 krishnaw484.alphonso.tv
 0.0.0.0 krishnaw485.alphonso.tv
 0.0.0.0 krishnaw486.alphonso.tv

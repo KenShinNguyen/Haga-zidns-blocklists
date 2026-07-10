@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jul 2026 06:59 UTC
-! Version: 2026.0710.0659.36
+! Last modified: 10 Jul 2026 09:55 UTC
+! Version: 2026.0710.0955.55
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -9188,6 +9188,7 @@
 @@||vid4u.net^
 @@||vidcy.co^
 @@||videopro.live^
+@@||vidmy.fun^
 @@||vidzsb.com^
 @@||view.page^
 @@||vig.fit^
@@ -9249,6 +9250,7 @@
 @@||vm88bet.org^
 @@||vms.bz^
 @@||vndr.tech^
+@@||vneq.de^
 @@||vnl.vn^
 @@||vnlink.top^
 @@||vns.im^

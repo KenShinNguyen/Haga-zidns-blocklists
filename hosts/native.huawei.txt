@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 07:40 UTC
-# Version: 2026.0710.0740.36
+# Last modified: 10 Jul 2026 18:08 UTC
+# Version: 2026.0710.1808.42
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 168
+# Number of entries: 170
 #
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
@@ -48,6 +48,8 @@
 0.0.0.0 logservice1.dbankcloud.com
 0.0.0.0 connect-dra.map.dbankcloud.com
 0.0.0.0 connect-dre.map.dbankcloud.com
+0.0.0.0 ad-drcn.media.dbankcloud.cn
+0.0.0.0 ad-drcn.media.dbankcloud.ru
 0.0.0.0 adx-dra.op.dbankcloud.com
 0.0.0.0 adx-drcn.op.dbankcloud.cn
 0.0.0.0 adx-dre.op.dbankcloud.com

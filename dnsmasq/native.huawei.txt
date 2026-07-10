@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 07:40 UTC
-# Version: 2026.0710.0740.36
+# Last modified: 10 Jul 2026 18:08 UTC
+# Version: 2026.0710.1808.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 133
+# Number of entries: 135
 #
 local=/browsercfg-drcn.cloud.dbankcloud.cn/
 local=/ubacollect-drcn.cloud.dbankcloud.cn/
@@ -32,6 +32,8 @@ local=/connect-drru.hispace.dbankcloud.cn/
 local=/connect-drru.hispace.dbankcloud.ru/
 local=/connect-dra.map.dbankcloud.com/
 local=/connect-dre.map.dbankcloud.com/
+local=/ad-drcn.media.dbankcloud.cn/
+local=/ad-drcn.media.dbankcloud.ru/
 local=/adx-dra.op.dbankcloud.com/
 local=/adx-drcn.op.dbankcloud.cn/
 local=/adx-dre.op.dbankcloud.com/

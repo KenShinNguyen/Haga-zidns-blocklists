@@ -7938,6 +7938,13 @@
       }
     },
     {
+      "PK": "tivio.studio",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.tk",
       "action": {
         "do": 0,

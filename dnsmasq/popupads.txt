@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 06:55 UTC
-# Version: 2026.0710.0655.09
+# Last modified: 10 Jul 2026 17:45 UTC
+# Version: 2026.0710.1745.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55391
+# Number of entries: 55395
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -8896,6 +8896,7 @@ local=/aboutzz.xyz/
 local=/abouzar.ir/
 local=/aboveaveragefinallycast.com/
 local=/aboveaverageheavenly.com/
+local=/aboveboardcomplicate.com/
 local=/abovechat.com/
 local=/aboveredirect.top/
 local=/abozentrale.com/
@@ -19201,7 +19202,6 @@ local=/deefainophoamy.net/
 local=/deefauph.com/
 local=/deegraun.com/
 local=/deehalig.net/
-local=/deehatoa.net/
 local=/deemattendingbakery.com/
 local=/deemfortune.com/
 local=/deencourier.biz/
@@ -23847,6 +23847,7 @@ local=/fluentlyfeminineenfold.com/
 local=/fluentropeinquiry.com/
 local=/fluese.com/
 local=/fluffy-host.com/
+local=/fluffy-reveal.pro/
 local=/fluffyaltarrecords.com/
 local=/fluffyinfection.com/
 local=/fluffysavings.pro/
@@ -29585,6 +29586,7 @@ local=/ironclad-temperature.pro/
 local=/ironhorseautogroup.com/
 local=/irqkfyeoyiac.com/
 local=/irradiatestartle.com/
+local=/irregularcelebrateblazing.com/
 local=/irreproachableradio.com/
 local=/irresponsibleexit.pro/
 local=/irresponsiblevalve.com/
@@ -33314,6 +33316,7 @@ local=/lumbering-rule.pro/
 local=/lumberinganger.pro/
 local=/lumberingpeople.pro/
 local=/lumberingweek.com/
+local=/lumennix.xyz/
 local=/luminantadvisors.com/
 local=/luminosoocchio.com/
 local=/luminous-dark.pro/
@@ -37219,7 +37222,6 @@ local=/oassimpi.net/
 local=/oastauptee.net/
 local=/oastoamox.com/
 local=/oastoarsooso.com/
-local=/oatchaudu.net/
 local=/oatchoagnoud.com/
 local=/oatearperse.com/
 local=/oathannually.com/
@@ -37760,6 +37762,7 @@ local=/omg10.com/
 local=/omg2.com/
 local=/omgaxscrdsa.com/
 local=/omgcoool.com/
+local=/omgexplolts.com/
 local=/omgnature.com/
 local=/omgpm.com/
 local=/omgranbulltor.com/
@@ -45310,6 +45313,7 @@ local=/shrill-hell.pro/
 local=/shrillbighearted.com/
 local=/shrillprofit.com/
 local=/shrimpinvestigation.com/
+local=/shrinkgrocerymagical.com/
 local=/shrugartisticelder.com/
 local=/shticksyahuna.com/
 local=/shticky.net/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 06:57 UTC
-# Version: 2026.0710.0657.23
+# Last modified: 10 Jul 2026 18:16 UTC
+# Version: 2026.0710.1816.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16454
+# Number of entries: 16458
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -3970,6 +3970,7 @@ local=/depierone.com/
 local=/depixeli-k-losolarum-tapixela.club/
 local=/deplacer.com/
 local=/depotkraft.com/
+local=/depotonlinestore.com/
 local=/depotsnow.com/
 local=/depoz.company/
 local=/der-einblick.de/
@@ -4716,6 +4717,7 @@ local=/ellicas.de/
 local=/ellinika-farmakeio.com/
 local=/ellisaluna-handel24.de/
 local=/elnaturalistadeutschland.de/
+local=/eloneohome.shop/
 local=/eloquentik.de/
 local=/elsas-schmuckatelier.com/
 local=/elsopia.com/
@@ -6923,6 +6925,7 @@ local=/heiser-handel.de/
 local=/heiz-oel24.com/
 local=/heiz-oel24.net/
 local=/heiz-oil.de/
+local=/heiz-partner24.de/
 local=/heiz-pellets24.com/
 local=/heiz-smart.de/
 local=/heiz-traum.com/
@@ -16041,6 +16044,7 @@ local=/winterjacken-saleshop.com/
 local=/winterkraft.de/
 local=/wintopia-online.de/
 local=/wirbelsanft.com/
+local=/wisdom-heimbedarf.com/
 local=/wisdomandprudence.net/
 local=/wise-banque.com/
 local=/wise-guys-consulting.de/

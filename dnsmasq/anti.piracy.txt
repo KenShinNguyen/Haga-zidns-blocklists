@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 07:59 UTC
-# Version: 2026.0710.0759.01
+# Last modified: 10 Jul 2026 14:42 UTC
+# Version: 2026.0710.1442.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 32791
+# Number of entries: 32799
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -11173,6 +11173,7 @@ local=/konstantiin-lordfilm.ru/
 local=/konstantin-lordfilm.ru/
 local=/konstantin-lordfilms.ru/
 local=/konstantinopol-serial-lordfilm.ru/
+local=/kooora-city.com/
 local=/koora-live.io/
 local=/koora-yallashoot.live/
 local=/koora365.io/
@@ -11315,6 +11316,7 @@ local=/landmann-lordfilm.ru/
 local=/landyshi-lordfilm.ru/
 local=/laola1.tv/
 local=/lapak21.com/
+local=/lapakstreaming.live/
 local=/lapakstreaming.store/
 local=/lapochkaa-lordfilm.ru/
 local=/lapochkka-lordfilm.ru/
@@ -11588,6 +11590,7 @@ local=/litaapks.com/
 local=/liteapks.com/
 local=/liteapks.mobi/
 local=/litemodapk.com/
+local=/live-football.tv/
 local=/live-kooora-tv.com/
 local=/live-kooora-tv.net/
 local=/live-nfl.stream/
@@ -11598,6 +11601,7 @@ local=/liveday2day.com/
 local=/livehd7i.live/
 local=/livekooora.online/
 local=/livekoora.io/
+local=/livekooraa.online/
 local=/liveon4.zip/
 local=/liveon5.zip/
 local=/liveonscore.tv/
@@ -11625,6 +11629,7 @@ local=/livetv814.me/
 local=/livetv815.me/
 local=/livetv886.me/
 local=/livextv.live/
+local=/livextv.pro/
 local=/livingtorrents.com/
 local=/livnet.xyz/
 local=/livrefilmeshd.net/
@@ -25916,6 +25921,7 @@ local=/qbittorrent.org/
 local=/qeseh3sk.com/
 local=/qimanhwa.com/
 local=/qiq.ws/
+local=/qlzww.cc/
 local=/qmovies.net/
 local=/qoob.name/
 local=/qqdl.site/
@@ -26649,6 +26655,7 @@ local=/serial4download.com/
 local=/serialbay.com/
 local=/serialcoded.com/
 local=/serialfan.com/
+local=/serialflix.online/
 local=/serialgo.tv/
 local=/serialheaven.com/
 local=/serialkeys.info/
@@ -29295,7 +29302,6 @@ local=/tjma-lordfilms.ru/
 local=/tjrksciow.pro/
 local=/tlgetin.cc/
 local=/tlt-torrent.ru/
-local=/tma-lordfilm.hair/
 local=/tma-serial-lordfilm.ru/
 local=/tmaxapp.site/
 local=/tmovierulz.com/
@@ -31909,6 +31915,7 @@ local=/winitpro.ru/
 local=/winneritbd.com/
 local=/winning2day.com/
 local=/winobraz.net/
+local=/winsgoal.live/
 local=/wintorr.com/
 local=/wintorrents.ru/
 local=/wipfiles.net/
@@ -32377,6 +32384,7 @@ local=/yomoviesz.xyz/
 local=/yoouu-lordfilms.ru/
 local=/yosuga-no-sora-lordfilm.ru/
 local=/yotoshi.com/
+local=/youcineversoes.com/
 local=/youflixmovies.xyz/
 local=/youhaveavirus.com/
 local=/youmoviz.tv/

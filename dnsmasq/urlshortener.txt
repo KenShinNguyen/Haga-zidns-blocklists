@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 06:59 UTC
-# Version: 2026.0710.0659.36
+# Last modified: 10 Jul 2026 09:55 UTC
+# Version: 2026.0710.0955.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9905
+# Number of entries: 9907
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -9196,6 +9196,7 @@ local=/vid.lu/
 local=/vid4u.net/
 local=/vidcy.co/
 local=/videopro.live/
+local=/vidmy.fun/
 local=/vidzsb.com/
 local=/view.page/
 local=/vig.fit/
@@ -9257,6 +9258,7 @@ local=/vlug.link/
 local=/vm88bet.org/
 local=/vms.bz/
 local=/vndr.tech/
+local=/vneq.de/
 local=/vnl.vn/
 local=/vnlink.top/
 local=/vns.im/
