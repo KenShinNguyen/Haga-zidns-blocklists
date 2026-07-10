@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 18:05 UTC
-# Version: 2026.0709.1805.04
+# Last modified: 10 Jul 2026 08:05 UTC
+# Version: 2026.0710.0805.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3839
+# Number of entries: 3837
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -458,6 +458,7 @@
 0.0.0.0 dns.bermeitinger.eu
 0.0.0.0 domburg.beruys.com
 0.0.0.0 bestwon203.com
+0.0.0.0 dns.bezmezhau.com
 0.0.0.0 dns.bgeneto.com
 0.0.0.0 dns.bibica.net
 0.0.0.0 dns.bibitos.cc
@@ -1270,7 +1271,6 @@
 0.0.0.0 dnspod.com
 0.0.0.0 dnssilo.top
 0.0.0.0 dns.dnssilo.top
-0.0.0.0 bilidon.dnsuser.info
 0.0.0.0 ns.dnsviewer.org
 0.0.0.0 adblock-dot.dnswarden.com
 0.0.0.0 adult-filter-dot.dnswarden.com
@@ -3696,7 +3696,6 @@
 0.0.0.0 www.wiqi.top
 0.0.0.0 adguard.wirimij.nl
 0.0.0.0 dns3.wistarip.com
-0.0.0.0 fi.wjcload.tech
 0.0.0.0 vserv.wkind.de
 0.0.0.0 dns.wns.watch
 0.0.0.0 dnsbk.wns.watch
@@ -3791,7 +3790,6 @@
 0.0.0.0 guard.yps.tw
 0.0.0.0 ys4.de
 0.0.0.0 dus.ysbs.uk
-0.0.0.0 doh.yspv.ru
 0.0.0.0 dns.ytpom.ru
 0.0.0.0 dns2.ytpom.ru
 0.0.0.0 dns.yu.dev

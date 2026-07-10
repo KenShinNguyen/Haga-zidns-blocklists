@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 09:27 UTC
-# Version: 2026.0706.0927.13
+# Last modified: 10 Jul 2026 07:40 UTC
+# Version: 2026.0710.0740.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 167
+# Number of entries: 168
 #
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
@@ -161,6 +161,7 @@
 0.0.0.0 tracking-data-drru.platform.hihonorcloud.com
 0.0.0.0 ads.cloud.huawei.com
 0.0.0.0 ads-drru.cloud.huawei.ru
+0.0.0.0 nebula-collector.huawei.com
 0.0.0.0 rnd-cbgpas01.huawei.com
 0.0.0.0 uba.huaweicloud.com
 0.0.0.0 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 18:05 UTC
-# Version: 2026.0709.1805.04
+# Last modified: 10 Jul 2026 08:05 UTC
+# Version: 2026.0710.0805.37
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3839
+# Number of entries: 3837
 #
 ss.0001.xyz
 003153.xyz
@@ -458,6 +458,7 @@ berd.moe
 dns.bermeitinger.eu
 domburg.beruys.com
 bestwon203.com
+dns.bezmezhau.com
 dns.bgeneto.com
 dns.bibica.net
 dns.bibitos.cc
@@ -1270,7 +1271,6 @@ seoul.dnsovertor.cc
 dnspod.com
 dnssilo.top
 dns.dnssilo.top
-bilidon.dnsuser.info
 ns.dnsviewer.org
 adblock-dot.dnswarden.com
 adult-filter-dot.dnswarden.com
@@ -3696,7 +3696,6 @@ ad.wiqi.app
 www.wiqi.top
 adguard.wirimij.nl
 dns3.wistarip.com
-fi.wjcload.tech
 vserv.wkind.de
 dns.wns.watch
 dnsbk.wns.watch
@@ -3791,7 +3790,6 @@ yovbak.com
 guard.yps.tw
 ys4.de
 dus.ysbs.uk
-doh.yspv.ru
 dns.ytpom.ru
 dns2.ytpom.ru
 dns.yu.dev

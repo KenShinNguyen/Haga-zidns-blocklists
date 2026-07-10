@@ -806,6 +806,13 @@
       }
     },
     {
+      "PK": "nebula-collector.huawei.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru",
       "action": {
         "do": 0,

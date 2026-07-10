@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jul 2026 17:52 UTC
-# Version: 2026.0708.1752.08
+# Last modified: 10 Jul 2026 07:34 UTC
+# Version: 2026.0710.0734.51
 # Syntax: Domains (without subdomains)
-# Number of entries: 579
+# Number of entries: 580
 #
 analytics.us.tiktok.com.bytedance.akadns.net
 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
@@ -234,6 +234,7 @@ mssdk-i18n.tiktok.com
 mssdk-quic-sg.tiktok.com
 mssdk-sg.tiktok.com
 mssdk-va.tiktok.com
+ad-union-i18n-api.tos-sg.tiktok-row.org
 mcs.tiktok-row.net
 p16-tiktok-ads-sg.tiktokcdn.com
 sf16-ads-format-sign.tiktokcdn.com

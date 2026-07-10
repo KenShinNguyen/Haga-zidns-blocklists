@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 18:05 UTC
-# Version: 2026.0709.1805.04
+# Last modified: 10 Jul 2026 08:05 UTC
+# Version: 2026.0710.0805.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3404
+# Number of entries: 3402
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -312,6 +312,7 @@ local=/dns.belnet.be/
 local=/adblock.benmeyer.net/
 local=/dns.bermeitinger.eu/
 local=/domburg.beruys.com/
+local=/dns.bezmezhau.com/
 local=/dns.bgeneto.com/
 local=/dns.bibica.net/
 local=/dns.bibitos.cc/
@@ -939,7 +940,6 @@ local=/adguard2.dnsovertor.cc/
 local=/chuncheon.dnsovertor.cc/
 local=/japan.dnsovertor.cc/
 local=/seoul.dnsovertor.cc/
-local=/bilidon.dnsuser.info/
 local=/ns.dnsviewer.org/
 local=/doh.asia.dnswarden.com/
 local=/doh.eu.dnswarden.com/
@@ -2810,7 +2810,6 @@ local=/dns.wincservices.com/
 local=/tls.windyvale.net/
 local=/adguard.wirimij.nl/
 local=/dns3.wistarip.com/
-local=/fi.wjcload.tech/
 local=/vserv.wkind.de/
 local=/dns.wns.watch/
 local=/dnsbk.wns.watch/
@@ -2877,7 +2876,6 @@ local=/adguard.youler.com/
 local=/dns.youni.win/
 local=/guard.yps.tw/
 local=/dus.ysbs.uk/
-local=/doh.yspv.ru/
 local=/dns.ytpom.ru/
 local=/dns2.ytpom.ru/
 local=/dns.yu.dev/

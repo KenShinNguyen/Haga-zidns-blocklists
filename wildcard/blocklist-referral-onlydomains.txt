@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 06:39 UTC
-# Version: 2026.0709.0639.40
+# Last modified: 10 Jul 2026 06:43 UTC
+# Version: 2026.0710.0643.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 1543
+# Number of entries: 1545
 #
 l.1mp.ru
 links.2ns.fi
@@ -279,6 +279,7 @@ m-pwvgh.custobar.com
 m-qrl63.custobar.com
 m-rst.custobar.com
 m-s6iau.custobar.com
+m-sdcm5.custobar.com
 m-sgd5h.custobar.com
 m-she3s.custobar.com
 m-so.custobar.com
@@ -382,11 +383,13 @@ suite3-cf.emarsys.net
 suite30.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
+suite32.emarsys.net
 suite33.emarsys.net
 suite33-cf.emarsys.net
 suite34.emarsys.net
 suite35-cf.emarsys.net
 suite36.emarsys.net
+suite36-cdnnet.emarsys.net
 suite37.emarsys.net
 suite38.emarsys.net
 suite4.emarsys.net
@@ -1214,6 +1217,7 @@ mkto-ab130037.com
 mkto-ab130188.com
 mkto-ab140048.com
 mkto-ab150013.com
+mkto-ab150224.com
 mkto-ab170094.com
 mkto-ab170123.com
 mkto-ab170161.com
@@ -1272,7 +1276,6 @@ mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
-mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540143.com
@@ -1297,7 +1300,6 @@ mkto-ab630042.com
 mkto-ab640171.com
 mkto-ab650097.com
 mkto-ab650172.com
-mkto-ab650200.com
 mkto-ab660121.com
 mkto-ab660168.com
 mkto-ab680016.com

@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 18:06 UTC
-# Version: 2026.0709.1806.57
+# Last modified: 10 Jul 2026 06:59 UTC
+# Version: 2026.0710.0659.36
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 9905
 #
@@ -1391,6 +1391,7 @@
 *.adbaw.com
 *.adbl.co
 *.adbly.co
+*.adcryp.to
 *.add.lat
 *.add-l.ink
 *.add2wallet.link
@@ -9717,7 +9718,6 @@
 *.yoretube.net
 *.yorkpa.homes
 *.yorl.io
-*.yorl.to
 *.yors.io
 *.yorurl.com
 *.yotpoclicks.com

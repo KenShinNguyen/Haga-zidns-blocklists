@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jul 2026 18:06 UTC
-# Version: 2026.0709.1806.57
+# Last modified: 10 Jul 2026 06:59 UTC
+# Version: 2026.0710.0659.36
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 9905
 #
@@ -1391,6 +1391,7 @@ local=/adaymag.co/
 local=/adbaw.com/
 local=/adbl.co/
 local=/adbly.co/
+local=/adcryp.to/
 local=/add.lat/
 local=/add-l.ink/
 local=/add2wallet.link/
@@ -9717,7 +9718,6 @@ local=/yoox.ly/
 local=/yoretube.net/
 local=/yorkpa.homes/
 local=/yorl.io/
-local=/yorl.to/
 local=/yors.io/
 local=/yorurl.com/
 local=/yotpoclicks.com/
