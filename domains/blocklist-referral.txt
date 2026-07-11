@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 06:43 UTC
-# Version: 2026.0710.0643.54
+# Last modified: 11 Jul 2026 06:43 UTC
+# Version: 2026.0711.0643.48
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2327
+# Number of entries: 2324
 #
 1-aclk.net
 1aurl.io
@@ -401,6 +401,7 @@ seu2.cleverreach.com
 160196.seu2.cleverreach.com
 160544.seu2.cleverreach.com
 160787.seu2.cleverreach.com
+161379.seu2.cleverreach.com
 161683.seu2.cleverreach.com
 163450.seu2.cleverreach.com
 164394.seu2.cleverreach.com
@@ -850,6 +851,7 @@ open.convertkit-mail4.com
 28d3c607.open.convertkit-mail4.com
 3c5984bd.open.convertkit-mail4.com
 51ce15f1.open.convertkit-mail4.com
+5952b853.open.convertkit-mail4.com
 59b90e10.open.convertkit-mail4.com
 5e38c6c1.open.convertkit-mail4.com
 61475545.open.convertkit-mail4.com
@@ -1146,12 +1148,10 @@ bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
 members.s12.exacttarget.com
-virt.s12.exacttarget.com
 s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
-members.s13.exacttarget.com
 s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
@@ -1166,6 +1166,7 @@ click.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
 members.s50.exacttarget.com
+reply.s50.exacttarget.com
 click.virt.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
@@ -1178,7 +1179,6 @@ members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
 view.s6.exacttarget.com
-virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
@@ -1204,7 +1204,6 @@ fis-iittala-cdn.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
-neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
@@ -1356,6 +1355,7 @@ sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
 27212211.sites.hscoscdn-eu1.net
 27227061.sites.hscoscdn-eu1.net
+4011266.sites.hscoscdn-eu1.net
 4059422.sites.hscoscdn-eu1.net
 5137768.sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
@@ -1592,7 +1592,6 @@ track.mfilter.net
 micpn.com
 email.microsoft.com
 bounce4.email.microsoft.com
-bounce5.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
@@ -1625,7 +1624,6 @@ mkto-ab130037.com
 mkto-ab130188.com
 mkto-ab140048.com
 mkto-ab150013.com
-mkto-ab150224.com
 mkto-ab170094.com
 mkto-ab170123.com
 mkto-ab170161.com
@@ -1637,7 +1635,6 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
-mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com

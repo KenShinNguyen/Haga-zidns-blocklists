@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 17:45 UTC
-# Version: 2026.0710.1745.29
+# Last modified: 11 Jul 2026 06:55 UTC
+# Version: 2026.0711.0655.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55395
+# Number of entries: 55398
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -404,6 +404,9 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
+local=/chiyouranai.base.shop/
+local=/tokujiro.base.shop/
+local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -12995,7 +12998,6 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
-local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -29586,7 +29588,6 @@ local=/ironclad-temperature.pro/
 local=/ironhorseautogroup.com/
 local=/irqkfyeoyiac.com/
 local=/irradiatestartle.com/
-local=/irregularcelebrateblazing.com/
 local=/irreproachableradio.com/
 local=/irresponsibleexit.pro/
 local=/irresponsiblevalve.com/
@@ -40731,6 +40732,7 @@ local=/pristineresolution.pro/
 local=/privacycounter.com/
 local=/privacysearching.com/
 local=/privage.club/
+local=/private-attempt.pro/
 local=/private-hide.com/
 local=/private-individual.pro/
 local=/private-stage.com/
@@ -46508,6 +46510,7 @@ local=/sprdsefnyn.com/
 local=/spreadingglitchland.com/
 local=/spreadingsinew.com/
 local=/spreadtrade.com/
+local=/spreedstk.cyou/
 local=/springfieldpapers.com/
 local=/springify.io/
 local=/springsister.com/
@@ -51554,6 +51557,7 @@ local=/visibleship.pro/
 local=/vision123.cn/
 local=/visit-website.com/
 local=/visitationhardship.com/
+local=/visitationowatch.com/
 local=/visitbukittinggi.com/
 local=/visitingmargaretantony.com/
 local=/visitingthirdnine.com/
@@ -53124,7 +53128,6 @@ local=/wordtradeflank.com/
 local=/wordy-model.pro/
 local=/worgzcdfgkyff.space/
 local=/woriusly.com/
-local=/work.gd/
 local=/work-from-home-writing-jobs.com/
 local=/workback.net/
 local=/workcahoots.com/
