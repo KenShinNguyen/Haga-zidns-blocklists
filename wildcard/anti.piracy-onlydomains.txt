@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 08:01 UTC
-# Version: 2026.0711.0801.42
+# Last modified: 11 Jul 2026 11:12 UTC
+# Version: 2026.0711.1112.21
 # Syntax: Domains (without subdomains)
-# Number of entries: 32982
+# Number of entries: 32980
 #
 blink-stresser.000webhostapp.com
 ddos-ovh-v6.000webhostapp.com
@@ -29851,7 +29851,6 @@ torrentfarm.com
 torrentfeed.xyz
 torrentfile.net
 torrentfilmes.net
-torrentfilmesagora.net
 torrentfilmeshd.com
 torrentfilmindir.com
 torrentfive.com
@@ -30799,7 +30798,6 @@ unblockedgames1024.com
 unblockedgames66.info
 unblockedgames67.xyz
 unblockedgames6969.us
-unblockedgames6x.top
 unblockedgames6x.xyz
 unblockedgames76.biz
 unblockedgames76.website

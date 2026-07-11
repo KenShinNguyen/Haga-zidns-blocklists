@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 06:55 UTC
-# Version: 2026.0711.0655.47
+# Last modified: 11 Jul 2026 17:53 UTC
+# Version: 2026.0711.1753.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55398
+# Number of entries: 55405
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -14837,6 +14837,7 @@ local=/broweb1s.site/
 local=/brown-repair.pro/
 local=/brown-wake.pro/
 local=/browndifference.pro/
+local=/browniecharas.cyou/
 local=/brownyduer.com/
 local=/broworker4s.com/
 local=/broworker6s.com/
@@ -20482,6 +20483,7 @@ local=/downright-human.com/
 local=/downright-recording.pro/
 local=/downright-soup.com/
 local=/downright-training.pro/
+local=/downrightforever.pro/
 local=/downrightproctor.com/
 local=/downrightshepherdmodeling.com/
 local=/downstairsnegotiatebarren.com/
@@ -29588,6 +29590,7 @@ local=/ironclad-temperature.pro/
 local=/ironhorseautogroup.com/
 local=/irqkfyeoyiac.com/
 local=/irradiatestartle.com/
+local=/irregularcelebrateblazing.com/
 local=/irreproachableradio.com/
 local=/irresponsibleexit.pro/
 local=/irresponsiblevalve.com/
@@ -38068,6 +38071,7 @@ local=/openworldvibes.com/
 local=/openx.net/
 local=/openxenterprise.com/
 local=/openxmarket.asia/
+local=/operaherman.qpon/
 local=/operaserver.com/
 local=/operatepressedcaterer.com/
 local=/operatorexperienced.com/
@@ -42758,6 +42762,7 @@ local=/reedsbullyingpastel.com/
 local=/reedsinterfering.com/
 local=/reedthatm.biz/
 local=/reedunpack.com/
+local=/reefsetupaccidentally.com/
 local=/reegreekish.net/
 local=/reegroagri.net/
 local=/reeiarhshieg.com/
@@ -47005,6 +47010,7 @@ local=/stovingjewish.com/
 local=/stowbilateral.com/
 local=/stowers-service.com/
 local=/stowhiwhothu.com/
+local=/stowstabbed.cfd/
 local=/stpd.cloud/
 local=/stpetersbaybarbados.net/
 local=/stquality.org/
@@ -50699,6 +50705,7 @@ local=/urgedcollapse.com/
 local=/urgedmildly.com/
 local=/urgentlyrightypast.com/
 local=/urgerrebasis.com/
+local=/urgetrenchparchment.com/
 local=/urimnugocfr.com/
 local=/urineassertive.com/
 local=/urinegracefulfloating.com/

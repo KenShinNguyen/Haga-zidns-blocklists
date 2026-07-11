@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 08:01 UTC
-# Version: 2026.0711.0801.42
+# Last modified: 11 Jul 2026 11:12 UTC
+# Version: 2026.0711.1112.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 32982
+# Number of entries: 32980
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -29851,7 +29851,6 @@ local=/torrentfarm.com/
 local=/torrentfeed.xyz/
 local=/torrentfile.net/
 local=/torrentfilmes.net/
-local=/torrentfilmesagora.net/
 local=/torrentfilmeshd.com/
 local=/torrentfilmindir.com/
 local=/torrentfive.com/
@@ -30799,7 +30798,6 @@ local=/unblockedgames1024.com/
 local=/unblockedgames66.info/
 local=/unblockedgames67.xyz/
 local=/unblockedgames6969.us/
-local=/unblockedgames6x.top/
 local=/unblockedgames6x.xyz/
 local=/unblockedgames76.biz/
 local=/unblockedgames76.website/
