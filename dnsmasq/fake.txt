@@ -5,12 +5,11 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jul 2026 07:01 UTC
-# Version: 2026.0712.0701.09
+# Last modified: 12 Jul 2026 17:55 UTC
+# Version: 2026.0712.1755.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16478
+# Number of entries: 16475
 #
-local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
 local=/ai.55aiagents.com/
 local=/log.acces-btpanda.com/
@@ -704,14 +703,12 @@ local=/24builds.com/
 local=/24med.net/
 local=/24slots-online.de/
 local=/24trading.co/
-local=/24usefultoolsstore.com/
 local=/269-versand-kleinanzeigen.de/
 local=/2bgreen.at/
 local=/2f-kanzlei.com/
 local=/2smart4me.de/
 local=/2wheelshero.com/
 local=/303e.com/
-local=/360reinigungsmittel.com/
 local=/365-pharm.com/
 local=/365-pharm.net/
 local=/365careprime.com/

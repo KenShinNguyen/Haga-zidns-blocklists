@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jul 2026 08:02 UTC
-# Version: 2026.0712.0802.07
+# Last modified: 12 Jul 2026 11:06 UTC
+# Version: 2026.0712.1106.16
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 33393
 #
@@ -3038,6 +3038,7 @@ local=/animeglare.xyz/
 local=/animegojoo.com/
 local=/animegoo.life/
 local=/animehd47.com/
+local=/animehdzeroo.net/
 local=/animeheaven.ru/
 local=/animeholics.org/
 local=/animehub.ac/
@@ -22830,6 +22831,7 @@ local=/megakino1.watch/
 local=/megakino1.ws/
 local=/megakino1-co.com/
 local=/megakino1-co.cool/
+local=/megakino10.com/
 local=/megakino2.biz/
 local=/megakino2.com/
 local=/megakino2.net/
@@ -24039,7 +24041,6 @@ local=/multicanais.rehab/
 local=/multicanais.reisen/
 local=/multicanais.soccer/
 local=/multicanais.space/
-local=/multicanais.study/
 local=/multicanais.team/
 local=/multicanais.today/
 local=/multicanais.travel/
@@ -24615,7 +24616,6 @@ local=/netmirror.click/
 local=/netmirror.cyou/
 local=/netmirror.download/
 local=/netmirror.eu/
-local=/netmirror.fun/
 local=/netmirror.gg/
 local=/netmirror.global/
 local=/netmirror.lat/

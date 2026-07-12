@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jul 2026 06:58 UTC
-# Version: 2026.0712.0658.27
+# Last modified: 12 Jul 2026 17:53 UTC
+# Version: 2026.0712.1753.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55403
+# Number of entries: 55404
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -30,7 +30,6 @@ local=/a6f50f55d7.0fbee846c6.com/
 local=/yongliboxianshangyulecheng.12540.org/
 local=/297fdbc2f7.1426ab7568.com/
 local=/pykrsz.17yaoqi.cc/
-local=/176edb63a6.1a9d1ca12a.com/
 local=/3f17866695.1ac45b0913.com/
 local=/4ce83dd618.1c497d51f2.com/
 local=/lib-f6libtpovfl7jzihv76x3blk.1lib.at/
@@ -46,9 +45,11 @@ local=/dfb523f308.25e664eaff.com/
 local=/yueyeezuluntan.297000.com/
 local=/30bbe4fc47.2c8dd8f912.com/
 local=/1cbd637d10.2c8eb505eb.com/
+local=/6bcc158a9d.2f7f58d605.com/
 local=/bjl.2jiagong.com/
 local=/polufredsoa.2mydns.net/
 local=/35a92e241c.30ea3091fb.com/
+local=/eca1311030.3163ba76f7.com/
 local=/500wanjishibifen.333gw.com/
 local=/84029188ab.339f59c980.com/
 local=/dubofalvguiding.33xs.com/
@@ -57,7 +58,6 @@ local=/bf7a65c961.3632ca5b41.com/
 local=/test.365os.com/
 local=/b3c733588e.36dc612c23.com/
 local=/10f01c5188.36f822ca84.com/
-local=/9c2d7cdbd5.388826bd9d.com/
 local=/500wancaipiaowang123.38dz.com/
 local=/5e56217cd5.396d8aaa17.com/
 local=/3cd1290174.3d6a6c3707.com/
@@ -93,9 +93,9 @@ local=/z27ga2.5200e.com/
 local=/zh9prl.5200e.com/
 local=/demo.52koala.com/
 local=/6c062330ce.54653cc53d.com/
-local=/b141e5f455.5495d0c343.com/
 local=/9fa67c2dc3.54a73dbcb6.com/
 local=/pfwdca329.55477.com/
+local=/ddb8277edc.5608c7633c.com/
 local=/beta.5744.cc/
 local=/06b36b4508.5813e74b18.com/
 local=/1fe6b5ca5a.5ea748c035.com/
@@ -116,7 +116,6 @@ local=/71623c171a.70ee68b015.com/
 local=/cdn.710k.com/
 local=/88.718pk.com/
 local=/00cae06d30.720df8c8c9.com/
-local=/8b7ab78d6c.721474ff09.com/
 local=/wx.72seo.com/
 local=/plum.73cf.com/
 local=/a3f3edf924.7470c4cda5.com/
@@ -404,6 +403,9 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
+local=/chiyouranai.base.shop/
+local=/tokujiro.base.shop/
+local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -7410,7 +7412,6 @@ local=/2explore.com/
 local=/2f2d60b8b5.com/
 local=/2f3747e327.com/
 local=/2f44166f35.com/
-local=/2f7f58d605.com/
 local=/2fac37d3043958c40b070aa9e03761887235aae62f9a51e2caa649f9.com/
 local=/2fb8or7ai.de/
 local=/2ff08844f2.com/
@@ -7544,7 +7545,6 @@ local=/313444.com/
 local=/314gqd3es.de/
 local=/31577315.com/
 local=/315auto.com/
-local=/3163ba76f7.com/
 local=/316916.top/
 local=/316feq0nc.de/
 local=/317796hmh.de/
@@ -7789,6 +7789,7 @@ local=/400571.com/
 local=/400bonuscasino.com/
 local=/400bz.com/
 local=/400degrees.com/
+local=/401ingear.com/
 local=/401l.com/
 local=/404systemerror.com/
 local=/4058e46800.com/
@@ -8082,7 +8083,6 @@ local=/55idn.com/
 local=/55mo.com/
 local=/55sqz.com/
 local=/55tk.cc/
-local=/5608c7633c.com/
 local=/561649.com/
 local=/561890.com/
 local=/564a5a0rut08.top/
@@ -12995,7 +12995,6 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
-local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -15347,6 +15346,7 @@ local=/cabinetadmirationgloomily.com/
 local=/cabinetearly.com/
 local=/cabinetrunners.com/
 local=/cableharshlyilliterate.com/
+local=/cableinquisitive.com/
 local=/cableng.com/
 local=/cablepaddle.com/
 local=/cableseedpneumonia.com/
@@ -39090,6 +39090,7 @@ local=/pausauptoaglavo.net/
 local=/pausepots.com/
 local=/pausewonderful.com/
 local=/paushaunoosh.net/
+local=/pausingfaintly.com/
 local=/pausingrespectfully.com/
 local=/pausoawhais.com/
 local=/pavementprosplanning.net/

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Jul 2026 22:47 UTC
-! Version: 2026.0711.2247.03
+! Last modified: 12 Jul 2026 11:12 UTC
+! Version: 2026.0712.1112.53
 ! Syntax: AdBlock
-! Number of entries: 16677
+! Number of entries: 16676
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -2186,7 +2186,6 @@
 ||tromp.creographix.at^
 ||vcsa.creographix.at^
 ||adguard.crestfallen.de^
-||dns.criena.net^
 ||dns.itsec.crolla.net^
 ||fern.crosbreaker.dev^
 ||bx3.cdn.gh-pages.cryodome.com^
