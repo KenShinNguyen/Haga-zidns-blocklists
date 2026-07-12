@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 08:09 UTC
-# Version: 2026.0711.0809.09
+# Last modified: 11 Jul 2026 22:47 UTC
+# Version: 2026.0711.2247.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16676
+# Number of entries: 16677
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -2185,6 +2185,7 @@ local=/smartpn.creographix.at/
 local=/tromp.creographix.at/
 local=/vcsa.creographix.at/
 local=/adguard.crestfallen.de/
+local=/dns.criena.net/
 local=/dns.itsec.crolla.net/
 local=/fern.crosbreaker.dev/
 local=/bx3.cdn.gh-pages.cryodome.com/

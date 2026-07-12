@@ -5,19 +5,19 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 17:53 UTC
-# Version: 2026.0711.1753.44
+# Last modified: 12 Jul 2026 06:58 UTC
+# Version: 2026.0712.0658.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55405
+# Number of entries: 55403
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
 local=/0db65504c2.012dadaa06.com/
 local=/98.01ba.com/
-local=/52c98b42b0.02075cc3d5.com/
 local=/c8d9e11a82.031dcf857c.com/
 local=/c7ca525b2e.0491166852.com/
 local=/ccc354db8e.05cb34d5f9.com/
+local=/71ad083cf8.067f87da09.com/
 local=/42a95337ac.07a243cfe3.com/
 local=/bbcb71c053.0860c7aadf.com/
 local=/1f92a26341.0a57f6bbfd.com/
@@ -404,9 +404,6 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
-local=/chiyouranai.base.shop/
-local=/tokujiro.base.shop/
-local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -4699,7 +4696,6 @@ local=/0674.org/
 local=/0675.org/
 local=/067686.com/
 local=/06790.com/
-local=/067f87da09.com/
 local=/06802.com/
 local=/06805.com/
 local=/06814.com/
@@ -7863,6 +7859,7 @@ local=/4536e19398.com/
 local=/455t.com/
 local=/456345678.com/
 local=/4567qp.com/
+local=/456fluxara.com/
 local=/456mov.net/
 local=/456qn.com/
 local=/456thbombgroup.org/
@@ -12998,6 +12995,7 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
+local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -15453,6 +15451,7 @@ local=/callousremoval.com/
 local=/callvideo.com/
 local=/callyourdate.com/
 local=/callyourinformer.com/
+local=/calm-hell.pro/
 local=/calmbytedishwater.com/
 local=/calmcactus.com/
 local=/calmcloudstone.com/
@@ -29590,7 +29589,6 @@ local=/ironclad-temperature.pro/
 local=/ironhorseautogroup.com/
 local=/irqkfyeoyiac.com/
 local=/irradiatestartle.com/
-local=/irregularcelebrateblazing.com/
 local=/irreproachableradio.com/
 local=/irresponsibleexit.pro/
 local=/irresponsiblevalve.com/
@@ -44012,7 +44010,6 @@ local=/rvktnbklgp.com/
 local=/rvlcabsakhoog.space/
 local=/rvluxury.com/
 local=/rvnewstoday.com/
-local=/rvrpushserv.com/
 local=/rvsiidddallwz.online/
 local=/rvukbeuexr.com/
 local=/rvvumafotor.com/
@@ -52058,6 +52055,7 @@ local=/wahtotten.com/
 local=/waichoumo.net/
 local=/waigaumaphips.net/
 local=/wailinghassle.com/
+local=/wainfuljain.com/
 local=/wairingcheney.com/
 local=/wairong.com/
 local=/waisheph.com/

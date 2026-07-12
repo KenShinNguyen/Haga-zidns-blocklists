@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 17:55 UTC
-# Version: 2026.0711.1755.50
+# Last modified: 12 Jul 2026 07:01 UTC
+# Version: 2026.0712.0701.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16485
+# Number of entries: 16478
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -1982,7 +1982,6 @@ local=/bdscoffee.com/
 local=/be-aetlcnshop.com/
 local=/beaccustomed.com/
 local=/beachitem.com/
-local=/beachwalkbali.com/
 local=/beambead.com/
 local=/beamdeals.de/
 local=/beatricesavoy.de/
@@ -2477,7 +2476,6 @@ local=/bjmining.com/
 local=/bkaffee.de/
 local=/bl-heizoel.de/
 local=/black-shepp-gastroservice.com/
-local=/blackfridaymegastore.com/
 local=/blackgurlzsmagickloset.com/
 local=/blacktridentpop.shop/
 local=/bladebasics.com/
@@ -3446,7 +3444,6 @@ local=/containerslager.com/
 local=/containersparks.com/
 local=/containerwelt24.com/
 local=/containerworldapp.com/
-local=/conteneursducoin.com/
 local=/contiflexv.com/
 local=/controllerkunst.com/
 local=/convergek.com/
@@ -4401,7 +4398,6 @@ local=/dutut.com/
 local=/dutztechh.shop/
 local=/duzeces.com/
 local=/dvdsblurays.com/
-local=/dvepare.com/
 local=/dw-energieholz.de/
 local=/dwelldome.com/
 local=/dwellglory.com/
@@ -7404,7 +7400,6 @@ local=/hotelladen.com/
 local=/hotels-colombo.com/
 local=/hotels-inform4281.com/
 local=/hotelsinperm.ru/
-local=/hotelsinvienna.org/
 local=/hotelsofmenorca.com/
 local=/hotelwareus.com/
 local=/hotelwhales.com/
@@ -8168,7 +8163,6 @@ local=/kamagra-original.sk/
 local=/kamagra-premium.net/
 local=/kamagra-pro.com/
 local=/kamagra-pro.net/
-local=/kamagra-pro.online/
 local=/kamagra-prodej.cz/
 local=/kamagra-prodej.online/
 local=/kamagra-prodej-online.eu/
@@ -11283,7 +11277,6 @@ local=/orcliacare.com/
 local=/orderbuycheap.com/
 local=/ordergunmagazinesonline.com/
 local=/ordernow24.de/
-local=/orderrxstore.com/
 local=/ordersurfsite.com/
 local=/orderumbrella.com/
 local=/ordinarlim.com/
@@ -13611,7 +13604,6 @@ local=/sofortfinanz.com/
 local=/sofotron.de/
 local=/soft-handel.de/
 local=/softdays-shop.de/
-local=/softelektro.com/
 local=/softritualsco.shop/
 local=/software-onsale.com/
 local=/softwarebilliger1.de/
@@ -16274,6 +16266,7 @@ local=/yalovakameragunespaneli.com/
 local=/yangibeauty.com/
 local=/yangzhi.de/
 local=/yanjushop.com/
+local=/yannelli.net/
 local=/yardigen.store/
 local=/yashigeoutlet.com/
 local=/ybcladmetal.com/
