@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jul 2026 06:46 UTC
-# Version: 2026.0712.0646.01
+# Last modified: 13 Jul 2026 06:45 UTC
+# Version: 2026.0713.0645.45
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2326
+# Number of entries: 2336
 #
 1-aclk.net
 1aurl.io
@@ -359,6 +359,7 @@ seu2.cleverreach.com
 104721.seu2.cleverreach.com
 107335.seu2.cleverreach.com
 112390.seu2.cleverreach.com
+112447.seu2.cleverreach.com
 113523.seu2.cleverreach.com
 114127.seu2.cleverreach.com
 114510.seu2.cleverreach.com
@@ -413,6 +414,7 @@ seu2.cleverreach.com
 170289.seu2.cleverreach.com
 172320.seu2.cleverreach.com
 172351.seu2.cleverreach.com
+172688.seu2.cleverreach.com
 174192.seu2.cleverreach.com
 175674.seu2.cleverreach.com
 176292.seu2.cleverreach.com
@@ -454,6 +456,7 @@ seu2.cleverreach.com
 232151.seu2.cleverreach.com
 234207.seu2.cleverreach.com
 236265.seu2.cleverreach.com
+236410.seu2.cleverreach.com
 236972.seu2.cleverreach.com
 237916.seu2.cleverreach.com
 238071.seu2.cleverreach.com
@@ -468,7 +471,6 @@ seu2.cleverreach.com
 246754.seu2.cleverreach.com
 246876.seu2.cleverreach.com
 247451.seu2.cleverreach.com
-248553.seu2.cleverreach.com
 248844.seu2.cleverreach.com
 248977.seu2.cleverreach.com
 249348.seu2.cleverreach.com
@@ -548,6 +550,7 @@ seu2.cleverreach.com
 328936.seu2.cleverreach.com
 332527.seu2.cleverreach.com
 333070.seu2.cleverreach.com
+333591.seu2.cleverreach.com
 335664.seu2.cleverreach.com
 335799.seu2.cleverreach.com
 337452.seu2.cleverreach.com
@@ -869,6 +872,7 @@ open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 9dd0b3de.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
+a4d65a79.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
 b54e0fd7.open.convertkit-mail4.com
 bbdc1d35.open.convertkit-mail4.com
@@ -1011,6 +1015,7 @@ sync.ad.cpe.dotomi.com
 match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
 c80669.csd.dotomi.com
+c82536.csd.dotomi.com
 c82564.csd.dotomi.com
 c83573.csd.dotomi.com
 c83578.csd.dotomi.com
@@ -1180,6 +1185,7 @@ members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
 view.s6.exacttarget.com
+virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 click-sms.s7.exacttarget.com
@@ -1311,6 +1317,7 @@ homesrvcs.com
 go.hotmart.com
 click.instantink.hpsmart.com
 href.li
+sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139786927.sites.hscoscdn-eu1.net
 139808002.sites.hscoscdn-eu1.net
@@ -1366,6 +1373,7 @@ group0.sites.hscoscdn-eu1.net
 143969174.group0.sites.hscoscdn-eu1.net
 144368567.group0.sites.hscoscdn-eu1.net
 144743966.group0.sites.hscoscdn-eu1.net
+145326533.group0.sites.hscoscdn-eu1.net
 145365426.group0.sites.hscoscdn-eu1.net
 145637459.group0.sites.hscoscdn-eu1.net
 145721053.group0.sites.hscoscdn-eu1.net
@@ -1447,8 +1455,11 @@ group47.sites.hscoscdn40.net
 group48.sites.hscoscdn40.net
 group49.sites.hscoscdn40.net
 api.hubapi.com
+jp.api.hubapi.com
 api-ap1.hubapi.com
 api-eu1.hubapi.com
+api-fra04-origin.hubapi.com
+api-iad02-origin.hubapi.com
 api-na1.hubapi.com
 api-na2.hubapi.com
 api-na3.hubapi.com
@@ -1861,7 +1872,6 @@ chasede.api-02.moengage.com
 chaseuk.api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
-api-101.moengage.com
 t.emailing.monoprix.fr
 af.mopo.jp
 cj.mplxtms.com

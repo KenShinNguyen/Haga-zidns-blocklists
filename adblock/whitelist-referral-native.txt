@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jul 2026 06:46 UTC
-! Version: 2026.0712.0646.01
+! Last modified: 13 Jul 2026 06:45 UTC
+! Version: 2026.0713.0645.45
 ! Syntax: AdBlock
-! Number of entries: 1542
+! Number of entries: 1544
 !
 @@||l.1mp.ru^
 @@||links.2ns.fi^
@@ -538,6 +538,7 @@
 @@||click.holidayinnclubemail.com^
 @@||go.hotmart.com^
 @@||click.instantink.hpsmart.com^
+@@||sites.hscoscdn-ap1.net^
 @@||sites.hscoscdn-eu1.net^
 @@||sites.hscoscdn-na2.net^
 @@||341676991.group0.sites.hscoscdn-na3.net^
@@ -549,6 +550,8 @@
 @@||api.hubapi.com^
 @@||api-ap1.hubapi.com^
 @@||api-eu1.hubapi.com^
+@@||api-fra04-origin.hubapi.com^
+@@||api-iad02-origin.hubapi.com^
 @@||api-na1.hubapi.com^
 @@||api-na2.hubapi.com^
 @@||api-na3.hubapi.com^
@@ -644,7 +647,6 @@
 @@||api-02.moengage.com^
 @@||api-03.moengage.com^
 @@||api-04.moengage.com^
-@@||api-101.moengage.com^
 @@||t.emailing.monoprix.fr^
 @@||af.mopo.jp^
 @@||cj.mplxtms.com^
