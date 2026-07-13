@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Jul 2026 08:02 UTC
-! Version: 2026.0713.0802.39
+! Last modified: 13 Jul 2026 11:02 UTC
+! Version: 2026.0713.1102.17
 ! Syntax: AdBlock
-! Number of entries: 33540
+! Number of entries: 33541
 !
 ||blink-stresser.000webhostapp.com^
 ||ddos-ovh-v6.000webhostapp.com^
@@ -3095,6 +3095,7 @@
 ||animesonline.biz^
 ||animesonline.cc^
 ||animesound.ru^
+||animesquadron.org^
 ||animestars.org^
 ||animestotais.xyz^
 ||animestream.in^
@@ -7369,7 +7370,6 @@
 ||filmoflix.money^
 ||filmoflix.page^
 ||filmoflix.pizza^
-||filmoflix.sbs^
 ||filmoflix.shop^
 ||filmoflix.singles^
 ||filmoflix.store^
@@ -32694,6 +32694,7 @@
 ||worldboxingvideoarchive.com^
 ||worldbytez.com^
 ||worldcupfootball.me^
+||worldfree4u.dog^
 ||worldfree4u.moe^
 ||worldfree4u.pm^
 ||worldfree4u.sarl^

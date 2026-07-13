@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 06:59 UTC
-# Version: 2026.0713.0659.33
+# Last modified: 13 Jul 2026 09:56 UTC
+# Version: 2026.0713.0956.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16464
+# Number of entries: 16451
 #
 local=/eu.2bagsvalley.cn/
 local=/ai.55aiagents.com/
@@ -1557,7 +1557,6 @@ local=/atinylitshop.com/
 local=/atlanticeseagrillfishmarketandbar.com/
 local=/atlantictrikot.de/
 local=/atlas--schuhe.com/
-local=/atlas-finance.org/
 local=/aton-invest.com/
 local=/atpgoldenpass.com/
 local=/atreide-ventures.fr/
@@ -1869,7 +1868,6 @@ local=/baptistacoffee.shop/
 local=/baquehottinguer.com/
 local=/bar-experte.com/
 local=/barbara-taschen.com/
-local=/barbecueaccessori.com/
 local=/barbecuegrill-shop.com/
 local=/barbefisch.de/
 local=/barbour-at.com/
@@ -2006,7 +2004,6 @@ local=/beckenfit.net/
 local=/becker-boutique.com/
 local=/beckerhannover.de/
 local=/beckermode.de/
-local=/beckerundkrause.de/
 local=/bedbugknocker.de/
 local=/beddingsetsshop.com/
 local=/bedrocksandals-deutschland.com/
@@ -2035,7 +2032,6 @@ local=/belbachirconcept.com/
 local=/beleuchtung-online.com/
 local=/beleuchtungprada.com/
 local=/belezapreventiva.com/
-local=/beliora.de/
 local=/belizal.com/
 local=/belkruvozan-ai.at/
 local=/bella-balu.de/
@@ -2101,7 +2097,6 @@ local=/bergxperten.com/
 local=/bergxperten.de/
 local=/berk-designs.de/
 local=/berkfurnitureoutlet.com/
-local=/berkler-anhanger.com/
 local=/berlinbeardeal.de/
 local=/berlincrown.com/
 local=/berliner-gartenservice.de/
@@ -2120,7 +2115,6 @@ local=/berlinrideservice.com/
 local=/berlinsprime.de/
 local=/berlinstil.de/
 local=/berlinwoch.com/
-local=/berluxe.de/
 local=/berma-handel.de/
 local=/bermar-grills.de/
 local=/bermuda-musicshop.de/
@@ -2209,7 +2203,6 @@ local=/bestmedhealth.com/
 local=/bestnutradeals.online/
 local=/bestoil24.de/
 local=/bestoil24.net/
-local=/bestonlinecasinoliste.de/
 local=/bestoutdoorsgearshop.com/
 local=/bestoutfit.store/
 local=/bestoutlet-tool.com/
@@ -2287,13 +2280,11 @@ local=/bierbankdruckerei.de/
 local=/biergarten-am-kuenettegraben.de/
 local=/bigagnesoutlet.com/
 local=/biggainersalerts-members.com/
-local=/bighomelife.com/
 local=/bigoption.com/
 local=/bigsex.is/
 local=/bigskysaunas.com/
 local=/bigsofasde.de/
 local=/bigstoregaming.com/
-local=/bike-components-de.com/
 local=/bike-in-jenaz.ch/
 local=/bike-specialized.com/
 local=/bike-trailer24.de/
@@ -2345,10 +2336,8 @@ local=/bikiniskin.de/
 local=/biladishop.com/
 local=/bilago.com/
 local=/bildsieg.com/
-local=/billabongwien.at/
 local=/billardpros.com/
 local=/billardsportshop.com/
-local=/biller-beck.com/
 local=/billig-werkzeug.com/
 local=/billigcampings.com/
 local=/billigdesignerkleidung.de/
@@ -2373,7 +2362,6 @@ local=/billydeals24.de/
 local=/biltaskerabatt.com/
 local=/bimbaylolaes.com/
 local=/bimi.cz/
-local=/binagala-shop.de/
 local=/binamax.com/
 local=/binareo.com/
 local=/binarinvest.com/
@@ -2398,7 +2386,6 @@ local=/bioherby.de/
 local=/biohofer.de/
 local=/biologischeshop.com/
 local=/biologischestation.de/
-local=/bioluxgmbh.com/
 local=/bionaturkosmetik.com/
 local=/biopflanzenshop.com/
 local=/biovorratshop.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 08:02 UTC
-# Version: 2026.0713.0802.39
+# Last modified: 13 Jul 2026 11:02 UTC
+# Version: 2026.0713.1102.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 33540
+# Number of entries: 33541
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -3094,6 +3094,7 @@ local=/animesimple.com/
 local=/animesonline.biz/
 local=/animesonline.cc/
 local=/animesound.ru/
+local=/animesquadron.org/
 local=/animestars.org/
 local=/animestotais.xyz/
 local=/animestream.in/
@@ -7368,7 +7369,6 @@ local=/filmoflix.media/
 local=/filmoflix.money/
 local=/filmoflix.page/
 local=/filmoflix.pizza/
-local=/filmoflix.sbs/
 local=/filmoflix.shop/
 local=/filmoflix.singles/
 local=/filmoflix.store/
@@ -32693,6 +32693,7 @@ local=/world4ufree.sale/
 local=/worldboxingvideoarchive.com/
 local=/worldbytez.com/
 local=/worldcupfootball.me/
+local=/worldfree4u.dog/
 local=/worldfree4u.moe/
 local=/worldfree4u.pm/
 local=/worldfree4u.sarl/

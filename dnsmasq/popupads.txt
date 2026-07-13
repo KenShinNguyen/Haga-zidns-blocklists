@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 06:57 UTC
-# Version: 2026.0713.0657.17
+# Last modified: 13 Jul 2026 09:53 UTC
+# Version: 2026.0713.0953.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55396
+# Number of entries: 55397
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -403,6 +403,9 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
+local=/chiyouranai.base.shop/
+local=/tokujiro.base.shop/
+local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -433,7 +436,6 @@ local=/kp.begohmencelia.shop/
 local=/nf.begumsbandi.com/
 local=/ni.beigekismat.com/
 local=/te.bejazzsartor.shop/
-local=/ng.belickzoeae.shop/
 local=/ba.benchergodpapa.com/
 local=/li.benefitsiroc.com/
 local=/ce.berejacobus.top/
@@ -8575,6 +8577,7 @@ local=/92ewi29wmjyrjlpg.com/
 local=/92orb.com/
 local=/92pkr4.com/
 local=/92yj.com/
+local=/930outblend.com/
 local=/9365e2dd1f.com/
 local=/936781cc1a.com/
 local=/93a72bfca9.com/
@@ -12980,7 +12983,6 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
-local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -12999,7 +13001,6 @@ local=/basic-gift.pro/
 local=/basic-meal.pro/
 local=/basic-novel.pro/
 local=/basic-weekend.pro/
-local=/basicallyfortitude.com/
 local=/basicallyobjection.com/
 local=/basicallyscratchinvestment.com/
 local=/basicallyspacecraft.com/
