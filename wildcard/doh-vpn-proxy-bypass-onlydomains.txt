@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 08:10 UTC
-# Version: 2026.0713.0810.40
+# Last modified: 13 Jul 2026 14:50 UTC
+# Version: 2026.0713.1450.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 16677
+# Number of entries: 16684
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -4874,6 +4874,7 @@ smart-force-177.nowgg.me
 wise-bear-455.nowgg.me
 dns.npe.bz
 adguard.npglocal.com
+api.npvu.me
 xpen.ns01.info
 x.ns1net.com
 dnscache0.ns71.net
@@ -6869,6 +6870,7 @@ dns.zzuhacker.cn
 1tv8q2k.online
 1utins.xyz
 1vpn.app
+1vpn.co
 1vpn.org
 1vpn.website
 1xiaowang.com
@@ -8592,10 +8594,14 @@ clorvan.ru
 closetruth.date
 cloudbenders.fun
 cloudbob.fr
+cloudburstcdn.com
+cloudflaracdn.com
 cloudflare-dns.com
 cloudflare-gateway.com
 cloudflaredns.com
 cloudflareresolve.com
+cloudflingcdn.com
+cloudlogcdn.com
 cloudnetcdn.com
 cloudnetwork.pro
 cloudnymous.com
@@ -8605,6 +8611,7 @@ cloudquickcdn.com
 cloudspacecdn.site
 cloudssh.net
 cloudssh.us
+cloudtimecdn.com
 cloudvpn.ai
 cloudvpn.pro
 clovian.ru

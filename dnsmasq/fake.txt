@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 09:56 UTC
-# Version: 2026.0713.0956.54
+# Last modified: 13 Jul 2026 17:57 UTC
+# Version: 2026.0713.1757.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16451
+# Number of entries: 16443
 #
 local=/eu.2bagsvalley.cn/
 local=/ai.55aiagents.com/
@@ -37,7 +37,6 @@ local=/eu.bagsvalley.cn/
 local=/0dgwn.bemobtrcks.com/
 local=/o.bglgtzht83.life/
 local=/app.bilinterface.com/
-local=/m.bit2meua.com/
 local=/projetxtreme.blogspot.fr/
 local=/www.crypto2.bnd-group.com/
 local=/web.bossaapp.com/
@@ -2679,7 +2678,6 @@ local=/brennholzstore.de/
 local=/brennholzweber.de/
 local=/brennholzwerner.de/
 local=/brennstoffe-versand.de/
-local=/brennstoffportal.de/
 local=/brenstoffe-versand.de/
 local=/brenuingerde.com/
 local=/breuer-boutique.de/
@@ -2714,7 +2712,6 @@ local=/brokersinternaational.com/
 local=/brooks-osterreich.at/
 local=/brooks-partners.com/
 local=/brooks-running-shoes.com/
-local=/brookschuheoutlet.de/
 local=/brookslaufschuhesale.de/
 local=/brooksoutletsale.de/
 local=/brooksrunningconnect.com/
@@ -2733,7 +2730,6 @@ local=/brunoberg.com/
 local=/brushshope.com/
 local=/brutaka.com/
 local=/bryo-kaffee.de/
-local=/brysha.store/
 local=/brytesmile.de/
 local=/bs-gmbh.de/
 local=/bs2best.at/
@@ -2750,7 +2746,6 @@ local=/bu-gruppe.com/
 local=/bubaloo.de/
 local=/bubblepupp.com/
 local=/bubucy.com/
-local=/buchbasekiste.com/
 local=/buchberger-innsbruck.com/
 local=/buchnergmbh.com/
 local=/buchverlag-scholz.de/
@@ -2822,7 +2817,6 @@ local=/buytableware.com/
 local=/buyxtoken.com/
 local=/buzzok.com/
 local=/bws-beratung.com/
-local=/bxcapitalmarkets.eu/
 local=/bxforex.com/
 local=/bxhdui.shop/
 local=/bxrlin.de/
@@ -3034,7 +3028,6 @@ local=/catfootwear-at.com/
 local=/catwebshop.com/
 local=/cavedor.com/
 local=/cavella.store/
-local=/cavissimo.com/
 local=/cavory.de/
 local=/cavrontelyx.com/
 local=/cazadecorbrasil.store/
@@ -3063,7 +3056,6 @@ local=/celinemichaud.com/
 local=/cellpeptides.com/
 local=/celmak.de/
 local=/cendura.de/
-local=/centahah.de/
 local=/center-staubsauger.de/
 local=/centerviewpnllc.com/
 local=/centralparkebikerentals.com/

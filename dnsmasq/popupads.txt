@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 09:53 UTC
-# Version: 2026.0713.0953.47
+# Last modified: 13 Jul 2026 17:54 UTC
+# Version: 2026.0713.1754.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 55397
+# Number of entries: 55392
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -2060,7 +2060,7 @@ local=/track.livesportnet.com/
 local=/mta1.livexp.com/
 local=/mta2.livexp.com/
 local=/nqxkz.liveyourdreamss.com/
-local=/www.enkxrj.lletsconnectnow.com/
+local=/enkxrj.lletsconnectnow.com/
 local=/ogrqld.lletusdate.com/
 local=/ogmeak.lloveconnection.com/
 local=/kglwea.llovecrush.net/
@@ -9048,7 +9048,6 @@ local=/accuratecoal.com/
 local=/accuratemaintenance.pro/
 local=/accuratemournful.com/
 local=/accuratephrase.com/
-local=/accuratewistful.com/
 local=/accusationroad.com/
 local=/accuserutility.com/
 local=/accustomedinaccessible.com/
@@ -13892,7 +13891,6 @@ local=/bjvhcjulwwnmk.space/
 local=/bjxusfnfstjae.online/
 local=/bjzabeeqjktyy.website/
 local=/bkest.sa/
-local=/bkgljnppwxjat.icu/
 local=/bkjcspqtrlafh.online/
 local=/bkjgqyasbalgk.website/
 local=/bkjhqkohal.com/
@@ -13900,7 +13898,6 @@ local=/bklhutjteyhiye.com/
 local=/bknkkqjlpwm.xyz/
 local=/bkpmmpsqgluwj.online/
 local=/bkprglyptic.shop/
-local=/bkqykixrzrgwr.space/
 local=/bkrxfveyilyqu.site/
 local=/bkvxjygccpkwk.space/
 local=/bkwn.cn/
@@ -14302,7 +14299,6 @@ local=/bolsterate.com/
 local=/bolsterate.net/
 local=/boltepse.com/
 local=/bombscore.com/
-local=/bomdog.com/
 local=/bonad.io/
 local=/bonafides.club/
 local=/bondagedamsels.com/
@@ -14386,7 +14382,6 @@ local=/bootswishesdisappointment.com/
 local=/bootycallz.co/
 local=/boovoogie.net/
 local=/bopako.com/
-local=/bopmsxjwjuwjj.click/
 local=/boqlwbntl.net/
 local=/boreaddingobserve.com/
 local=/boreasnetsuke.com/
@@ -14443,7 +14438,6 @@ local=/bothpersonality.com/
 local=/bothsignature.com/
 local=/bothstick.pro/
 local=/botoasis.com/
-local=/botpynlmmizsr.click/
 local=/bottleapply.com/
 local=/bottledbruckle.cfd/
 local=/bottleddictionary.com/
@@ -15801,7 +15795,6 @@ local=/cbgolf.cn/
 local=/cbhqghqdtjn.com/
 local=/cbivvnmafd.net/
 local=/cbjflptthbjnb.space/
-local=/cbkyaepzyibsx.click/
 local=/cblmcgeipgxxc.online/
 local=/cblxmphonpmpp.com/
 local=/cbplaw.cn/
@@ -21842,6 +21835,7 @@ local=/encumberremote.com/
 local=/encumberwheel.com/
 local=/encumbranceunderlineheadmaster.com/
 local=/encyclopaediaarcher.com/
+local=/encyclopaediainfluenced.com/
 local=/endangerunderneathcar.com/
 local=/endbqmshfuxck.com/
 local=/endconfine.com/
@@ -24482,6 +24476,7 @@ local=/frostscanty.com/
 local=/frosty-anybody.pro/
 local=/frosty-presence.com/
 local=/frothadditions.com/
+local=/frowstyambler.qpon/
 local=/frozenassumption.com/
 local=/frozenguess.pro/
 local=/frozenpayerpregnant.com/
@@ -29375,6 +29370,7 @@ local=/interceptdazed.com/
 local=/interclick.com/
 local=/interclics.com/
 local=/interdependentfinalcreature.com/
+local=/interdependentvaluable.com/
 local=/interdfp.com/
 local=/interesting-extreme.pro/
 local=/interesting-rock.pro/
@@ -29555,7 +29551,6 @@ local=/iqygq.com/
 local=/ir0d0r1.jp/
 local=/irbvstqvt.com/
 local=/iredirect.net/
-local=/ireempoacmas.net/
 local=/irene-fortuna.com/
 local=/irenethrush.com/
 local=/iretireehk.com/
@@ -38535,7 +38530,6 @@ local=/overdates.com/
 local=/overdisguise.com/
 local=/overdosedispleasedablaze.com/
 local=/overdoterriblymingled.com/
-local=/overdrowzeeon.com/
 local=/overdue-capital.com/
 local=/overdue-truth.com/
 local=/overduerebukeloyal.com/
@@ -45486,6 +45480,7 @@ local=/singles50.jp/
 local=/singlesexdates.com/
 local=/singlesgetmatched.com/
 local=/singlesmeetnow.info/
+local=/singlespray.pro/
 local=/singlewomenmeet.com/
 local=/singlyairview.com/
 local=/singtelmyconnect.com/

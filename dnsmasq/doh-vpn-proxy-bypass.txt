@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 08:10 UTC
-# Version: 2026.0713.0810.40
+# Last modified: 13 Jul 2026 14:50 UTC
+# Version: 2026.0713.1450.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16677
+# Number of entries: 16684
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -4874,6 +4874,7 @@ local=/smart-force-177.nowgg.me/
 local=/wise-bear-455.nowgg.me/
 local=/dns.npe.bz/
 local=/adguard.npglocal.com/
+local=/api.npvu.me/
 local=/xpen.ns01.info/
 local=/x.ns1net.com/
 local=/dnscache0.ns71.net/
@@ -6869,6 +6870,7 @@ local=/1svpn.mom/
 local=/1tv8q2k.online/
 local=/1utins.xyz/
 local=/1vpn.app/
+local=/1vpn.co/
 local=/1vpn.org/
 local=/1vpn.website/
 local=/1xiaowang.com/
@@ -8592,10 +8594,14 @@ local=/clorvan.ru/
 local=/closetruth.date/
 local=/cloudbenders.fun/
 local=/cloudbob.fr/
+local=/cloudburstcdn.com/
+local=/cloudflaracdn.com/
 local=/cloudflare-dns.com/
 local=/cloudflare-gateway.com/
 local=/cloudflaredns.com/
 local=/cloudflareresolve.com/
+local=/cloudflingcdn.com/
+local=/cloudlogcdn.com/
 local=/cloudnetcdn.com/
 local=/cloudnetwork.pro/
 local=/cloudnymous.com/
@@ -8605,6 +8611,7 @@ local=/cloudquickcdn.com/
 local=/cloudspacecdn.site/
 local=/cloudssh.net/
 local=/cloudssh.us/
+local=/cloudtimecdn.com/
 local=/cloudvpn.ai/
 local=/cloudvpn.pro/
 local=/clovian.ru/

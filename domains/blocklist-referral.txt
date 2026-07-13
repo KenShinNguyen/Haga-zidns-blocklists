@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 06:45 UTC
-# Version: 2026.0713.0645.45
+# Last modified: 13 Jul 2026 17:43 UTC
+# Version: 2026.0713.1743.22
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2336
+# Number of entries: 2337
 #
 1-aclk.net
 1aurl.io
@@ -2204,6 +2204,7 @@ redirect476.tagcommander.com
 redirect492.tagcommander.com
 tailtarget.com
 takmertok.com
+data.email.tangerine.ca
 click.taobao.com
 g.click.taobao.com
 s.click.taobao.com
