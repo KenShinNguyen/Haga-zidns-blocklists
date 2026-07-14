@@ -1660,6 +1660,34 @@
       }
     },
     {
+      "PK": "blogspot.cl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.co.at",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.co.uk",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.com.au",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.com.br",
       "action": {
         "do": 0,
@@ -1723,6 +1751,20 @@
       }
     },
     {
+      "PK": "blogspot.hr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.hu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.in",
       "action": {
         "do": 0,
@@ -1744,7 +1786,21 @@
       }
     },
     {
+      "PK": "blogspot.kr",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.li",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.lt",
       "action": {
         "do": 0,
         "status": 1
@@ -1758,7 +1814,21 @@
       }
     },
     {
+      "PK": "blogspot.md",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.mx",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.my",
       "action": {
         "do": 0,
         "status": 1
@@ -1780,6 +1850,13 @@
     },
     {
       "PK": "blogspot.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.pe",
       "action": {
         "do": 0,
         "status": 1
@@ -1815,6 +1892,13 @@
     },
     {
       "PK": "blogspot.se",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.sg",
       "action": {
         "do": 0,
         "status": 1

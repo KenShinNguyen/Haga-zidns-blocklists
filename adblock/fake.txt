@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Jul 2026 07:02 UTC
-! Version: 2026.0714.0702.36
+! Last modified: 14 Jul 2026 17:57 UTC
+! Version: 2026.0714.1757.22
 ! Syntax: AdBlock
-! Number of entries: 16446
+! Number of entries: 16438
 !
 ||eu.2bagsvalley.cn^
 ||ai.55aiagents.com^
@@ -1488,6 +1488,8 @@
 ||artovitel.com^
 ||artvibe-wellness.com^
 ||arvato-entertainment.de^
+||arvulonikanz.com^
+||arvulonikanz.net^
 ||arwanagamingzpt.site^
 ||arwibon.us^
 ||arzi.de^
@@ -1941,6 +1943,7 @@
 ||bauzeug.de^
 ||bavariasis.com^
 ||bavierth.shop^
+||bawqpou.shop^
 ||bawz.store^
 ||baxterstorey-catering.com^
 ||baya-bikini.de^
@@ -2455,6 +2458,7 @@
 ||blacktridentpop.shop^
 ||bladebasics.com^
 ||blattberlin.com^
+||blattbucht.de^
 ||blattverkauf.com^
 ||blaudonau.com^
 ||blaudonau.de^
@@ -3822,7 +3826,6 @@
 ||degeschirr.com^
 ||degesunderlebensstil.com^
 ||degetraenkewelt.com^
-||degroceriesshop.com^
 ||degussa.one^
 ||degussa.store^
 ||degussa.to^
@@ -3929,7 +3932,6 @@
 ||den-home.com^
 ||denaturkosmetik.com^
 ||denuvostore.com^
-||deonline-boutique.com^
 ||deparcart.com^
 ||depeople-work.xyz^
 ||depierone.com^
@@ -3940,7 +3942,6 @@
 ||depotsnow.com^
 ||depoz.company^
 ||der-einblick.de^
-||der-gartenschreiner.de^
 ||der-reiseexperte.de^
 ||der-tonershop.de^
 ||deracing-planet.com^
@@ -4051,7 +4052,6 @@
 ||dgkktero.shop^
 ||dgtlfuture.com^
 ||dhg-versand.de^
-||dhrys.com^
 ||diaetolin.com^
 ||diaetoxil.de^
 ||diag-wagen.de^
@@ -4081,7 +4081,6 @@
 ||diesel-outlet.de^
 ||dietdiney.com^
 ||dieterrux-dienstleistungs.de^
-||dietrich-garten.de^
 ||diezeitmitmedien.com^
 ||difcinvestment.world^
 ||diferencialautopecas.com^
@@ -4097,7 +4096,6 @@
 ||digitalheizer.de^
 ||digitalkontor24.de^
 ||digitalmarkt.online^
-||digitalsecurefix.com^
 ||digitalshopbolivia.com^
 ||digitalstoreme.com^
 ||digitax-solutions.de^
@@ -4108,12 +4106,10 @@
 ||dilary.com^
 ||diliving.com^
 ||dima-sport.de^
-||dimedell.com^
 ||dimprice.de^
 ||dina-vital.de^
 ||dincer-gartenbau.de^
 ||dinem-tech.de^
-||dingesgroup.com^
 ||dinosaurier.store^
 ||dinosupplies.to^
 ||dioey.com^
@@ -4185,7 +4181,6 @@
 ||doctorsolve.com^
 ||doctriney.com^
 ||documentarp.com^
-||dodo-direkt.de^
 ||doehlers.com^
 ||dogandliving.de^
 ||doge-mining.top^
@@ -4349,7 +4344,6 @@
 ||durona.de^
 ||duros.de^
 ||durro.co^
-||duryoafe.shop^
 ||duschenexperte.com^
 ||duscioadaul.club^
 ||dutchnewstoday.com^
@@ -4408,7 +4402,6 @@
 ||e-youbikes.com^
 ||eaepp.com^
 ||eafengrowkniveshub.com^
-||eaglepharma.shop^
 ||earlynoon.com^
 ||earnavioat.works^
 ||eartischleuchten.com^
@@ -4581,7 +4574,6 @@
 ||electrolager.de^
 ||electronia24.de^
 ||electronicade.com^
-||electronicgood.com^
 ||electronicsgo.club^
 ||electronicshop.store^
 ||electronikshops.com^
@@ -4825,13 +4817,11 @@
 ||ersatzteilegeschaft.com^
 ||ersatzteileneu.com^
 ||ersatzteilerabatt.com^
-||ersause.com^
 ||erschwinglichwerkzeug.com^
 ||ersterkatzenladen.de^
 ||erstmal-kaffee.com^
 ||ertops2021.com^
 ||erviagas.sbs^
-||erviagas.top^
 ||eryxavin.com^
 ||erzgebirger-uhrwerk.com^
 ||es-consult.net^
@@ -4997,7 +4987,6 @@
 ||everyday-outdoor.de^
 ||everyknives.com^
 ||everyswimsuit.com^
-||evh.cc^
 ||eviobaby.com^
 ||evisas.travel^
 ||evo-house.com^
@@ -5009,7 +4998,6 @@
 ||evutal.com^
 ||ewige-seide.de^
 ||ewigerbund.org^
-||ewigesleder.com^
 ||exakubusinessclub.com^
 ||excap.org^
 ||excelia.net^
@@ -5798,6 +5786,7 @@
 ||fyregaming.com^
 ||fyssea.com^
 ||gaballo-handel.de^
+||gabelglanz.de^
 ||gabion24.de^
 ||gaboraustralia.com^
 ||gaborbelgie.com^
@@ -8397,6 +8386,7 @@
 ||kindnessl.com^
 ||kindrucksackgarten.com^
 ||kindundkrebs.eu^
+||kineticsportsland.shop^
 ||kingbillycasino-online.de^
 ||kingdales.com^
 ||kingequipshop.com^
@@ -12300,6 +12290,7 @@
 ||rasenmaherwendik.de^
 ||rasenmarkt.com^
 ||rasenmotor.com^
+||rasenrobo.com^
 ||rasenroboter-shop.com^
 ||rasenshop24.com^
 ||rasenstolz.com^
@@ -14089,6 +14080,7 @@
 ||stylebewusst.de^
 ||stylefatface.com^
 ||stylelaurel.com^
+||styleoli.com^
 ||stylerose.de^
 ||stylessunny.com^
 ||styletaken.com^

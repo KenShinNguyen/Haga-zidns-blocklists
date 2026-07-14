@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 24 May 2026 17:07 UTC
-! Version: 2026.0524.1707.46
+! Last modified: 14 Jul 2026 11:48 UTC
+! Version: 2026.0714.1148.09
 ! Syntax: AdBlock
-! Number of entries: 465
+! Number of entries: 468
 !
 ||calculator-api-fr.allawnos.com^
 ||calculator-api-in.allawnos.com^
@@ -305,6 +305,9 @@
 ||report-eu.uc.heytapmobile.com^
 ||report-in.uc.heytapmobile.com^
 ||report-sg.uc.heytapmobile.com^
+||ad-growth-in.heytapmobile.com^
+||ad-growth-ru.heytapmobile.com^
+||ad-growth-sg.heytapmobile.com^
 ||ads.heytapmobile.com^
 ||ads-bdapi-my.heytapmobile.com^
 ||ads-bdapi-ph.heytapmobile.com^

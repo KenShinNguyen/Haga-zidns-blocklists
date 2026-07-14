@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 08:17 UTC
-# Version: 2026.0714.0817.56
+# Last modified: 14 Jul 2026 11:35 UTC
+# Version: 2026.0714.1135.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3838
+# Number of entries: 3837
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1038,7 +1038,6 @@
 0.0.0.0 dns64.dns.google
 0.0.0.0 doh.dns.sb
 0.0.0.0 fargos2.dns.army
-0.0.0.0 guigu.dns.army
 0.0.0.0 homec92.dns.army
 0.0.0.0 public-dns-a.dns.sb
 0.0.0.0 public-dns-b.dns.sb

@@ -5,18 +5,21 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 02:15 UTC
-# Version: 2026.0714.0215.10
+# Last modified: 14 Jul 2026 14:13 UTC
+# Version: 2026.0714.1413.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1225
+# Number of entries: 1237
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
 local=/123freehost.co.uk/
 local=/24.co.at/
 local=/all.co.uk/
+local=/blogspot.co.at/
+local=/blogspot.co.uk/
 local=/surfblocked.co.cc/
 local=/thamboli.co.za/
+local=/blogspot.com.au/
 local=/blogspot.com.br/
 local=/blogspot.com.es/
 local=/encurtador.com.br/
@@ -268,6 +271,7 @@ local=/blogspot.be/
 local=/blogspot.bg/
 local=/blogspot.ca/
 local=/blogspot.ch/
+local=/blogspot.cl/
 local=/blogspot.cz/
 local=/blogspot.de/
 local=/blogspot.dk/
@@ -275,20 +279,28 @@ local=/blogspot.fi/
 local=/blogspot.fr/
 local=/blogspot.gr/
 local=/blogspot.hk/
+local=/blogspot.hr/
+local=/blogspot.hu/
 local=/blogspot.in/
 local=/blogspot.it/
 local=/blogspot.jp/
+local=/blogspot.kr/
 local=/blogspot.li/
+local=/blogspot.lt/
 local=/blogspot.lu/
+local=/blogspot.md/
 local=/blogspot.mx/
+local=/blogspot.my/
 local=/blogspot.nl/
 local=/blogspot.no/
 local=/blogspot.org/
+local=/blogspot.pe/
 local=/blogspot.pl/
 local=/blogspot.pt/
 local=/blogspot.rs/
 local=/blogspot.ru/
 local=/blogspot.se/
+local=/blogspot.sg/
 local=/blogspot.sk/
 local=/blogspot.sn/
 local=/blogspot.tw/

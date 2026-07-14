@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 08:19 UTC
-# Version: 2026.0714.0819.02
+# Last modified: 14 Jul 2026 11:18 UTC
+# Version: 2026.0714.1118.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16683
+# Number of entries: 16682
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -2451,7 +2451,6 @@ local=/dns.dlinders.nl/
 local=/home.dlinkddns.com/
 local=/edulearnisgood.dmtr.ru/
 local=/fargos2.dns.army/
-local=/guigu.dns.army/
 local=/homec92.dns.army/
 local=/dns.dns-53.com/
 local=/dns.dns-53.uk/

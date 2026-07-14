@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 08:17 UTC
-# Version: 2026.0714.0817.56
+# Last modified: 14 Jul 2026 11:35 UTC
+# Version: 2026.0714.1135.22
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3838
+# Number of entries: 3837
 #
 ss.0001.xyz
 003153.xyz
@@ -1038,7 +1038,6 @@ dns.watch
 dns64.dns.google
 doh.dns.sb
 fargos2.dns.army
-guigu.dns.army
 homec92.dns.army
 public-dns-a.dns.sb
 public-dns-b.dns.sb

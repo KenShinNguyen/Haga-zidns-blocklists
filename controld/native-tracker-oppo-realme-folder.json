@@ -8,6 +8,27 @@
   },
   "rules": [
     {
+      "PK": "ad-growth-in.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-growth-ru.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-growth-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-bdapi-my.heytapmobile.com",
       "action": {
         "do": 0,
