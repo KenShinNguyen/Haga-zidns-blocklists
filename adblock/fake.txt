@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Jul 2026 17:57 UTC
-! Version: 2026.0713.1757.12
+! Last modified: 14 Jul 2026 07:02 UTC
+! Version: 2026.0714.0702.36
 ! Syntax: AdBlock
-! Number of entries: 16443
+! Number of entries: 16446
 !
 ||eu.2bagsvalley.cn^
 ||ai.55aiagents.com^
@@ -197,6 +197,7 @@
 ||pellet-ecos.company.site^
 ||epicoolerde.consumereviewsguide.com^
 ||locations.crocs.de^
+||tax.crypto.com^
 ||spotiifyprimesnova.ct.ws^
 ||at.curalise.com^
 ||de.curalise.com^
@@ -1045,6 +1046,7 @@
 ||allesheizung.de^
 ||allesoutdoor.de^
 ||alleuropills.com^
+||allforyourlife.org^
 ||allgamesinone.com^
 ||allgifts.site^
 ||allgoodssale.com^
@@ -1966,7 +1968,6 @@
 ||be-aetlcnshop.com^
 ||beaccustomed.com^
 ||beachitem.com^
-||beachwalkbali.com^
 ||beambead.com^
 ||beamdeals.de^
 ||beatricesavoy.de^
@@ -2213,6 +2214,7 @@
 ||bestprogift.com^
 ||bestrelocate.com^
 ||bestsaunakits.com^
+||bestselectionforyou.com^
 ||bestslshop.com^
 ||bestsoluvs.click^
 ||bestsoundclub.com^
@@ -2409,6 +2411,7 @@
 ||bitcoin-everest-ai.fr^
 ||bitcoin-pharmacy.com^
 ||bitcoin-trader.net^
+||bitcoin-up.io^
 ||bitcoin-xact.fr^
 ||bitcoinarchon.com^
 ||bitcoindecode.io^
@@ -2495,7 +2498,6 @@
 ||bluetyt.com^
 ||blum-film.de^
 ||blum2000.com^
-||blumen-fusshoeller.de^
 ||blumen-steu.com^
 ||blumenbanmai.de^
 ||blumenelbracht.de^
@@ -2890,7 +2892,6 @@
 ||camptool-shop.com^
 ||camptotalneu.com^
 ||canada-pharmacy-24h.com^
-||canadadrugstore.com^
 ||canadanewsreport.com^
 ||canadapharmacypro.com^
 ||canadapharmacytrust.net^
@@ -3196,7 +3197,6 @@
 ||civiliank.com^
 ||ciyuanshijie.com^
 ||cizmesorel.com^
-||cjudelo.shop^
 ||ckbeautylife.de^
 ||claimshub.xyz^
 ||clair-montfils.com^
@@ -3239,6 +3239,7 @@
 ||clearancecurrent.com^
 ||clearancegowns.com^
 ||clearanceu.com^
+||clearingt.com^
 ||clearstream.fashion^
 ||clearstream.xin^
 ||cleatelite.shop^
@@ -3260,7 +3261,6 @@
 ||clivechristianuk.com^
 ||cllusatoam.com^
 ||clockwisek.com^
-||clolas.com^
 ||clorislife.com^
 ||closeoutstore.de^
 ||clotha-boutique.de^
@@ -3316,7 +3316,6 @@
 ||coinbase-834859.com^
 ||coinbasen.vip^
 ||coinboxtradeoption.com^
-||coincorex.com^
 ||coinentvklp.top^
 ||coinmarketfeed.net^
 ||coinmoh.com^
@@ -3412,7 +3411,6 @@
 ||convergek.com^
 ||converse-finland.com^
 ||convertmitiondocmentinsationonlinevralidsion.org^
-||convertquick.net^
 ||convita-apotheke.de^
 ||conymonika.de^
 ||cooffee.de^
@@ -3536,7 +3534,6 @@
 ||crunchbasenewstoday.com^
 ||crustbikesco.shop^
 ||crxjik.shop^
-||cryotoxtrade.com^
 ||crypteo.io^
 ||cryptex-online.de^
 ||cryptex-vip.com^
@@ -3792,7 +3789,6 @@
 ||deautorabatt.com^
 ||debasketball.com^
 ||debergercamping.com^
-||deboutiqueshop.com^
 ||decantersale.com^
 ||decarba.de^
 ||decarba-mann.de^
@@ -4361,6 +4357,7 @@
 ||dutztechh.shop^
 ||duzeces.com^
 ||dvdsblurays.com^
+||dvepare.com^
 ||dw-energieholz.de^
 ||dwelldome.com^
 ||dwellglory.com^
@@ -4777,6 +4774,7 @@
 ||enthusiastip.com^
 ||entornobanoes.com^
 ||entove.com^
+||entrancet.com^
 ||entruempelung-meister.at^
 ||entrustjewelry.com^
 ||entzueck-end.de^
@@ -4932,6 +4930,7 @@
 ||euro-modafinil.com^
 ||euro-pharm24.com^
 ||euro-pharma24x7.com^
+||euro-pill.com^
 ||euro2024tickets.de^
 ||eurobitx.info^
 ||euroeinkauf.de^
@@ -5000,6 +4999,7 @@
 ||everyswimsuit.com^
 ||evh.cc^
 ||eviobaby.com^
+||evisas.travel^
 ||evo-house.com^
 ||evo-pharmacy.com^
 ||evolgrafix.de^
@@ -7826,6 +7826,7 @@
 ||isoccerkit.com^
 ||isosmart.de^
 ||isotrader.cc^
+||israelpharm.com^
 ||issamtransports.com^
 ||istanha.com^
 ||isthebabybornyet.com^
@@ -11127,7 +11128,6 @@
 ||onlinebluberri.com^
 ||onlinebonuscasino-de.de^
 ||onlinebusinessdorf.de^
-||onlinecasinomitschnellerauszahlung.de^
 ||onlinecasinoparis.com^
 ||onlinecasinositeindia.com^
 ||onlinecasinoslasvegas.com^
@@ -11434,7 +11434,6 @@
 ||packmanvape.de^
 ||paddlegrill.com^
 ||paffeholz.com^
-||paganidesignstore.com^
 ||painthotsale.com^
 ||paitarisbauunternehmen.de^
 ||paito-hkpools.store^
@@ -11685,6 +11684,7 @@
 ||pharmaracapital.com^
 ||pharmaright.vu^
 ||pharmaris.net^
+||pharmaserve.com^
 ||pharmatheke-europe.com^
 ||pharmedio.de^
 ||pharmrx-1.com^
@@ -12469,6 +12469,7 @@
 ||replicauhrenx.de^
 ||replicawatchtr.com^
 ||replika-uhr.to^
+||reproccial.com^
 ||repsberlin.com^
 ||repstop.xyz^
 ||repuhren.de^
@@ -13707,6 +13708,7 @@
 ||soundhive.de^
 ||sourceforsport.com^
 ||sovectoron-1-naatlasix-losolara.com^
+||sowaswillichauch.de^
 ||soxfinancial.com^
 ||space-tennis.com^
 ||spacebuds.de^
@@ -14096,6 +14098,7 @@
 ||stylow.de^
 ||subbstantial.com^
 ||subhmobiles.com^
+||subscrsidewa.com^
 ||subsequentn.com^
 ||subtleenergies.xyz^
 ||subtletoys.com^

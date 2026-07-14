@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Jul 2026 17:43 UTC
-# Version: 2026.0713.1743.22
+# Last modified: 14 Jul 2026 06:47 UTC
+# Version: 2026.0714.0647.02
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2337
+# Number of entries: 2344
 #
 1-aclk.net
 1aurl.io
@@ -851,6 +851,7 @@ open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
 042705c9.open.convertkit-mail4.com
+07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
 104ffb11.open.convertkit-mail4.com
@@ -872,7 +873,6 @@ open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 9dd0b3de.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
-a4d65a79.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
 b54e0fd7.open.convertkit-mail4.com
 bbdc1d35.open.convertkit-mail4.com
@@ -1015,9 +1015,7 @@ sync.ad.cpe.dotomi.com
 match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
 c80669.csd.dotomi.com
-c82536.csd.dotomi.com
 c82564.csd.dotomi.com
-c83573.csd.dotomi.com
 c83578.csd.dotomi.com
 ad.doubleclick.net
 dpbolvw.net
@@ -1156,10 +1154,12 @@ s12.exacttarget.com
 bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
+members.s12.exacttarget.com
 s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
+members.s13.exacttarget.com
 s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
@@ -1173,6 +1173,7 @@ bounce.s50.exacttarget.com
 click.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
+members.s50.exacttarget.com
 click.virt.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
@@ -1188,6 +1189,7 @@ view.s6.exacttarget.com
 virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
+bounce.s7.exacttarget.com
 click-sms.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com
@@ -1196,6 +1198,7 @@ pages.s7.exacttarget.com
 pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
+s8.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 4patientcare-cdn.exponea.com
@@ -1210,7 +1213,6 @@ fis-iittala-cdn.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
-neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
@@ -1317,7 +1319,6 @@ homesrvcs.com
 go.hotmart.com
 click.instantink.hpsmart.com
 href.li
-sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139786927.sites.hscoscdn-eu1.net
 139808002.sites.hscoscdn-eu1.net
@@ -1341,6 +1342,8 @@ sites.hscoscdn-eu1.net
 25446013.sites.hscoscdn-eu1.net
 25456557.sites.hscoscdn-eu1.net
 25468276.sites.hscoscdn-eu1.net
+25507368.sites.hscoscdn-eu1.net
+25596532.sites.hscoscdn-eu1.net
 25639721.sites.hscoscdn-eu1.net
 25708310.sites.hscoscdn-eu1.net
 25713015.sites.hscoscdn-eu1.net
@@ -1350,6 +1353,7 @@ sites.hscoscdn-eu1.net
 25896552.sites.hscoscdn-eu1.net
 26050820.sites.hscoscdn-eu1.net
 26142091.sites.hscoscdn-eu1.net
+26289830.sites.hscoscdn-eu1.net
 26329120.sites.hscoscdn-eu1.net
 26492205.sites.hscoscdn-eu1.net
 26544488.sites.hscoscdn-eu1.net
@@ -1361,6 +1365,7 @@ sites.hscoscdn-eu1.net
 26889852.sites.hscoscdn-eu1.net
 26929552.sites.hscoscdn-eu1.net
 27001291.sites.hscoscdn-eu1.net
+27006880.sites.hscoscdn-eu1.net
 27212211.sites.hscoscdn-eu1.net
 27227061.sites.hscoscdn-eu1.net
 4011266.sites.hscoscdn-eu1.net
@@ -1455,14 +1460,13 @@ group47.sites.hscoscdn40.net
 group48.sites.hscoscdn40.net
 group49.sites.hscoscdn40.net
 api.hubapi.com
-jp.api.hubapi.com
 api-ap1.hubapi.com
 api-eu1.hubapi.com
-api-fra04-origin.hubapi.com
-api-iad02-origin.hubapi.com
 api-na1.hubapi.com
 api-na2.hubapi.com
 api-na3.hubapi.com
+api-pdx02-origin.hubapi.com
+api-syd02-origin.hubapi.com
 hubspotemail.net
 hubspotlinks.com
 c.hubz.pl
@@ -1648,7 +1652,6 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
-mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -1656,6 +1659,7 @@ mkto-ab280067.com
 mkto-ab280126.com
 mkto-ab290102.com
 mkto-ab290138.com
+mkto-ab300154.com
 mkto-ab310115.com
 mkto-ab320028.com
 mkto-ab320182.com
@@ -1694,6 +1698,7 @@ mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
+mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540143.com
@@ -1872,6 +1877,7 @@ chasede.api-02.moengage.com
 chaseuk.api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
+api-101.moengage.com
 t.emailing.monoprix.fr
 af.mopo.jp
 cj.mplxtms.com
@@ -2334,6 +2340,7 @@ redirect.appmetrica.yandex.ru
 4276573.redirect.appmetrica.yandex.com
 42989.redirect.appmetrica.yandex.com
 42989.redirect.appmetrica.yandex.ru
+4348699.redirect.appmetrica.yandex.com
 4372360.redirect.appmetrica.yandex.com
 4479526.redirect.appmetrica.yandex.com
 4541467.redirect.appmetrica.yandex.com
