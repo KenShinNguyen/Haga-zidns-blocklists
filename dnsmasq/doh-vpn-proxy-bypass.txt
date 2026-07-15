@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 08:23 UTC
-# Version: 2026.0715.0823.15
+# Last modified: 15 Jul 2026 19:09 UTC
+# Version: 2026.0715.1909.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16691
+# Number of entries: 16700
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -440,6 +440,7 @@ local=/dns.jp.anitelecom.org/
 local=/dns.ru.anitelekom.ru/
 local=/dns.anitelekom.ru/
 local=/sanns.aniuo.com/
+local=/cliffbayschools.anjumanallana.in/
 local=/dns.anne-pierre.fr/
 local=/dns.anon.no/
 local=/a-regist.anondns.net/
@@ -647,6 +648,7 @@ local=/thorn.barneysaurous.net/
 local=/archlinuxisthebestlol.baselinux.net/
 local=/dashboardd.baselinux.net/
 local=/aphistorytutoring.bastaff.ru/
+local=/aqua.bastaff.ru/
 local=/tacobelljobs.bastaff.ru/
 local=/we-hate-school.bastaff.ru/
 local=/home.basthorst.eu/
@@ -823,6 +825,7 @@ local=/dns.brionesserver.net/
 local=/r.britannica.cf/
 local=/agh.broaddy.com/
 local=/dns.brono.cloud/
+local=/blooket.broomleigh.org/
 local=/classroom.broomleigh.org/
 local=/home.bruckmoser.it/
 local=/81.brudnowski.eu/
@@ -6022,6 +6025,7 @@ local=/httpdns.danuoyi.tbcache.com/
 local=/92.38.177.16.dyn.tcadmin.net/
 local=/galaxy.is.cool.tcloud.my/
 local=/dms.dms.dms.tcloud.my/
+local=/baablu.tcloud.my/
 local=/galaxy.tcloud.my/
 local=/galaxyisthebest.tcloud.my/
 local=/home.tcloud.my/
@@ -6043,6 +6047,7 @@ local=/adguard.tcpu.io/
 local=/teach.state.teachmetofish.net/
 local=/learning.teamgaming.pw/
 local=/dns.teaminfo.fr/
+local=/arab.is.goated.teamradicus.com/
 local=/dns-br.leonardo.tec.br/
 local=/dns.techcpu.net/
 local=/dns1.techeasy.org/
@@ -7440,6 +7445,7 @@ local=/anker-beton.ru/
 local=/annual2025.uk/
 local=/ano404.top/
 local=/anol.loan/
+local=/anomivpn.com/
 local=/anonine.com/
 local=/anonto.pw/
 local=/anonvpn.io/
@@ -7499,7 +7505,6 @@ local=/aoxvpn.net/
 local=/aoxvpn666.com/
 local=/aoxvpnapp.com/
 local=/apache-iv.com/
-local=/apfgexfusion.com/
 local=/api-gogles.com/
 local=/api-tel.xyz/
 local=/api999.com/
@@ -7648,6 +7653,7 @@ local=/award-vpn.com/
 local=/awardztq.com/
 local=/awebproxy.com/
 local=/awhoer.net/
+local=/axaxa.fun/
 local=/axistechsupport.com/
 local=/axyno.xyz/
 local=/ayako.cc/
@@ -7684,6 +7690,7 @@ local=/badrsgpr.com/
 local=/baikalvpn.ru/
 local=/bailey.today/
 local=/bajie.la/
+local=/bajiess.com/
 local=/ballbang.com/
 local=/banana-vpn.com/
 local=/bananaspeed.site/
@@ -8258,6 +8265,7 @@ local=/browserling.com/
 local=/browservpn.online/
 local=/brsjk.cn/
 local=/brsueykh.com/
+local=/brunycraft.xyz/
 local=/brunysixl.work/
 local=/brwczgvk.com/
 local=/bsbollbn.com/
@@ -11233,6 +11241,7 @@ local=/ionprox.com/
 local=/iopgn.com/
 local=/iopl.xyz/
 local=/iosedge.com/
+local=/iosequence.online/
 local=/iosjiasu.net/
 local=/iossync.com/
 local=/ioxy.de/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 08:22 UTC
-# Version: 2026.0715.0822.11
+# Last modified: 15 Jul 2026 19:08 UTC
+# Version: 2026.0715.1908.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 3404
+# Number of entries: 3405
 #
 ss.0001.xyz
 ns.00dani.me
@@ -2986,6 +2986,7 @@ arcticstorm.ru
 aridia.ru
 atris.cyou
 atsilva.link
+axaxa.fun
 axistechsupport.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 bancuh.com

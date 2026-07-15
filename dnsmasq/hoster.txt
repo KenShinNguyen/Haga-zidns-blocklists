@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 07:39 UTC
-# Version: 2026.0715.0739.39
+# Last modified: 15 Jul 2026 18:28 UTC
+# Version: 2026.0715.1828.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1237
+# Number of entries: 1238
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -22,6 +22,7 @@ local=/thamboli.co.za/
 local=/blogspot.com.au/
 local=/blogspot.com.br/
 local=/blogspot.com.es/
+local=/cableonline.com.mx/
 local=/encurtador.com.br/
 local=/kl.com.ua/
 local=/webnode.com.pt/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 08:22 UTC
-# Version: 2026.0715.0822.11
+# Last modified: 15 Jul 2026 19:08 UTC
+# Version: 2026.0715.1908.44
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3839
+# Number of entries: 3840
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -400,6 +400,7 @@
 0.0.0.0 dns.audet.cloud
 0.0.0.0 dns.auffray.org
 0.0.0.0 vps.avc.cx
+0.0.0.0 axaxa.fun
 0.0.0.0 dnstx.axhy.cc
 0.0.0.0 axistechsupport.com
 0.0.0.0 dns.axto.me
