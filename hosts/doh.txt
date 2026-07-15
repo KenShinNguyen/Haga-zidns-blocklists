@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 11:35 UTC
-# Version: 2026.0714.1135.22
+# Last modified: 15 Jul 2026 08:22 UTC
+# Version: 2026.0715.0822.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3837
+# Number of entries: 3839
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -541,6 +541,7 @@
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 dns.briac-mlb.fr
 0.0.0.0 dns.system.brianhong.kr
+0.0.0.0 ag.brianlee.fun
 0.0.0.0 dns.brionesserver.net
 0.0.0.0 agh.broaddy.com
 0.0.0.0 www.agh.broaddy.com
@@ -842,6 +843,7 @@
 0.0.0.0 dohdot.coxlab.net
 0.0.0.0 nrusimha.crabdance.com
 0.0.0.0 adguard.crestfallen.de
+0.0.0.0 dns.criena.net
 0.0.0.0 cristianocosta.me
 0.0.0.0 dns.itsec.crolla.net
 0.0.0.0 crypto.sx
@@ -1154,7 +1156,6 @@
 0.0.0.0 lim02.dnscry.pt
 0.0.0.0 lis01.dnscry.pt
 0.0.0.0 lis02.dnscry.pt
-0.0.0.0 lju01.dnscry.pt
 0.0.0.0 llk01.dnscry.pt
 0.0.0.0 lon01.dnscry.pt
 0.0.0.0 los01.dnscry.pt
@@ -1188,7 +1189,6 @@
 0.0.0.0 per01.dnscry.pt
 0.0.0.0 phl01.dnscry.pt
 0.0.0.0 phx01.dnscry.pt
-0.0.0.0 pmo01.dnscry.pt
 0.0.0.0 prg01.dnscry.pt
 0.0.0.0 qro01.dnscry.pt
 0.0.0.0 rdd01.dnscry.pt
@@ -2156,6 +2156,7 @@
 0.0.0.0 kallemarc.de
 0.0.0.0 adguard.kalyanmudumby.com
 0.0.0.0 dns.kamilszczepanski.com
+0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 dns.kapite.in
 0.0.0.0 dns.kapoww.tk
 0.0.0.0 dns.karadag.me
@@ -3805,6 +3806,7 @@
 0.0.0.0 httpdns.gslb.yy.com
 0.0.0.0 dns.yyaan.com
 0.0.0.0 dns.yyaan.top
+0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 zabolotskikh.dev
 0.0.0.0 adguard.zachitect.com

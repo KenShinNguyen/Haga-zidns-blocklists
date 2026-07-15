@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 14:13 UTC
-# Version: 2026.0714.1413.32
+# Last modified: 15 Jul 2026 07:39 UTC
+# Version: 2026.0715.0739.39
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1237
 #
@@ -314,6 +314,7 @@ local=/bugs3.com/
 local=/builderall.net/
 local=/builtfree.org/
 local=/bulkurlshortener.com/
+local=/business.site/
 local=/business-minagne.com/
 local=/bx5.de/
 local=/byethost.com/
@@ -587,7 +588,6 @@ local=/gaming.lc/
 local=/genblogger.com/
 local=/gerentebr.com/
 local=/getenjoyment.net/
-local=/getfile.biz/
 local=/getresponsesite.com/
 local=/gg123.vip/
 local=/gilde.in/

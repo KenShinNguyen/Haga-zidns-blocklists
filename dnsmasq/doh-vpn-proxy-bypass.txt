@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 11:18 UTC
-# Version: 2026.0714.1118.35
+# Last modified: 15 Jul 2026 08:23 UTC
+# Version: 2026.0715.0823.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16682
+# Number of entries: 16691
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -817,6 +817,7 @@ local=/dns.brembeck.cloud/
 local=/newyears.brg2.xyz/
 local=/dns.briac-mlb.fr/
 local=/dns.system.brianhong.kr/
+local=/ag.brianlee.fun/
 local=/vacation.briaquaticcabinets.com/
 local=/dns.brionesserver.net/
 local=/r.britannica.cf/
@@ -2185,6 +2186,7 @@ local=/smartpn.creographix.at/
 local=/tromp.creographix.at/
 local=/vcsa.creographix.at/
 local=/adguard.crestfallen.de/
+local=/dns.criena.net/
 local=/dns.itsec.crolla.net/
 local=/fern.crosbreaker.dev/
 local=/bx3.cdn.gh-pages.cryodome.com/
@@ -3089,7 +3091,6 @@ local=/dns.fifux.be/
 local=/dns.filipccz.eu/
 local=/collegeprep.fin-tech.com/
 local=/learngeometryfr.fin-tech.com/
-local=/testplease.fin-tech.com/
 local=/nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi/
 local=/canvas-math-tools.firebaseapp.com/
 local=/infamous-scram-test.firebaseapp.com/
@@ -4064,6 +4065,7 @@ local=/supposing.kaiak.top/
 local=/toe.kaiak.top/
 local=/adguard.kalyanmudumby.com/
 local=/dns.kamilszczepanski.com/
+local=/adguard.kantinyoyok.xyz/
 local=/dns.kapite.in/
 local=/dns.kapoww.tk/
 local=/dns.karadag.me/
@@ -6725,6 +6727,7 @@ local=/doh.ywhost.com/
 local=/httpdns.gslb.yy.com/
 local=/dns.yyaan.com/
 local=/dns.yyaan.top/
+local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/adguard.zachitect.com/
 local=/akylah.zapto.org/
@@ -6771,6 +6774,7 @@ local=/online.zotio.ru/
 local=/vpn.zotus.ru/
 local=/d.zscale.gq/
 local=/dns.zui.lol/
+local=/1dollarmeathod.zunbaoyule123.com/
 local=/httpdns.zybang.com/
 local=/ams.core.access.zznet.fun/
 local=/hkg.core.access.zznet.fun/
@@ -6804,6 +6808,7 @@ local=/108023.xyz/
 local=/112112789.xyz/
 local=/1145145.com/
 local=/123-proxy.net/
+local=/123-proxy.org/
 local=/123000123.xyz/
 local=/123417.xyz/
 local=/123adsas.store/
@@ -6816,10 +6821,12 @@ local=/123book.org/
 local=/123down.org/
 local=/123fr.info/
 local=/123free.info/
+local=/123goproxy.com/
 local=/123hideip.com/
 local=/123inside.net/
 local=/123jsq.top/
 local=/123li.me/
+local=/123me.net/
 local=/123music.app/
 local=/123proxy.app/
 local=/123proxy.biz/
@@ -6944,6 +6951,7 @@ local=/3jjxxl.tech/
 local=/3kh0.org/
 local=/3nkh5crxol.ch/
 local=/3proxy.de/
+local=/3proxy.us/
 local=/3qguvtvrpyzkatp2.online/
 local=/3x.nz/
 local=/40920604.xyz/
@@ -6980,6 +6988,7 @@ local=/5537955585be9a774f79ea792941d72404fe69d3.com/
 local=/55780358.xyz/
 local=/55aktnolkvuoctxitm.online/
 local=/55gms.com/
+local=/55gms.me/
 local=/55laomao.com/
 local=/57824.com/
 local=/583838.xyz/

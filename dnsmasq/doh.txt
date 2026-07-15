@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 11:35 UTC
-# Version: 2026.0714.1135.22
+# Last modified: 15 Jul 2026 08:22 UTC
+# Version: 2026.0715.0822.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3402
+# Number of entries: 3404
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -385,6 +385,7 @@ local=/dns.brahma.world/
 local=/dns.brembeck.cloud/
 local=/dns.briac-mlb.fr/
 local=/dns.system.brianhong.kr/
+local=/ag.brianlee.fun/
 local=/dns.brionesserver.net/
 local=/agh.broaddy.com/
 local=/dns.brono.cloud/
@@ -600,6 +601,7 @@ local=/dot.cox.net/
 local=/dohdot.coxlab.net/
 local=/nrusimha.crabdance.com/
 local=/adguard.crestfallen.de/
+local=/dns.criena.net/
 local=/dns.itsec.crolla.net/
 local=/dns.cryptomize.com/
 local=/ae-agh1.dns.cryptroute.net/
@@ -840,7 +842,6 @@ local=/lax02.dnscry.pt/
 local=/lim02.dnscry.pt/
 local=/lis01.dnscry.pt/
 local=/lis02.dnscry.pt/
-local=/lju01.dnscry.pt/
 local=/llk01.dnscry.pt/
 local=/lon01.dnscry.pt/
 local=/los01.dnscry.pt/
@@ -874,7 +875,6 @@ local=/ped01.dnscry.pt/
 local=/per01.dnscry.pt/
 local=/phl01.dnscry.pt/
 local=/phx01.dnscry.pt/
-local=/pmo01.dnscry.pt/
 local=/prg01.dnscry.pt/
 local=/qro01.dnscry.pt/
 local=/rdd01.dnscry.pt/
@@ -1614,6 +1614,7 @@ local=/dns.k3nny.fr/
 local=/agh.kacike.cl/
 local=/adguard.kalyanmudumby.com/
 local=/dns.kamilszczepanski.com/
+local=/adguard.kantinyoyok.xyz/
 local=/dns.kapite.in/
 local=/dns.kapoww.tk/
 local=/dns.karadag.me/
@@ -2889,6 +2890,7 @@ local=/doh.ywhost.com/
 local=/httpdns.gslb.yy.com/
 local=/dns.yyaan.com/
 local=/dns.yyaan.top/
+local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/adguard.zachitect.com/
 local=/akylah.zapto.org/

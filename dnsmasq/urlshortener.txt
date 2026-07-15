@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 09:55 UTC
-# Version: 2026.0710.0955.55
+# Last modified: 15 Jul 2026 07:08 UTC
+# Version: 2026.0715.0708.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9907
+# Number of entries: 9917
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -138,6 +138,7 @@ local=/links.nivbook.co.il/
 local=/go.sbws.co.uk/
 local=/go.thamrin.co.id/
 local=/w.webicon.co.za/
+local=/1a.co.nz/
 local=/1url.co.uk/
 local=/acsafrica.co.za/
 local=/aptly.co.za/
@@ -929,6 +930,7 @@ local=/0i.is/
 local=/0ln.eu/
 local=/0mjgn0m.site/
 local=/0o.lv/
+local=/0oj.cn/
 local=/0rl.cc/
 local=/0rz.tw/
 local=/0s0.com/
@@ -953,6 +955,7 @@ local=/122.link/
 local=/123.ge/
 local=/123415.xyz/
 local=/123link.co/
+local=/123lnk.xyz/
 local=/126.am/
 local=/128.pl/
 local=/12ne.ws/
@@ -1019,6 +1022,7 @@ local=/1ta.kr/
 local=/1tk.us/
 local=/1tn.se/
 local=/1ty.me/
+local=/1u.fi/
 local=/1u2.ru/
 local=/1un.fr/
 local=/1url.com/
@@ -1093,6 +1097,7 @@ local=/2tf.net/
 local=/2tiny.in/
 local=/2to.info/
 local=/2tu.us/
+local=/2ty.in/
 local=/2u.gg/
 local=/2u.lc/
 local=/2u.pw/
@@ -1146,6 +1151,7 @@ local=/3name.com/
 local=/3q3.de/
 local=/3qzr.com/
 local=/3ra.be/
+local=/3tj.cc/
 local=/3v3.run/
 local=/3w.pm/
 local=/3x.si/
@@ -1252,6 +1258,7 @@ local=/7g7.ir/
 local=/7i.nu/
 local=/7i.se/
 local=/7kts.com/
+local=/7li.in/
 local=/7link.info/
 local=/7link.pro/
 local=/7links.co/
@@ -1284,11 +1291,13 @@ local=/92url.com/
 local=/93.link/
 local=/98.to/
 local=/985.so/
+local=/98pro.cc/
 local=/999.sh/
 local=/99forward.com/
 local=/99fw.in/
 local=/99links.in/
 local=/99vpn.pro/
+local=/9fx.org/
 local=/9g9.org/
 local=/9h.dk/
 local=/9k.gg/
@@ -1469,6 +1478,7 @@ local=/ai6.net/
 local=/aiecj2.com/
 local=/aighy.com/
 local=/aim2.cc/
+local=/aimetath.com/
 local=/aimqr.com/
 local=/aintok.com/
 local=/ainurl.pro/

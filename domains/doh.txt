@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 11:35 UTC
-# Version: 2026.0714.1135.22
+# Last modified: 15 Jul 2026 08:22 UTC
+# Version: 2026.0715.0822.11
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3837
+# Number of entries: 3839
 #
 ss.0001.xyz
 003153.xyz
@@ -541,6 +541,7 @@ free.bravedns.com
 dns.brembeck.cloud
 dns.briac-mlb.fr
 dns.system.brianhong.kr
+ag.brianlee.fun
 dns.brionesserver.net
 agh.broaddy.com
 www.agh.broaddy.com
@@ -842,6 +843,7 @@ dot.cox.net
 dohdot.coxlab.net
 nrusimha.crabdance.com
 adguard.crestfallen.de
+dns.criena.net
 cristianocosta.me
 dns.itsec.crolla.net
 crypto.sx
@@ -1154,7 +1156,6 @@ lax02.dnscry.pt
 lim02.dnscry.pt
 lis01.dnscry.pt
 lis02.dnscry.pt
-lju01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 los01.dnscry.pt
@@ -1188,7 +1189,6 @@ ped01.dnscry.pt
 per01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
-pmo01.dnscry.pt
 prg01.dnscry.pt
 qro01.dnscry.pt
 rdd01.dnscry.pt
@@ -2156,6 +2156,7 @@ kaiwu.xyz
 kallemarc.de
 adguard.kalyanmudumby.com
 dns.kamilszczepanski.com
+adguard.kantinyoyok.xyz
 dns.kapite.in
 dns.kapoww.tk
 dns.karadag.me
@@ -3805,6 +3806,7 @@ doh.ywhost.com
 httpdns.gslb.yy.com
 dns.yyaan.com
 dns.yyaan.top
+adg.yybyy.wiki
 dns.daemon.za.net
 zabolotskikh.dev
 adguard.zachitect.com

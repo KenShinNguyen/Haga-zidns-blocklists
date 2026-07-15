@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Jul 2026 14:13 UTC
-# Version: 2026.0714.1413.32
+# Last modified: 15 Jul 2026 07:39 UTC
+# Version: 2026.0715.0739.39
 # Syntax: Domains (without subdomains)
 # Number of entries: 1237
 #
@@ -314,6 +314,7 @@ bugs3.com
 builderall.net
 builtfree.org
 bulkurlshortener.com
+business.site
 business-minagne.com
 bx5.de
 byethost.com
@@ -587,7 +588,6 @@ gaming.lc
 genblogger.com
 gerentebr.com
 getenjoyment.net
-getfile.biz
 getresponsesite.com
 gg123.vip
 gilde.in
