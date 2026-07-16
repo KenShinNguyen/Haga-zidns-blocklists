@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 08:22 UTC
-# Version: 2026.0716.0822.55
+# Last modified: 16 Jul 2026 19:17 UTC
+# Version: 2026.0716.1917.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3415
+# Number of entries: 3417
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -1411,6 +1411,7 @@ local=/voyagerz.hopto.org/
 local=/dns.horcrux.vip/
 local=/dns.internal.hosmatic.com/
 local=/v1552270.hosted-by-vdsina.ru/
+local=/doh.hosterra.tech/
 local=/resolver1.hosting-cloud.net/
 local=/resolver2.hosting-cloud.net/
 local=/adg.hostingab.ru/
@@ -3173,6 +3174,7 @@ local=/ivnkn.xyz/
 local=/jabber-germany.de/
 local=/jabber-server.de/
 local=/jackyes.ovh/
+local=/jcdns.fun/
 local=/jimmyshjj.top/
 local=/jkdns.me/
 local=/jnprd.com/

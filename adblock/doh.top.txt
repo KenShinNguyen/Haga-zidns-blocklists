@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Jul 2026 08:23 UTC
-! Version: 2026.0716.0823.58
+! Last modified: 16 Jul 2026 19:17 UTC
+! Version: 2026.0716.1917.53
 ! Syntax: AdBlock
-! Number of entries: 256
+! Number of entries: 257
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -210,6 +210,7 @@
 ||intertop.link^
 ||jabber-germany.de^
 ||jackyes.ovh^
+||jcdns.fun^
 ||kilabit.info^
 ||korzhov.dev^
 ||landerbrauver.ru^

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Jul 2026 07:06 UTC
-! Version: 2026.0716.0706.54
+! Last modified: 16 Jul 2026 18:03 UTC
+! Version: 2026.0716.1803.00
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -3982,6 +3982,7 @@
 @@||hmf.li^
 @@||hmp.me^
 @@||hmt.ai^
+@@||hncinnamon.com^
 @@||hnd.bio^
 @@||hnpa.top^
 @@||hnsl.mn^
@@ -4259,6 +4260,7 @@
 @@||iolink.me^
 @@||ionos.ly^
 @@||ipdc.link^
+@@||ipgrab.org^
 @@||ipgrabber.ru^
 @@||ipgraber.ru^
 @@||ipkill.org^
@@ -4400,6 +4402,7 @@
 @@||jh7.uk^
 @@||jhu.li^
 @@||jhxpc.info^
+@@||jieee.sbs^
 @@||jif.li^
 @@||jijr.com^
 @@||jilitrick.live^
@@ -4724,6 +4727,7 @@
 @@||lcp.ovh^
 @@||lcra-tamu.org^
 @@||ldgr.info^
+@@||ldjet.io^
 @@||leakslinks.com^
 @@||learn.to^
 @@||learnit.today^
@@ -4774,6 +4778,7 @@
 @@||lighthouse-scholarship.com^
 @@||lign.it^
 @@||lih.kg^
+@@||lihat.bio^
 @@||lihat.info^
 @@||lihi.biz^
 @@||lihi.cc^
@@ -4818,6 +4823,7 @@
 @@||lin-k.ai^
 @@||lin-k.cc^
 @@||lin-k.eu^
+@@||lin-k.me^
 @@||lin0.de^
 @@||linanok.com^
 @@||linc.li^
@@ -4840,6 +4846,7 @@
 @@||link-cut.com^
 @@||link-ease.in^
 @@||link-fe.nz^
+@@||link-me.vip^
 @@||link-safe.co^
 @@||link-trim.com^
 @@||link-trim.in^
@@ -4910,6 +4917,7 @@
 @@||linkdly.com^
 @@||linkdly.me^
 @@||linkdoer.com^
+@@||linkdom.me^
 @@||linkdpx.xyz^
 @@||linkdrip.com^
 @@||linke.to^
@@ -5014,6 +5022,7 @@
 @@||linkoo.ru^
 @@||linkoon.com^
 @@||linkopener.co^
+@@||linkopeners.com^
 @@||linkoqr.com^
 @@||linkotomy.com^
 @@||linkotw.live^
@@ -5023,9 +5032,11 @@
 @@||linkpara.bio^
 @@||linkpatel.com^
 @@||linkpays.in^
+@@||linkpool.us^
 @@||linkpop.com^
 @@||linkpop.in^
 @@||linkprotbkita.com^
+@@||linkqb.com^
 @@||linkqr.io^
 @@||linkr.com^
 @@||linkr.uk^
@@ -5187,6 +5198,7 @@
 @@||lmcjl.com^
 @@||lmddgtfy.net^
 @@||lmg.gg^
+@@||lmg9.com^
 @@||lmt.co^
 @@||lmt.sh^
 @@||lmy.de^

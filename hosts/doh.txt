@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 08:22 UTC
-# Version: 2026.0716.0822.55
+# Last modified: 16 Jul 2026 19:17 UTC
+# Version: 2026.0716.1917.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3850
+# Number of entries: 3852
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1881,6 +1881,7 @@
 0.0.0.0 dns.horus-team.com
 0.0.0.0 dns.internal.hosmatic.com
 0.0.0.0 v1552270.hosted-by-vdsina.ru
+0.0.0.0 doh.hosterra.tech
 0.0.0.0 resolver1.hosting-cloud.net
 0.0.0.0 resolver2.hosting-cloud.net
 0.0.0.0 adg.hostingab.ru
@@ -2090,6 +2091,7 @@
 0.0.0.0 hk.jason666.top
 0.0.0.0 adguard.jaydub.cloud
 0.0.0.0 argus1.jcconnell.com
+0.0.0.0 jcdns.fun
 0.0.0.0 dns.jd.com
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 host.jerry-lee.uk

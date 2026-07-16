@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 08:24 UTC
-# Version: 2026.0716.0824.02
+# Last modified: 16 Jul 2026 19:17 UTC
+# Version: 2026.0716.1917.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16721
+# Number of entries: 16741
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -134,6 +134,7 @@
 *.ayman-dns.731my.com
 *.dns.73zls.com
 *.ns.77ll.ru
+*.idk.7btech.com
 *.hopethishelps.7geo7.ru
 *.noad.800216.xyz
 *.ad.800801.xyz
@@ -423,6 +424,7 @@
 *.dsl-app.s3.us-east-2.amazonaws.com
 *.innov-windows.s3.us-east-2.amazonaws.com
 *.commandedurchin.amber-cypress.com
+*.jobixtetoyuri.ames.website
 *.dns.amigo-mgn.ru
 *.adguard.aminetwork.biz
 *.blog2.amlegion.org
@@ -442,6 +444,8 @@
 *.sanns.aniuo.com
 *.cliffbayschools.anjumanallana.in
 *.dontbelocked.anjumanallana.in
+*.jormawo.anjumanallana.in
+*.learnvcsa.anjumanallana.in
 *.dns.anne-pierre.fr
 *.dns.anon.no
 *.a-regist.anondns.net
@@ -650,6 +654,7 @@
 *.dashboardd.baselinux.net
 *.aphistorytutoring.bastaff.ru
 *.aqua.bastaff.ru
+*.hackedsites.bastaff.ru
 *.tacobelljobs.bastaff.ru
 *.we-hate-school.bastaff.ru
 *.home.basthorst.eu
@@ -678,6 +683,7 @@
 *.domburg.beruys.com
 *.openvpnpptp.bese.info
 *.openvpnpptpserver.bese.info
+*.learnvcsa.bestprogramsforkids.com
 *.v2202510290637393088.bestsrv.de
 *.dns.bezmezhau.com
 *.dns.bgeneto.com
@@ -828,6 +834,7 @@
 *.dns.brono.cloud
 *.blooket.broomleigh.org
 *.classroom.broomleigh.org
+*.linewize.broomleigh.org
 *.home.bruckmoser.it
 *.81.brudnowski.eu
 *.81xyz.brudnowski.eu
@@ -3585,6 +3592,7 @@
 *.making-more-kids-from-ur-mother.hosteriafutaleufu.cl
 *.noah1.hosteriafutaleufu.cl
 *.weloveyounoah.hosteriafutaleufu.cl
+*.doh.hosterra.tech
 *.resolver1.hosting-cloud.net
 *.resolver2.hosting-cloud.net
 *.adg.hostingab.ru
@@ -10573,6 +10581,7 @@
 *.gsyvipaff.cc
 *.gtag.club
 *.gtdqambjtl3.online
+*.gtkpw.com
 *.gtmenbrs.com
 *.gtoyes.com
 *.guanmengkai.com
@@ -10612,6 +10621,7 @@
 *.gztech.me
 *.gzyabio.cn
 *.h-vpn.org
+*.h0w.cc
 *.habd.me
 *.hackkcah.com
 *.haffnetworkam.com
@@ -10772,6 +10782,7 @@
 *.hichiji.com
 *.hicyberghost.com
 *.hidaxiang.com
+*.hidden.nu
 *.hiddendigital.info
 *.hiddendragon.site
 *.hiddify.help
@@ -11036,6 +11047,7 @@
 *.home-kuailian.com
 *.home-server.store
 *.home34.su
+*.homemail.info
 *.homeproxy.com
 *.homeproxy.net
 *.homes999.com
@@ -11097,6 +11109,7 @@
 *.httpdns.pro
 *.httpinjector.com
 *.huarenjsq.top
+*.huayunss.com
 *.hubdhl.com
 *.hubebay.com
 *.hubgoogle.com
@@ -11287,9 +11300,11 @@
 *.iprovpn.dev
 *.iproxy.blog
 *.iproxy.lol
+*.iproxy.nl
 *.iproxyvpn.mom
 *.iproyal.com
 *.ipsec-vpn.help
+*.ipservers.xyz
 *.ipsharkk.com
 *.ipunblock.com
 *.ipunblocker.com
@@ -11372,6 +11387,7 @@
 *.jbmcxmpx.cc
 *.jcbb.cc
 *.jcbm-mc.uk
+*.jcdns.fun
 *.jego.club
 *.jego.pro
 *.jegocloud.com
@@ -11411,6 +11427,8 @@
 *.jifengcloud.info
 *.jifengcloud.net
 *.jifengcloud.org
+*.jifengjc.com
+*.jifengwangluo.com
 *.jike.ph
 *.jike0.net
 *.jike0001.net
@@ -11587,6 +11605,7 @@
 *.karo-vpn.xyz
 *.kastino.ru
 *.katakanachart.com
+*.katonetwork.com
 *.kavkaz.monster
 *.kaydeolib.io
 *.kayqyahz.com
@@ -12065,6 +12084,7 @@
 *.legalweb.info
 *.lei-su.com
 *.leidian.uk
+*.leidian123.com
 *.leidian123.org
 *.leidian365.cc
 *.leidian88.com

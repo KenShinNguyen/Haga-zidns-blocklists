@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 08:22 UTC
-# Version: 2026.0716.0822.55
+# Last modified: 16 Jul 2026 19:17 UTC
+# Version: 2026.0716.1917.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 3415
+# Number of entries: 3417
 #
 ss.0001.xyz
 ns.00dani.me
@@ -1411,6 +1411,7 @@ voyagerz.hopto.org
 dns.horcrux.vip
 dns.internal.hosmatic.com
 v1552270.hosted-by-vdsina.ru
+doh.hosterra.tech
 resolver1.hosting-cloud.net
 resolver2.hosting-cloud.net
 adg.hostingab.ru
@@ -3173,6 +3174,7 @@ ivnkn.xyz
 jabber-germany.de
 jabber-server.de
 jackyes.ovh
+jcdns.fun
 jimmyshjj.top
 jkdns.me
 jnprd.com

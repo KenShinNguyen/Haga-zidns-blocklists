@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 07:06 UTC
-# Version: 2026.0716.0706.54
+# Last modified: 16 Jul 2026 18:03 UTC
+# Version: 2026.0716.1803.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9946
+# Number of entries: 9958
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -3987,6 +3987,7 @@ local=/hmd.bio/
 local=/hmf.li/
 local=/hmp.me/
 local=/hmt.ai/
+local=/hncinnamon.com/
 local=/hnd.bio/
 local=/hnpa.top/
 local=/hnsl.mn/
@@ -4264,6 +4265,7 @@ local=/inyuy.com/
 local=/iolink.me/
 local=/ionos.ly/
 local=/ipdc.link/
+local=/ipgrab.org/
 local=/ipgrabber.ru/
 local=/ipgraber.ru/
 local=/ipkill.org/
@@ -4405,6 +4407,7 @@ local=/jeya.li/
 local=/jh7.uk/
 local=/jhu.li/
 local=/jhxpc.info/
+local=/jieee.sbs/
 local=/jif.li/
 local=/jijr.com/
 local=/jilitrick.live/
@@ -4730,6 +4733,7 @@ local=/lccs.ovh/
 local=/lcp.ovh/
 local=/lcra-tamu.org/
 local=/ldgr.info/
+local=/ldjet.io/
 local=/leakslinks.com/
 local=/learn.to/
 local=/learnit.today/
@@ -4780,6 +4784,7 @@ local=/lightbee.io/
 local=/lighthouse-scholarship.com/
 local=/lign.it/
 local=/lih.kg/
+local=/lihat.bio/
 local=/lihat.info/
 local=/lihi.biz/
 local=/lihi.cc/
@@ -4824,6 +4829,7 @@ local=/lin.st/
 local=/lin-k.ai/
 local=/lin-k.cc/
 local=/lin-k.eu/
+local=/lin-k.me/
 local=/lin0.de/
 local=/linanok.com/
 local=/linc.li/
@@ -4846,6 +4852,7 @@ local=/link.space/
 local=/link-cut.com/
 local=/link-ease.in/
 local=/link-fe.nz/
+local=/link-me.vip/
 local=/link-safe.co/
 local=/link-trim.com/
 local=/link-trim.in/
@@ -4916,6 +4923,7 @@ local=/linkdel.bio/
 local=/linkdly.com/
 local=/linkdly.me/
 local=/linkdoer.com/
+local=/linkdom.me/
 local=/linkdpx.xyz/
 local=/linkdrip.com/
 local=/linke.to/
@@ -5020,6 +5028,7 @@ local=/linkoli.com/
 local=/linkoo.ru/
 local=/linkoon.com/
 local=/linkopener.co/
+local=/linkopeners.com/
 local=/linkoqr.com/
 local=/linkotomy.com/
 local=/linkotw.live/
@@ -5029,9 +5038,11 @@ local=/linkpage.it/
 local=/linkpara.bio/
 local=/linkpatel.com/
 local=/linkpays.in/
+local=/linkpool.us/
 local=/linkpop.com/
 local=/linkpop.in/
 local=/linkprotbkita.com/
+local=/linkqb.com/
 local=/linkqr.io/
 local=/linkr.com/
 local=/linkr.uk/
@@ -5193,6 +5204,7 @@ local=/llu.ch/
 local=/lmcjl.com/
 local=/lmddgtfy.net/
 local=/lmg.gg/
+local=/lmg9.com/
 local=/lmt.co/
 local=/lmt.sh/
 local=/lmy.de/
