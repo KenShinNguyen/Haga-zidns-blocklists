@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 17:59 UTC
-# Version: 2026.0715.1759.28
+# Last modified: 16 Jul 2026 07:06 UTC
+# Version: 2026.0716.0706.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9934
+# Number of entries: 9946
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -93,6 +93,7 @@
 *.go.bitcomma.com
 *.url.nafi.biz.id
 *.aje.biz.id
+*.dnl.biz.id
 *.opetsalman.biz.id
 *.artist.blanchtrap.com
 *.ai.blendnow.com
@@ -2722,6 +2723,7 @@
 *.customurlshortener.com
 *.cut.by
 *.cut.gl
+*.cut.live
 *.cut.lu
 *.cut.ovh
 *.cut.pe
@@ -2764,6 +2766,7 @@
 *.cutt.ly
 *.cutt.pk
 *.cutt.us
+*.cutt4.me
 *.cuttgoo.com
 *.cutth.com
 *.cutthis.link
@@ -2948,6 +2951,7 @@
 *.dkng.co
 *.dky.bz
 *.dl.gl
+*.dl-protect.info
 *.dl-protect.link
 *.dl100.cc
 *.dld.bz
@@ -3101,9 +3105,11 @@
 *.eaash.co
 *.earl.sh
 *.earn4link.in
+*.earn4url.com
 *.earnesst.website
 *.earnestwiles.com
 *.earnfly.net
+*.earnpays.com
 *.earnshort.site
 *.earnshorter.com
 *.earnshortly.com
@@ -3119,6 +3125,7 @@
 *.easyurl.site
 *.easyurlshortener.com
 *.eazify.net
+*.eb.do
 *.ebarata.com
 *.ebay.to
 *.ebbco.ir
@@ -3155,6 +3162,7 @@
 *.eeb.me
 *.eepurl.com
 *.efie.co
+*.eflick.me
 *.efraising.org
 *.efs.link
 *.efshop.tw
@@ -3281,6 +3289,7 @@
 *.exploreosv.com
 *.exx.us
 *.eyemakeu.com
+*.eyq.me
 *.eys.li
 *.ez1.cc
 *.ezbio.me
@@ -3314,6 +3323,7 @@
 *.f5i.org
 *.f5url.com
 *.f5yo.com
+*.f6x.cn
 *.fa.by
 *.fa.gd
 *.fa-st.co
@@ -3718,6 +3728,7 @@
 *.go2.do
 *.go2.me
 *.go2ct.pro
+*.go2cut.com
 *.go2l.ir
 *.go2ln.com
 *.go2my.info
@@ -3866,6 +3877,7 @@
 *.gyntekbusiness.com
 *.h-ref.com
 *.h1.nu
+*.h2mhridayff.com
 *.h3x.ir
 *.h5bio.com
 *.ha4l.com

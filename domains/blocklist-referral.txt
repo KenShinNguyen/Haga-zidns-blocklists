@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 06:49 UTC
-# Version: 2026.0715.0649.39
+# Last modified: 16 Jul 2026 06:48 UTC
+# Version: 2026.0716.0648.38
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2354
+# Number of entries: 2353
 #
 1-aclk.net
 1aurl.io
@@ -218,9 +218,6 @@ track.canva.com
 tracking.cashkaro.com
 cc-dt.com
 neural17.cdnwebcloud.com
-mkto-dev.certinia.com
-insights.mkto-dev.certinia.com
-links.mkto-dev.certinia.com
 t.cfjump.com
 click.channelsight.com
 cse3.chausport.com
@@ -329,6 +326,7 @@ seu1.cleverreach.com
 57960.seu1.cleverreach.com
 59131.seu1.cleverreach.com
 61925.seu1.cleverreach.com
+63657.seu1.cleverreach.com
 63728.seu1.cleverreach.com
 66689.seu1.cleverreach.com
 66809.seu1.cleverreach.com
@@ -460,6 +458,7 @@ seu2.cleverreach.com
 230480.seu2.cleverreach.com
 230576.seu2.cleverreach.com
 232151.seu2.cleverreach.com
+232671.seu2.cleverreach.com
 234207.seu2.cleverreach.com
 236265.seu2.cleverreach.com
 236410.seu2.cleverreach.com
@@ -858,7 +857,6 @@ open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
 042705c9.open.convertkit-mail4.com
-07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
 104ffb11.open.convertkit-mail4.com
@@ -898,6 +896,7 @@ e22d5796.open.convertkit-mail4.com
 e45adc39.open.convertkit-mail4.com
 e4c5c2ea.open.convertkit-mail4.com
 e8a642ed.open.convertkit-mail4.com
+e947aee2.open.convertkit-mail4.com
 f9ab9a0f.open.convertkit-mail4.com
 fc541894.open.convertkit-mail4.com
 fe05b0e9.open.convertkit-mail4.com
@@ -1190,6 +1189,7 @@ mc.s51.exacttarget.com
 s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
+mc.s6.exacttarget.com
 members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
@@ -1213,6 +1213,7 @@ alx-cdn.exponea.com
 cdn.exponea.com
 csb-cdn.exponea.com
 dgl-cdn.exponea.com
+dvr-cdn.exponea.com
 cdn.e-pfg.exponea.com
 els-cdn.exponea.com
 cdn.eu1.exponea.com
@@ -1326,7 +1327,6 @@ homesrvcs.com
 go.hotmart.com
 click.instantink.hpsmart.com
 href.li
-sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139786927.sites.hscoscdn-eu1.net
 139808002.sites.hscoscdn-eu1.net
@@ -1649,7 +1649,6 @@ mkto-ab130037.com
 mkto-ab130188.com
 mkto-ab140048.com
 mkto-ab150013.com
-mkto-ab150224.com
 mkto-ab170094.com
 mkto-ab170123.com
 mkto-ab170161.com
@@ -1661,6 +1660,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -1707,7 +1707,6 @@ mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
-mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540143.com
@@ -1717,7 +1716,6 @@ mkto-ab550140.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
-mkto-ab560171.com
 mkto-ab570110.com
 mkto-ab570128.com
 mkto-ab580004.com
@@ -1733,6 +1731,7 @@ mkto-ab630042.com
 mkto-ab640171.com
 mkto-ab650097.com
 mkto-ab650172.com
+mkto-ab650200.com
 mkto-ab660121.com
 mkto-ab660168.com
 mkto-ab680016.com
@@ -1745,6 +1744,7 @@ mkto-ab690180.com
 mkto-ab700044.com
 mkto-abc0114.com
 mkto-abc0241.com
+mkto-abd0206.com
 mkto-abd0218.com
 mkto-abj0022.com
 mkto-abm0255.com
@@ -1887,7 +1887,6 @@ chasede.api-02.moengage.com
 chaseuk.api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
-api-101.moengage.com
 t.emailing.monoprix.fr
 af.mopo.jp
 cj.mplxtms.com

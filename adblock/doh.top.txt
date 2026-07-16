@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Jul 2026 08:23 UTC
-! Version: 2026.0715.0823.11
+! Last modified: 16 Jul 2026 08:23 UTC
+! Version: 2026.0716.0823.58
 ! Syntax: AdBlock
-! Number of entries: 255
+! Number of entries: 256
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -36,6 +36,7 @@
 ||ore-dns.bitdefender.net^
 ||tky-dns.bitdefender.net^
 ||doh-de.blahdns.com^
+||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
 ||dns.brahma.world^

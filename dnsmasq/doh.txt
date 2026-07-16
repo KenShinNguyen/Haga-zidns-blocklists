@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 19:08 UTC
-# Version: 2026.0715.1908.44
+# Last modified: 16 Jul 2026 08:22 UTC
+# Version: 2026.0716.0822.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3405
+# Number of entries: 3415
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -601,7 +601,6 @@ local=/dot.cox.net/
 local=/dohdot.coxlab.net/
 local=/nrusimha.crabdance.com/
 local=/adguard.crestfallen.de/
-local=/dns.criena.net/
 local=/dns.itsec.crolla.net/
 local=/dns.cryptomize.com/
 local=/ae-agh1.dns.cryptroute.net/
@@ -1169,6 +1168,7 @@ local=/dns.farshmc.ru/
 local=/adh.fastpacefixit.info/
 local=/adguardhome.favrep.ovh/
 local=/dns2.fawz.de/
+local=/dns.faze.dev/
 local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
 local=/agh.feblab.click/
@@ -1605,6 +1605,7 @@ local=/dns.juancamos.com/
 local=/addns.jujuland.net/
 local=/dns.jundev.org/
 local=/dns.jungle-im.ir/
+local=/dns.jupitrdns.com/
 local=/jp01.just-a-web.com/
 local=/sgs02.just-a-web.com/
 local=/ad.justincounts.com/
@@ -1703,6 +1704,7 @@ local=/adguard1.leadmon.net/
 local=/adguard2.leadmon.net/
 local=/tr.league1.xyz/
 local=/adblock.leenit.kr/
+local=/externalmobiel.lekdijk.online/
 local=/sndkcuf.lekun.me/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
@@ -2168,6 +2170,7 @@ local=/dns-ovh.panszelescik.pl/
 local=/dns.pari.network/
 local=/dns.pastorov.ru/
 local=/wg.pastorov.ru/
+local=/doh.gcp.pathofgrace.com/
 local=/nas.patrick-antoine.fr/
 local=/dns.paxavemedia.com/
 local=/vps-ovh.pb2004.pl/
@@ -2193,9 +2196,12 @@ local=/dot.eastas.pi-dns.com/
 local=/doh.eastau.pi-dns.com/
 local=/dot.eastau.pi-dns.com/
 local=/doh.eastus.pi-dns.com/
+local=/dot.eastus.pi-dns.com/
 local=/doh.northeu.pi-dns.com/
 local=/dot.northeu.pi-dns.com/
 local=/doh.westeu.pi-dns.com/
+local=/doh.westus.pi-dns.com/
+local=/dot.westus.pi-dns.com/
 local=/doh.pi-dns.com/
 local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
@@ -2207,6 +2213,7 @@ local=/doh.plaawan.uk/
 local=/helios.plan9-dns.com/
 local=/kronos.plan9-dns.com/
 local=/pluton.plan9-dns.com/
+local=/draco.plan9-ns2.com/
 local=/door.plasmadancer.ru/
 local=/secure-dns.pleumkungz.com/
 local=/thanos.pleumkungz.com/
@@ -2801,6 +2808,7 @@ local=/zhang.wenru.xyz/
 local=/doh.wewitro.net/
 local=/doh-rs.whalebone.io/
 local=/bwh.why4free.top/
+local=/dns.wibenson.cloud/
 local=/dns1-secure.wifire.it/
 local=/adguard.wifri.space/
 local=/dns-1.wil.cloud/
@@ -2850,6 +2858,7 @@ local=/look.xshentx.org/
 local=/dns.xuming.studio/
 local=/dns.xusqui.com/
 local=/dns.xv.fi/
+local=/dns.xwdmw.xyz/
 local=/dns.xwu.us/
 local=/v2.xx3210766.live/
 local=/dns.xydustc.me/
@@ -3049,6 +3058,7 @@ local=/dns.google/
 local=/dns.pub/
 local=/dns.sb/
 local=/dns.watch/
+local=/dns-free.link/
 local=/dns0.eu/
 local=/dns4eu.online/
 local=/dns4me.net/

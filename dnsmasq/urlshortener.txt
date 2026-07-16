@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 17:59 UTC
-# Version: 2026.0715.1759.28
+# Last modified: 16 Jul 2026 07:06 UTC
+# Version: 2026.0716.0706.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9934
+# Number of entries: 9946
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -93,6 +93,7 @@ local=/r.bioinfweb.info/
 local=/go.bitcomma.com/
 local=/url.nafi.biz.id/
 local=/aje.biz.id/
+local=/dnl.biz.id/
 local=/opetsalman.biz.id/
 local=/artist.blanchtrap.com/
 local=/ai.blendnow.com/
@@ -2722,6 +2723,7 @@ local=/customers.my/
 local=/customurlshortener.com/
 local=/cut.by/
 local=/cut.gl/
+local=/cut.live/
 local=/cut.lu/
 local=/cut.ovh/
 local=/cut.pe/
@@ -2764,6 +2766,7 @@ local=/cutt.lol/
 local=/cutt.ly/
 local=/cutt.pk/
 local=/cutt.us/
+local=/cutt4.me/
 local=/cuttgoo.com/
 local=/cutth.com/
 local=/cutthis.link/
@@ -2948,6 +2951,7 @@ local=/djurl.com/
 local=/dkng.co/
 local=/dky.bz/
 local=/dl.gl/
+local=/dl-protect.info/
 local=/dl-protect.link/
 local=/dl100.cc/
 local=/dld.bz/
@@ -3101,9 +3105,11 @@ local=/e9e.ir/
 local=/eaash.co/
 local=/earl.sh/
 local=/earn4link.in/
+local=/earn4url.com/
 local=/earnesst.website/
 local=/earnestwiles.com/
 local=/earnfly.net/
+local=/earnpays.com/
 local=/earnshort.site/
 local=/earnshorter.com/
 local=/earnshortly.com/
@@ -3119,6 +3125,7 @@ local=/easyurl.net/
 local=/easyurl.site/
 local=/easyurlshortener.com/
 local=/eazify.net/
+local=/eb.do/
 local=/ebarata.com/
 local=/ebay.to/
 local=/ebbco.ir/
@@ -3155,6 +3162,7 @@ local=/ee9.ir/
 local=/eeb.me/
 local=/eepurl.com/
 local=/efie.co/
+local=/eflick.me/
 local=/efraising.org/
 local=/efs.link/
 local=/efshop.tw/
@@ -3281,6 +3289,7 @@ local=/expl.scot/
 local=/exploreosv.com/
 local=/exx.us/
 local=/eyemakeu.com/
+local=/eyq.me/
 local=/eys.li/
 local=/ez1.cc/
 local=/ezbio.me/
@@ -3314,6 +3323,7 @@ local=/f4d.uk/
 local=/f5i.org/
 local=/f5url.com/
 local=/f5yo.com/
+local=/f6x.cn/
 local=/fa.by/
 local=/fa.gd/
 local=/fa-st.co/
@@ -3718,6 +3728,7 @@ local=/go1.day/
 local=/go2.do/
 local=/go2.me/
 local=/go2ct.pro/
+local=/go2cut.com/
 local=/go2l.ir/
 local=/go2ln.com/
 local=/go2my.info/
@@ -3866,6 +3877,7 @@ local=/gym.sh/
 local=/gyntekbusiness.com/
 local=/h-ref.com/
 local=/h1.nu/
+local=/h2mhridayff.com/
 local=/h3x.ir/
 local=/h5bio.com/
 local=/ha4l.com/

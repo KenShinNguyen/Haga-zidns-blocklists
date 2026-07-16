@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 19:08 UTC
-# Version: 2026.0715.1908.44
+# Last modified: 16 Jul 2026 08:22 UTC
+# Version: 2026.0716.0822.55
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3840
+# Number of entries: 3850
 #
 ss.0001.xyz
 003153.xyz
@@ -844,7 +844,6 @@ dot.cox.net
 dohdot.coxlab.net
 nrusimha.crabdance.com
 adguard.crestfallen.de
-dns.criena.net
 cristianocosta.me
 dns.itsec.crolla.net
 crypto.sx
@@ -1049,6 +1048,7 @@ dns.dns-53.uk
 dns.dns-53.us
 mikrobill.dns-cloud.net
 proariel.dns-dynamic.net
+dns-free.link
 dns.dns-heimdall.com
 dns.dns-over-https.com
 i.dns-over-https.tk
@@ -1591,6 +1591,7 @@ dns.farshmc.ru
 adh.fastpacefixit.info
 adguardhome.favrep.ovh
 dns2.fawz.de
+dns.faze.dev
 ns0.fdn.fr
 ns1.fdn.fr
 agh.feblab.click
@@ -2144,6 +2145,7 @@ juicysalmon.ru
 addns.jujuland.net
 dns.jundev.org
 dns.jungle-im.ir
+dns.jupitrdns.com
 jp01.just-a-web.com
 sgs02.just-a-web.com
 ad.justincounts.com
@@ -2276,6 +2278,7 @@ adguard2.leadmon.net
 tr.league1.xyz
 leecurrylawfirm.com
 adblock.leenit.kr
+externalmobiel.lekdijk.online
 sndkcuf.lekun.me
 lelux.fi
 dns.lepilleur.com
@@ -2858,6 +2861,7 @@ paskam.xyz
 rumsk.paskam.xyz
 dns.pastorov.ru
 wg.pastorov.ru
+doh.gcp.pathofgrace.com
 nas.patrick-antoine.fr
 dns.paxavemedia.com
 vps-ovh.pb2004.pl
@@ -2895,9 +2899,12 @@ dot.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 dot.eastau.pi-dns.com
 doh.eastus.pi-dns.com
+dot.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 dot.northeu.pi-dns.com
 doh.westeu.pi-dns.com
+doh.westus.pi-dns.com
+dot.westus.pi-dns.com
 adguard.piekacz.pl
 dns.pierzchlewicz.pl
 dns.pieterdherde.com
@@ -2910,6 +2917,7 @@ doh.plaawan.uk
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
+draco.plan9-ns2.com
 door.plasmadancer.ru
 secure-dns.pleumkungz.com
 thanos.pleumkungz.com
@@ -3682,6 +3690,7 @@ doh.wewitro.net
 doh-rs.whalebone.io
 whatcaniplay.com
 bwh.why4free.top
+dns.wibenson.cloud
 dns1-secure.wifire.it
 adguard.wifri.space
 wikimedia-dns.org
@@ -3753,6 +3762,7 @@ look.xshentx.org
 dns.xuming.studio
 dns.xusqui.com
 dns.xv.fi
+dns.xwdmw.xyz
 dns.xwu.us
 r7ws-poco-f3.dns.xwu.us
 v2.xx3210766.live

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Jul 2026 14:48 UTC
-# Version: 2026.0706.1448.01
+# Last modified: 16 Jul 2026 08:22 UTC
+# Version: 2026.0716.0822.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1517
+# Number of entries: 1519
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -251,6 +251,7 @@ local=/cuesinc.com/
 local=/cupddns.net/
 local=/custom-gaming.net/
 local=/cw03.ru/
+local=/cybertv.tv/
 local=/d-n-s.name/
 local=/d2g.biz/
 local=/dagz.ru/
@@ -348,6 +349,7 @@ local=/does-it.net/
 local=/doesntexist.com/
 local=/doesntexist.org/
 local=/donhoo.com/
+local=/donkeyhot.net/
 local=/dontexist.com/
 local=/dontexist.net/
 local=/dontexist.org/
