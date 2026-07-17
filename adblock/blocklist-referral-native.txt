@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Jul 2026 06:48 UTC
-! Version: 2026.0716.0648.38
+! Last modified: 17 Jul 2026 06:43 UTC
+! Version: 2026.0717.0643.51
 ! Syntax: AdBlock
-! Number of entries: 1546
+! Number of entries: 1548
 !
 ||l.1mp.ru^
 ||links.2ns.fi^
@@ -383,6 +383,7 @@
 ||suite30.emarsys.net^
 ||suite30-cdnnet.emarsys.net^
 ||suite30-cf.emarsys.net^
+||suite32.emarsys.net^
 ||suite33.emarsys.net^
 ||suite33-cf.emarsys.net^
 ||suite34.emarsys.net^
@@ -549,6 +550,7 @@
 ||sites.hscoscdn40.net^
 ||api.hubapi.com^
 ||api-ap1.hubapi.com^
+||api-auto.hubapi.com^
 ||api-eu1.hubapi.com^
 ||api-na1.hubapi.com^
 ||api-na2.hubapi.com^
@@ -645,6 +647,7 @@
 ||api-02.moengage.com^
 ||api-03.moengage.com^
 ||api-04.moengage.com^
+||api-101.moengage.com^
 ||t.emailing.monoprix.fr^
 ||af.mopo.jp^
 ||cj.mplxtms.com^
@@ -963,6 +966,7 @@
 ||analytics-prd.aws.wehaa.net^
 ||trk.wewotrk.com^
 ||engage.windows.com^
+||link.wizzair.com^
 ||tracking.wordvineswz.com^
 ||audience-api.wts-okube.com^
 ||engage.xbox.com^
@@ -1299,7 +1303,6 @@
 ||mkto-ab640171.com^
 ||mkto-ab650097.com^
 ||mkto-ab650172.com^
-||mkto-ab650200.com^
 ||mkto-ab660121.com^
 ||mkto-ab660168.com^
 ||mkto-ab680016.com^
@@ -1312,7 +1315,6 @@
 ||mkto-ab700044.com^
 ||mkto-abc0114.com^
 ||mkto-abc0241.com^
-||mkto-abd0206.com^
 ||mkto-abd0218.com^
 ||mkto-abj0022.com^
 ||mkto-abm0255.com^

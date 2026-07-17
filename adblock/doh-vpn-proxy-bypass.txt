@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Jul 2026 19:17 UTC
-! Version: 2026.0716.1917.57
+! Last modified: 17 Jul 2026 08:10 UTC
+! Version: 2026.0717.0810.24
 ! Syntax: AdBlock
-! Number of entries: 16741
+! Number of entries: 16757
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -443,10 +443,15 @@
 ||dns.ru.anitelekom.ru^
 ||dns.anitelekom.ru^
 ||sanns.aniuo.com^
+||made.by-void.anjumanallana.in^
 ||cliffbayschools.anjumanallana.in^
 ||dontbelocked.anjumanallana.in^
 ||jormawo.anjumanallana.in^
 ||learnvcsa.anjumanallana.in^
+||mabelnice.anjumanallana.in^
+||player-nation.anjumanallana.in^
+||playernation.anjumanallana.in^
+||pto.anjumanallana.in^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||a-regist.anondns.net^
@@ -656,6 +661,7 @@
 ||aphistorytutoring.bastaff.ru^
 ||aqua.bastaff.ru^
 ||hackedsites.bastaff.ru^
+||powerschoolportal.bastaff.ru^
 ||tacobelljobs.bastaff.ru^
 ||we-hate-school.bastaff.ru^
 ||home.basthorst.eu^
@@ -684,7 +690,9 @@
 ||domburg.beruys.com^
 ||openvpnpptp.bese.info^
 ||openvpnpptpserver.bese.info^
+||mathforfun.firstgrad.bestprogramsforkids.com^
 ||learnvcsa.bestprogramsforkids.com^
+||officialcepheusx.bestprogramsforkids.com^
 ||v2202510290637393088.bestsrv.de^
 ||dns.bezmezhau.com^
 ||dns.bgeneto.com^
@@ -2198,6 +2206,7 @@
 ||tromp.creographix.at^
 ||vcsa.creographix.at^
 ||adguard.crestfallen.de^
+||dns.criena.net^
 ||dns.itsec.crolla.net^
 ||fern.crosbreaker.dev^
 ||bx3.cdn.gh-pages.cryodome.com^
@@ -4893,6 +4902,7 @@
 ||x.ns1net.com^
 ||dnscache0.ns71.net^
 ||garlandisd.nseuropa.org^
+||nljkjfdssdf.ckejlsd.nshosting.xyz^
 ||dns.ntccloud.vn^
 ||dns.ntr.lol^
 ||dns1.ntus.io^
@@ -12461,6 +12471,7 @@
 ||mikezhang.xyz^
 ||mikrotikvpn.help^
 ||miku.hair^
+||miku.lat^
 ||milanavpn.com^
 ||milanopuma.ir^
 ||milou.cc^
@@ -12681,6 +12692,7 @@
 ||mtviewbaptist.org^
 ||muchproxy.com^
 ||mudfish.net^
+||mukuyunjc.com^
 ||mullvad.net^
 ||multiplydose.com^
 ||mupingbee.com^
@@ -12797,6 +12809,7 @@
 ||naiunet.net^
 ||naiunet.pro^
 ||naiunet.xyz^
+||naiyougw.com^
 ||naiyun.info^
 ||naizi.vip^
 ||najiakeji.top^
@@ -13143,6 +13156,7 @@
 ||onedns.net^
 ||onelight.cc^
 ||oneproxy.biz^
+||oneproxy.xyz^
 ||onestreaming.org^
 ||onesy.top^
 ||onevpn.com^
@@ -13340,6 +13354,7 @@
 ||peekvpn.online^
 ||peer2profit.in^
 ||peets.pro^
+||peiqianjc.com^
 ||peltrax.ru^
 ||pendrawer.com^
 ||penphone92.com^
@@ -13385,6 +13400,7 @@
 ||photonsecure.com^
 ||phpatewiw.online^
 ||phpbido.com^
+||phproxysite.com^
 ||phyi.loan^
 ||physicsbutfun.com^
 ||pi-dns.com^
@@ -13506,6 +13522,7 @@
 ||policlone.pro^
 ||policyedunet.com^
 ||polisitogel.beauty^
+||polisitogel.contractors^
 ||polisitogel.hair^
 ||polisitogel.show^
 ||polisitogel.webcam^
@@ -14243,7 +14260,6 @@
 ||schoology.college^
 ||schoology123.org^
 ||schoolooks.com^
-||schoolooks.net^
 ||schoolsprepared.org^
 ||schoolwebproxy.com^
 ||schulhelfer-mathe-deutsch.de^

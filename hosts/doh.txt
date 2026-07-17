@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 19:17 UTC
-# Version: 2026.0716.1917.03
+# Last modified: 17 Jul 2026 08:09 UTC
+# Version: 2026.0717.0809.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3852
+# Number of entries: 3854
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -844,6 +844,7 @@
 0.0.0.0 dohdot.coxlab.net
 0.0.0.0 nrusimha.crabdance.com
 0.0.0.0 adguard.crestfallen.de
+0.0.0.0 dns.criena.net
 0.0.0.0 cristianocosta.me
 0.0.0.0 dns.itsec.crolla.net
 0.0.0.0 crypto.sx
@@ -2937,6 +2938,7 @@
 0.0.0.0 dns.pointless.chat
 0.0.0.0 dns.polarwinds.ru
 0.0.0.0 polisitogel.beauty
+0.0.0.0 polisitogel.contractors
 0.0.0.0 polisitogel.hair
 0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam

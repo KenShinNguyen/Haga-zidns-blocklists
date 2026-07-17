@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 06:48 UTC
-# Version: 2026.0716.0648.38
+# Last modified: 17 Jul 2026 06:43 UTC
+# Version: 2026.0717.0643.51
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2353
+# Number of entries: 2361
 #
 1-aclk.net
 1aurl.io
@@ -255,6 +255,7 @@ seu.cleverreach.com
 22777.seu.cleverreach.com
 228301.seu.cleverreach.com
 23225.seu.cleverreach.com
+23622.seu.cleverreach.com
 237182.seu.cleverreach.com
 25161.seu.cleverreach.com
 2561.seu.cleverreach.com
@@ -424,6 +425,7 @@ seu2.cleverreach.com
 176292.seu2.cleverreach.com
 177168.seu2.cleverreach.com
 179465.seu2.cleverreach.com
+181192.seu2.cleverreach.com
 183485.seu2.cleverreach.com
 184709.seu2.cleverreach.com
 186612.seu2.cleverreach.com
@@ -619,6 +621,7 @@ seu2.cleverreach.com
 426304.seu2.cleverreach.com
 427967.seu2.cleverreach.com
 433837.seu2.cleverreach.com
+436499.seu2.cleverreach.com
 437503.seu2.cleverreach.com
 439193.seu2.cleverreach.com
 442693.seu2.cleverreach.com
@@ -629,6 +632,7 @@ seu2.cleverreach.com
 451364.seu2.cleverreach.com
 451645.seu2.cleverreach.com
 92140.seu2.cleverreach.com
+94324.seu2.cleverreach.com
 94641.seu2.cleverreach.com
 95253.seu2.cleverreach.com
 97054.seu2.cleverreach.com
@@ -1075,6 +1079,7 @@ suite3-cf.emarsys.net
 suite30.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
+suite32.emarsys.net
 suite33.emarsys.net
 suite33-cf.emarsys.net
 suite34.emarsys.net
@@ -1189,11 +1194,11 @@ mc.s51.exacttarget.com
 s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
-mc.s6.exacttarget.com
 members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
 view.s6.exacttarget.com
+virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
@@ -1336,6 +1341,7 @@ sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
 143456969.sites.hscoscdn-eu1.net
 143649436.sites.hscoscdn-eu1.net
+143827013.sites.hscoscdn-eu1.net
 24879817.sites.hscoscdn-eu1.net
 24880693.sites.hscoscdn-eu1.net
 24884683.sites.hscoscdn-eu1.net
@@ -1384,6 +1390,7 @@ group0.sites.hscoscdn-eu1.net
 142290803.group0.sites.hscoscdn-eu1.net
 143293620.group0.sites.hscoscdn-eu1.net
 143803951.group0.sites.hscoscdn-eu1.net
+143827013.group0.sites.hscoscdn-eu1.net
 143969174.group0.sites.hscoscdn-eu1.net
 144368567.group0.sites.hscoscdn-eu1.net
 144743966.group0.sites.hscoscdn-eu1.net
@@ -1411,7 +1418,6 @@ sites.hscoscdn-na2.net
 group0.sites.hscoscdn-na2.net
 241933515.group0.sites.hscoscdn-na2.net
 242128791.group0.sites.hscoscdn-na2.net
-244842231.group0.sites.hscoscdn-na2.net
 341676991.group0.sites.hscoscdn-na3.net
 sites.hscoscdn00.net
 group0.sites.hscoscdn00.net
@@ -1470,6 +1476,7 @@ group48.sites.hscoscdn40.net
 group49.sites.hscoscdn40.net
 api.hubapi.com
 api-ap1.hubapi.com
+api-auto.hubapi.com
 api-eu1.hubapi.com
 api-na1.hubapi.com
 api-na2.hubapi.com
@@ -1617,6 +1624,7 @@ track.mfilter.net
 micpn.com
 email.microsoft.com
 bounce4.email.microsoft.com
+bounce5.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
@@ -1731,7 +1739,6 @@ mkto-ab630042.com
 mkto-ab640171.com
 mkto-ab650097.com
 mkto-ab650172.com
-mkto-ab650200.com
 mkto-ab660121.com
 mkto-ab660168.com
 mkto-ab680016.com
@@ -1744,7 +1751,6 @@ mkto-ab690180.com
 mkto-ab700044.com
 mkto-abc0114.com
 mkto-abc0241.com
-mkto-abd0206.com
 mkto-abd0218.com
 mkto-abj0022.com
 mkto-abm0255.com
@@ -1887,6 +1893,7 @@ chasede.api-02.moengage.com
 chaseuk.api-02.moengage.com
 api-03.moengage.com
 api-04.moengage.com
+api-101.moengage.com
 t.emailing.monoprix.fr
 af.mopo.jp
 cj.mplxtms.com
@@ -2320,6 +2327,7 @@ analytics-prd.aws.wehaa.net
 wetrack.online
 trk.wewotrk.com
 engage.windows.com
+link.wizzair.com
 tracking.wordvineswz.com
 audience-api.wts-okube.com
 engage.xbox.com

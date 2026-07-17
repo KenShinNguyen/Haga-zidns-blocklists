@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 18:03 UTC
-# Version: 2026.0716.1803.00
+# Last modified: 17 Jul 2026 07:00 UTC
+# Version: 2026.0717.0700.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9958
+# Number of entries: 9972
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -93,6 +93,7 @@
 *.go.bitcomma.com
 *.url.nafi.biz.id
 *.aje.biz.id
+*.come.biz.id
 *.dnl.biz.id
 *.opetsalman.biz.id
 *.artist.blanchtrap.com
@@ -5575,6 +5576,7 @@
 *.microh.link
 *.microlink.ro
 *.microlinkfy.io
+*.microlinks.io
 *.microsoftaistories.com
 *.microsoftfiles.live
 *.microurl.in
@@ -5674,6 +5676,8 @@
 *.momo.dm
 *.mondoagram.com
 *.monetiza.co
+*.monghaibon.live
+*.monghainam.life
 *.monly.id
 *.monster.cat
 *.monurl.ca
@@ -5817,6 +5821,7 @@
 *.mypin.in
 *.myplansignup.com
 *.myporn.link
+*.mypowerlinks.org
 *.mypoya.com
 *.myppt.cc
 *.myqlixellink.com
@@ -5857,12 +5862,14 @@
 *.n2l.me
 *.n3y.ir
 *.n66d.com
+*.n7i.cn
 *.n7s.xyz
 *.n9.cl
 *.n9x.co
 *.na2.com
 *.na5.nl
 *.naa.gg
+*.nagakuat.com
 *.nah.uy
 *.naik-terus.com
 *.nakama420.xyz
@@ -5982,10 +5989,12 @@
 *.nogfan.com
 *.nokia.ly
 *.nom77.one
+*.noni.bio
 *.noorly.nl
 *.nord.click
 *.nordic-rx.net
 *.nordicrx.net
+*.nordlitt.fr
 *.noticiasactuales2026.com
 *.noticiasactualizadas24h.com
 *.notlong.com
@@ -6044,6 +6053,7 @@
 *.nycu.to
 *.nydn.us
 *.nyer.cm
+*.nynko.com
 *.nyp.st
 *.nyr.kr
 *.nyti.ms
@@ -6059,6 +6069,7 @@
 *.obblink.com
 *.obdr.it
 *.obio.link
+*.oblino.com
 *.occ.li
 *.ock.cn
 *.ocul.us
@@ -6148,6 +6159,7 @@
 *.onforb.es
 *.onion.com
 *.only.li
+*.only-fans.click
 *.onlybiolinks.com
 *.onmeto.net
 *.onn.to
@@ -6209,6 +6221,7 @@
 *.ou.gd
 *.oua.be
 *.oui.li
+*.ouiasso.com
 *.oundhertobeconsist.org
 *.ouo.io
 *.ouo.press
@@ -6520,6 +6533,7 @@
 *.pros.is
 *.pros.si
 *.proshare.ir
+*.protected.cx
 *.protogen.live
 *.provte.cloud
 *.proxyrotate.org

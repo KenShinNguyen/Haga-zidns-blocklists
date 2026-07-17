@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 08:22 UTC
-# Version: 2026.0716.0822.13
+# Last modified: 17 Jul 2026 08:08 UTC
+# Version: 2026.0717.0808.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1519
+# Number of entries: 1520
 #
 *.dyn.addr.tools
 *.changeip.co.uk
@@ -959,6 +959,7 @@
 *.midjava.com
 *.migibts.net
 *.mikata.ru
+*.mikecartwright.net
 *.mil.nf
 *.mindhackers.org
 *.mine.bz

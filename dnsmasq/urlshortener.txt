@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 18:03 UTC
-# Version: 2026.0716.1803.00
+# Last modified: 17 Jul 2026 07:00 UTC
+# Version: 2026.0717.0700.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9958
+# Number of entries: 9972
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -93,6 +93,7 @@ local=/r.bioinfweb.info/
 local=/go.bitcomma.com/
 local=/url.nafi.biz.id/
 local=/aje.biz.id/
+local=/come.biz.id/
 local=/dnl.biz.id/
 local=/opetsalman.biz.id/
 local=/artist.blanchtrap.com/
@@ -5575,6 +5576,7 @@ local=/microbakery.ca/
 local=/microh.link/
 local=/microlink.ro/
 local=/microlinkfy.io/
+local=/microlinks.io/
 local=/microsoftaistories.com/
 local=/microsoftfiles.live/
 local=/microurl.in/
@@ -5674,6 +5676,8 @@ local=/molok.link/
 local=/momo.dm/
 local=/mondoagram.com/
 local=/monetiza.co/
+local=/monghaibon.live/
+local=/monghainam.life/
 local=/monly.id/
 local=/monster.cat/
 local=/monurl.ca/
@@ -5817,6 +5821,7 @@ local=/mypaperwriter.com/
 local=/mypin.in/
 local=/myplansignup.com/
 local=/myporn.link/
+local=/mypowerlinks.org/
 local=/mypoya.com/
 local=/myppt.cc/
 local=/myqlixellink.com/
@@ -5857,12 +5862,14 @@ local=/n28.it/
 local=/n2l.me/
 local=/n3y.ir/
 local=/n66d.com/
+local=/n7i.cn/
 local=/n7s.xyz/
 local=/n9.cl/
 local=/n9x.co/
 local=/na2.com/
 local=/na5.nl/
 local=/naa.gg/
+local=/nagakuat.com/
 local=/nah.uy/
 local=/naik-terus.com/
 local=/nakama420.xyz/
@@ -5982,10 +5989,12 @@ local=/nog.im/
 local=/nogfan.com/
 local=/nokia.ly/
 local=/nom77.one/
+local=/noni.bio/
 local=/noorly.nl/
 local=/nord.click/
 local=/nordic-rx.net/
 local=/nordicrx.net/
+local=/nordlitt.fr/
 local=/noticiasactuales2026.com/
 local=/noticiasactualizadas24h.com/
 local=/notlong.com/
@@ -6044,6 +6053,7 @@ local=/nxy.in/
 local=/nycu.to/
 local=/nydn.us/
 local=/nyer.cm/
+local=/nynko.com/
 local=/nyp.st/
 local=/nyr.kr/
 local=/nyti.ms/
@@ -6059,6 +6069,7 @@ local=/obank.tw/
 local=/obblink.com/
 local=/obdr.it/
 local=/obio.link/
+local=/oblino.com/
 local=/occ.li/
 local=/ock.cn/
 local=/ocul.us/
@@ -6148,6 +6159,7 @@ local=/oneurl.live/
 local=/onforb.es/
 local=/onion.com/
 local=/only.li/
+local=/only-fans.click/
 local=/onlybiolinks.com/
 local=/onmeto.net/
 local=/onn.to/
@@ -6209,6 +6221,7 @@ local=/otw-news.org/
 local=/ou.gd/
 local=/oua.be/
 local=/oui.li/
+local=/ouiasso.com/
 local=/oundhertobeconsist.org/
 local=/ouo.io/
 local=/ouo.press/
@@ -6520,6 +6533,7 @@ local=/propub.li/
 local=/pros.is/
 local=/pros.si/
 local=/proshare.ir/
+local=/protected.cx/
 local=/protogen.live/
 local=/provte.cloud/
 local=/proxyrotate.org/

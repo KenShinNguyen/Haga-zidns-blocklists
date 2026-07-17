@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 19:17 UTC
-# Version: 2026.0716.1917.03
+# Last modified: 17 Jul 2026 08:09 UTC
+# Version: 2026.0717.0809.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3417
+# Number of entries: 3419
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -601,6 +601,7 @@ local=/dot.cox.net/
 local=/dohdot.coxlab.net/
 local=/nrusimha.crabdance.com/
 local=/adguard.crestfallen.de/
+local=/dns.criena.net/
 local=/dns.itsec.crolla.net/
 local=/dns.cryptomize.com/
 local=/ae-agh1.dns.cryptroute.net/
@@ -3284,6 +3285,7 @@ local=/pm1239-bd.xyz/
 local=/pm7051-br.xyz/
 local=/pm9352-bd.xyz/
 local=/polisitogel.beauty/
+local=/polisitogel.contractors/
 local=/polisitogel.hair/
 local=/polisitogel.show/
 local=/polisitogel.webcam/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Jul 2026 19:17 UTC
-# Version: 2026.0716.1917.57
+# Last modified: 17 Jul 2026 08:10 UTC
+# Version: 2026.0717.0810.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16741
+# Number of entries: 16757
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -442,10 +442,15 @@ local=/dns.jp.anitelecom.org/
 local=/dns.ru.anitelekom.ru/
 local=/dns.anitelekom.ru/
 local=/sanns.aniuo.com/
+local=/made.by-void.anjumanallana.in/
 local=/cliffbayschools.anjumanallana.in/
 local=/dontbelocked.anjumanallana.in/
 local=/jormawo.anjumanallana.in/
 local=/learnvcsa.anjumanallana.in/
+local=/mabelnice.anjumanallana.in/
+local=/player-nation.anjumanallana.in/
+local=/playernation.anjumanallana.in/
+local=/pto.anjumanallana.in/
 local=/dns.anne-pierre.fr/
 local=/dns.anon.no/
 local=/a-regist.anondns.net/
@@ -655,6 +660,7 @@ local=/dashboardd.baselinux.net/
 local=/aphistorytutoring.bastaff.ru/
 local=/aqua.bastaff.ru/
 local=/hackedsites.bastaff.ru/
+local=/powerschoolportal.bastaff.ru/
 local=/tacobelljobs.bastaff.ru/
 local=/we-hate-school.bastaff.ru/
 local=/home.basthorst.eu/
@@ -683,7 +689,9 @@ local=/over.bernhard-rau.de/
 local=/domburg.beruys.com/
 local=/openvpnpptp.bese.info/
 local=/openvpnpptpserver.bese.info/
+local=/mathforfun.firstgrad.bestprogramsforkids.com/
 local=/learnvcsa.bestprogramsforkids.com/
+local=/officialcepheusx.bestprogramsforkids.com/
 local=/v2202510290637393088.bestsrv.de/
 local=/dns.bezmezhau.com/
 local=/dns.bgeneto.com/
@@ -2197,6 +2205,7 @@ local=/smartpn.creographix.at/
 local=/tromp.creographix.at/
 local=/vcsa.creographix.at/
 local=/adguard.crestfallen.de/
+local=/dns.criena.net/
 local=/dns.itsec.crolla.net/
 local=/fern.crosbreaker.dev/
 local=/bx3.cdn.gh-pages.cryodome.com/
@@ -4892,6 +4901,7 @@ local=/xpen.ns01.info/
 local=/x.ns1net.com/
 local=/dnscache0.ns71.net/
 local=/garlandisd.nseuropa.org/
+local=/nljkjfdssdf.ckejlsd.nshosting.xyz/
 local=/dns.ntccloud.vn/
 local=/dns.ntr.lol/
 local=/dns1.ntus.io/
@@ -12460,6 +12470,7 @@ local=/mikewaddick.com/
 local=/mikezhang.xyz/
 local=/mikrotikvpn.help/
 local=/miku.hair/
+local=/miku.lat/
 local=/milanavpn.com/
 local=/milanopuma.ir/
 local=/milou.cc/
@@ -12680,6 +12691,7 @@ local=/mtproxier.com/
 local=/mtviewbaptist.org/
 local=/muchproxy.com/
 local=/mudfish.net/
+local=/mukuyunjc.com/
 local=/mullvad.net/
 local=/multiplydose.com/
 local=/mupingbee.com/
@@ -12796,6 +12808,7 @@ local=/naiunet.com/
 local=/naiunet.net/
 local=/naiunet.pro/
 local=/naiunet.xyz/
+local=/naiyougw.com/
 local=/naiyun.info/
 local=/naizi.vip/
 local=/najiakeji.top/
@@ -13142,6 +13155,7 @@ local=/onecat02-03lkvnye.top/
 local=/onedns.net/
 local=/onelight.cc/
 local=/oneproxy.biz/
+local=/oneproxy.xyz/
 local=/onestreaming.org/
 local=/onesy.top/
 local=/onevpn.com/
@@ -13339,6 +13353,7 @@ local=/peekproxy.com/
 local=/peekvpn.online/
 local=/peer2profit.in/
 local=/peets.pro/
+local=/peiqianjc.com/
 local=/peltrax.ru/
 local=/pendrawer.com/
 local=/penphone92.com/
@@ -13384,6 +13399,7 @@ local=/phongg.vn/
 local=/photonsecure.com/
 local=/phpatewiw.online/
 local=/phpbido.com/
+local=/phproxysite.com/
 local=/phyi.loan/
 local=/physicsbutfun.com/
 local=/pi-dns.com/
@@ -13505,6 +13521,7 @@ local=/polaris.cx/
 local=/policlone.pro/
 local=/policyedunet.com/
 local=/polisitogel.beauty/
+local=/polisitogel.contractors/
 local=/polisitogel.hair/
 local=/polisitogel.show/
 local=/polisitogel.webcam/
@@ -14242,7 +14259,6 @@ local=/schoolnewsletter.us/
 local=/schoology.college/
 local=/schoology123.org/
 local=/schoolooks.com/
-local=/schoolooks.net/
 local=/schoolsprepared.org/
 local=/schoolwebproxy.com/
 local=/schulhelfer-mathe-deutsch.de/
