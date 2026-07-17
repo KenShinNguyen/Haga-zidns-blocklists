@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Jul 2026 08:08 UTC
-! Version: 2026.0717.0808.44
+! Last modified: 17 Jul 2026 17:21 UTC
+! Version: 2026.0717.1721.10
 ! Syntax: AdBlock
-! Number of entries: 1520
+! Number of entries: 1521
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -1234,6 +1234,7 @@
 ||ryointernational.com^
 ||sandmeiers.ch^
 ||sannon-stamm.com^
+||sarah-lai.com^
 ||saves-the-whales.com^
 ||scay.net^
 ||scottlewisonline.com^

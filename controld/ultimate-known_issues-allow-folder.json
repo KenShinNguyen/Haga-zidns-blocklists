@@ -1107,6 +1107,13 @@
       }
     },
     {
+      "PK": "pub.doubleverify.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "s.html-load.com",
       "action": {
         "do": 1,

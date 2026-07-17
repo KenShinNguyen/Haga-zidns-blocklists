@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 18:07 UTC
-# Version: 2026.0710.1807.00
+# Last modified: 17 Jul 2026 17:34 UTC
+# Version: 2026.0717.1734.52
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 708
 #
@@ -72,7 +72,6 @@
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-gamma-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-ott-c2s.amazon-adsystem.com
-0.0.0.0 aax-ott-sdk.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott-sdk.amazon-adsystem.com
 0.0.0.0 aax-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott.amazon-adsystem.com
@@ -262,7 +261,6 @@
 0.0.0.0 cell7021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com
-0.0.0.0 cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
@@ -299,6 +297,7 @@
 0.0.0.0 cell8021.sin.mobile.event-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8021.sin.web.bid-fe.ads.aps.amazon-adsystem.com
 0.0.0.0 cell8023.sin.web.bid-fe.ads.aps.amazon-adsystem.com
+0.0.0.0 cell8031.dub.stv.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 client.rum.us-east-1.amazonaws.com
 0.0.0.0 config.aps.amazon-adsystem.com
@@ -460,6 +459,7 @@
 0.0.0.0 notify.aca.ftv.bugsnag.appstore.a2z.com
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
+0.0.0.0 origin-sq-tungsten-ts-fe.amazon-adsystem.com
 0.0.0.0 origin-sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 ott.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 ott.us-east.aps.axp.amazon-adsystem.com

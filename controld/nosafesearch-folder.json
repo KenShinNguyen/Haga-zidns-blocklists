@@ -1107,6 +1107,13 @@
       }
     },
     {
+      "PK": "searx.nightmare.life",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "searx.ninja",
       "action": {
         "do": 0,
@@ -1185,13 +1192,6 @@
     },
     {
       "PK": "searx.sp-codes.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searx.stream",
       "action": {
         "do": 0,
         "status": 1

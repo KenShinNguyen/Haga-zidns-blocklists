@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 18:07 UTC
-# Version: 2026.0710.1807.00
+# Last modified: 17 Jul 2026 17:34 UTC
+# Version: 2026.0717.1734.52
 # Syntax: Domains (without subdomains)
 # Number of entries: 361
 #
@@ -51,7 +51,6 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -235,6 +234,7 @@ metrics.media-amazon.com
 minerva.devices.a2z.com
 mobileanalytics.us-east-1.amazonaws.com
 mshopbugsnag.irm.amazon.dev
+origin-sq-tungsten-ts-fe.amazon-adsystem.com
 origin-sq-tungsten-ts.amazon-adsystem.com
 paa-reporting-advertising.amazon
 pri1-3ps.amazon-adsystem.com

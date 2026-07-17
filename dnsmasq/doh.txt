@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jul 2026 08:09 UTC
-# Version: 2026.0717.0809.24
+# Last modified: 17 Jul 2026 17:21 UTC
+# Version: 2026.0717.1721.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3419
+# Number of entries: 3421
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2748,6 +2748,7 @@ local=/adguard.vegann.space/
 local=/dns.veikus.com/
 local=/dns.vemo.cc/
 local=/dns.venclous.org/
+local=/securedns.vendorvista.xyz/
 local=/ad.viet.date/
 local=/dns.vietdns.vn/
 local=/kids.vietdns.vn/
@@ -2999,6 +3000,7 @@ local=/atris.cyou/
 local=/atsilva.link/
 local=/axaxa.fun/
 local=/axistechsupport.com/
+local=/b-ii.com/
 local=/b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space/
 local=/bancuh.com/
 local=/barnabech.fr/

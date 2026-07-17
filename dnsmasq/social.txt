@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jul 2026 17:47 UTC
-# Version: 2026.0708.1747.41
+# Last modified: 17 Jul 2026 17:32 UTC
+# Version: 2026.0717.1732.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 899
+# Number of entries: 898
 #
 local=/2ch.org/
 local=/4cdn.org/
@@ -766,7 +766,6 @@ local=/redd.it/
 local=/reddit.com/
 local=/redditmail.com/
 local=/redditmedia.com/
-local=/redditstatic.com/
 local=/redkix.com/
 local=/rocksdb.com/
 local=/rocksdb.net/

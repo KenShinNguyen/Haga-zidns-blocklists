@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Jul 2026 06:58 UTC
-! Version: 2026.0717.0658.10
+! Last modified: 17 Jul 2026 17:43 UTC
+! Version: 2026.0717.1743.22
 ! Syntax: AdBlock
-! Number of entries: 16655
+! Number of entries: 16697
 !
 ||eoutlet.2023shoponline.com^
 ||eu.2bagsvalley.cn^
@@ -179,6 +179,7 @@
 ||simabrasil.com.br^
 ||smallrig.com.de^
 ||southvalley.com.br^
+||souzaeoliveira.com.br^
 ||stanleycup.com.de^
 ||steelseries.com.de^
 ||tempusluxor.com.br^
@@ -333,6 +334,7 @@
 ||market.livaxxen.org^
 ||ledger.live-transactions-check.com^
 ||adl.lreubk.shop^
+||smartphonepeak.lunakebe.com^
 ||de4.luxedressshop.com^
 ||invest.luxtious.net^
 ||fat.lwesll.top^
@@ -2010,7 +2012,6 @@
 ||beaccustomed.com^
 ||beachitem.com^
 ||beambead.com^
-||beamdeals.de^
 ||beatricesavoy.de^
 ||beatusbikes.com^
 ||beautifyshop.de^
@@ -12350,6 +12351,7 @@
 ||pyro-expression.com^
 ||pyroforms.at^
 ||pyvigo.com^
+||q-solutions.co^
 ||qartelshop.com^
 ||qavelo.com^
 ||qcificspez.club^
@@ -12412,12 +12414,14 @@
 ||quorven.com^
 ||quotationi.com^
 ||qusero.com^
+||qweria.com^
 ||qwinout.com^
 ||qyfgjd.com^
 ||qyreqm.shop^
 ||qytre.com^
 ||qzzfg7zy0r.online^
 ||r-handels.de^
+||ra-ganske.de^
 ||raasen.com^
 ||rabatt-disney.de^
 ||rabattarkk.de^
@@ -12485,6 +12489,7 @@
 ||ralfanhanger.com^
 ||ramo-investezza.com^
 ||ramsesmarket.com^
+||ranari.de^
 ||ranchoutfit.com^
 ||rangau-musikzug.de^
 ||rangnau-versand.de^
@@ -12495,6 +12500,7 @@
 ||rapunzelhairextension.com^
 ||rare404.com^
 ||rasen-matt.eu^
+||rasen-profis.de^
 ||rasen-traktor.com^
 ||rasen24.com^
 ||rasenmahen24.com^
@@ -12574,6 +12580,8 @@
 ||reebok-schuhe.de^
 ||reebokoutlet.de^
 ||reeddecory.com^
+||reef-danmark.com^
+||reef-deutschland.com^
 ||reef-portugal.com^
 ||reelmasterde.com^
 ||rees-elektro.de^
@@ -12590,6 +12598,7 @@
 ||regenschloss.de^
 ||regionales-heizoel.de^
 ||registerk.com^
+||registerzentrale.de^
 ||rehaubrandstore.com^
 ||rehearsalk.com^
 ||reifemode.com^
@@ -12630,6 +12639,7 @@
 ||reliablehealthcareprovider.com^
 ||relivoria.com^
 ||remainderk.com^
+||remediesonlinestore.com^
 ||remedyinternationalshop.com^
 ||reminora.com^
 ||remorcas.com^
@@ -12779,6 +12789,7 @@
 ||risora.de^
 ||rissionshop.de^
 ||ritter-mode.com^
+||ritteroutlet.de^
 ||rituals-nl.shop^
 ||rituals-outlet.shop^
 ||rituals-prize.com^
@@ -12879,6 +12890,7 @@
 ||ronstanstore.com^
 ||rontis.de^
 ||roof-tube.com^
+||roominabox.shop^
 ||roommyhut.com^
 ||root-shop.at^
 ||rootedrituals.shop^
@@ -12905,6 +12917,7 @@
 ||rothen-burg.de^
 ||rotterdamsunny.com^
 ||rotyka.com^
+||roulettegem.com^
 ||routehygge.co^
 ||routinefashiones.com^
 ||rovux.co^
@@ -12924,6 +12937,7 @@
 ||rqhtyztv.shop^
 ||rrsstore.com^
 ||rtieej.buzz^
+||rub-guben.de^
 ||rubberweekly.com^
 ||rubinwein.com^
 ||rubis-patrimoine.biz^
@@ -12995,6 +13009,7 @@
 ||saint-blanc.com^
 ||sainthoudeauxbeauty.com^
 ||saintjamesoutlet.at^
+||saiton.de^
 ||sakaziq.com^
 ||sakerwerkzeuge.de^
 ||sakimo.net^
@@ -13019,6 +13034,7 @@
 ||salehealthfoods.com^
 ||salejcb.de^
 ||salelanawelpen.de^
+||salelcov.click^
 ||salemart.online^
 ||salemeds24.com^
 ||salercsite.com^
@@ -13046,15 +13062,20 @@
 ||salevenum-eu.com^
 ||saleworkshopequip.com^
 ||sallasboutique.com^
+||salmingchile.com^
 ||salmingcolombia.com^
+||salmingslovenija.com^
+||salmingsuomi.com^
 ||salomon-deutschland.de^
 ||salomondeutschlandsale.de^
 ||salomonosterreich.at^
+||salomonoutletgermany.de^
 ||salomonoutletireland.com^
 ||salomonoutletstoresusa.com^
 ||salomonportugal.com^
 ||salomonschuhesale.de^
 ||salomonshoesbulgaria.com^
+||salomonslovensko.sk^
 ||salud-europa.com^
 ||salussaunasonline.shop^
 ||salzburg-atelier.at^
@@ -13104,6 +13125,7 @@
 ||saroni-handel.de^
 ||sartons.com^
 ||sarvamits.com^
+||sashop.xyz^
 ||saskiabader.de^
 ||satisfiedfurniture.com^
 ||satona.de^
@@ -13217,12 +13239,12 @@
 ||schraderbilliger.com^
 ||schrank-shop.com^
 ||schraubenpro.com^
-||schraubschmiede.de^
 ||schrebergarten-finden.de^
 ||schreibwarenbecker.de^
 ||schroder-dusseldorf.de^
 ||schuhebaer.com^
 ||schuhegiesswein.com^
+||schuhegunstignice.de^
 ||schuhehoka.de^
 ||schuhescarpa.com^
 ||schuheverkauf-de.com^
@@ -13321,12 +13343,12 @@
 ||selvorinai.net^
 ||semanize-shop.com^
 ||semipool.store^
-||senade.de^
 ||sendrawien.at^
 ||sendros.de^
 ||seneval.de^
 ||senhheiser.icu^
 ||senkkopfschraube.com^
+||senovaclo.com^
 ||sensodecken.de^
 ||sensualsale.com^
 ||senthiln.top^
@@ -13359,7 +13381,6 @@
 ||servicepharmaceutique.net^
 ||servicesdentaire.com^
 ||servicesolutionshop.com^
-||sesuifxu.shop^
 ||setfahrradtrikot.com^
 ||settlementy.com^
 ||sevatrix.com^
@@ -13435,7 +13456,6 @@
 ||shop-pharmacie-france.com^
 ||shop-pharmacie-france.net^
 ||shop-pierce.com^
-||shop-retailer.com^
 ||shop-retrowave.at^
 ||shop-teekanne.com^
 ||shop-tool.com^
@@ -13487,6 +13507,7 @@
 ||shoplivinghome.com^
 ||shoplostfounde.shop^
 ||shopluckyduckclub.com^
+||shoplunerose.com^
 ||shopluuma.de^
 ||shopluviva.de^
 ||shoplyo-deal.site^
@@ -13494,7 +13515,6 @@
 ||shopmaincharacterpress.com^
 ||shopmallknives.com^
 ||shopmaxusersatzteile.shop^
-||shopmera.shop^
 ||shopmixmatch.com^
 ||shopmood.de^
 ||shopmotorbikeparts.com^
@@ -13663,6 +13683,7 @@
 ||skvurthalen.at^
 ||sky-trikot-shop.de^
 ||skygarden.digital^
+||skylinefx.co^
 ||skyrro.com^
 ||skyvault.ltd^
 ||sl-handel24.de^
@@ -13692,9 +13713,11 @@
 ||slreinigungsfirma.de^
 ||slu-handel.de^
 ||slu24-handel.de^
+||smart-kaufen.com^
 ||smart-research.net^
 ||smart0trade.com^
 ||smart2trade.de^
+||smartautofxtrades.online^
 ||smartbakechef.com^
 ||smartbud.com^
 ||smartbuyglasses.at^
@@ -13714,6 +13737,7 @@
 ||smartpills.io^
 ||smartplantivy.com^
 ||smartplayground.de^
+||smartro.de^
 ||smartsteamershop.com^
 ||smartundgeizig.de^
 ||smartwaerme.com^
@@ -13767,6 +13791,7 @@
 ||soft-handel.de^
 ||softdays-shop.de^
 ||softelektro.com^
+||softgarments.com^
 ||softritualsco.shop^
 ||software-onsale.com^
 ||softwarebilliger1.de^
@@ -13791,6 +13816,7 @@
 ||solar-tracking-efficiency.com^
 ||solar1erp.com^
 ||solar4uhouston.online^
+||solara-financelimited.com^
 ||solara-finltd.net^
 ||solara-tech-groupe.com^
 ||solaragentuk.online^
@@ -13839,7 +13865,6 @@
 ||solauthentic.com^
 ||solden-hotels.com^
 ||solern.top^
-||solidarity-finanzierung.com^
 ||solidinvest.co^
 ||sollivanshop.com^
 ||solofa.de^
@@ -13866,7 +13891,6 @@
 ||solution-pro.de^
 ||solutioncrypto.com^
 ||solventus-shop.de^
-||solvexpulse-53-ai.org^
 ||somareh.de^
 ||somatesav.com^
 ||sommeraufdemland.de^
@@ -13980,8 +14004,8 @@
 ||spiritualsalt.co^
 ||spirituelle-ecke.com^
 ||spirituosenfest.com^
-||spirituosenlager.com^
 ||spirituosenrabatt.com^
+||spitzhunde.de^
 ||spl-energie.com^
 ||spl-energie.de^
 ||splendiday.com^
@@ -14001,6 +14025,7 @@
 ||sportbagsshop.com^
 ||sportdamen.de^
 ||sportelit.de^
+||sportgorilla.de^
 ||sportkleidungwelt.com^
 ||sportmitbauch.de^
 ||sportolymp.de^
@@ -14009,6 +14034,7 @@
 ||sportprodukteverkauf.com^
 ||sportprosport.com^
 ||sportsbrooks.com^
+||sportscardssales.com^
 ||sportschuheinov.com^
 ||sportshoka.com^
 ||sportsjay.de^
@@ -14037,7 +14063,6 @@
 ||sprint-market.com^
 ||spruhfarbenprofi.com^
 ||spsfurntiure.com^
-||sptrmusag.com^
 ||spuelenprofide.com^
 ||spybulbcamera.de^
 ||spydersale.de^
@@ -14108,7 +14133,9 @@
 ||stationeryoptimal.com^
 ||stattkaffeegottesdienst.de^
 ||statz-haushaltprodukte.de^
+||staubsaugerrabatt.de^
 ||staubzon.de^
+||stclik.com^
 ||steamfaerie.com^
 ||steeg-handel.de^
 ||steelite-au.com^
@@ -14128,7 +14155,9 @@
 ||steinkampbillig.com^
 ||stelcore-retail24.de^
 ||stella-mccartney.de^
+||stella-zurich.com^
 ||stellantis-workshop.com^
+||stellapet.xyz^
 ||stellennavigator.com^
 ||stelonira.com^
 ||stemecommunity.com^
@@ -14161,7 +14190,6 @@
 ||sting-ring.de^
 ||stitchfia.com^
 ||stlekan.com^
-||stobfanger.com^
 ||stock-best.com^
 ||stock-crypto.com^
 ||stock-fishing.com^
@@ -14181,6 +14209,7 @@
 ||stoneislandsuomi.org^
 ||stonesandrockz.com^
 ||stonewyld.com^
+||stoov.shop^
 ||stop-oder-go.de^
 ||stoppedonline.com^
 ||storch-apotheke.com^
@@ -14264,7 +14293,6 @@
 ||studivia.de^
 ||stuffyinzerslike.com^
 ||stuhleangebote.com^
-||stuhlebanke.com^
 ||stuhlepromos.com^
 ||stuhleshop.com^
 ||stuhlgaeng.de^
@@ -14273,8 +14301,10 @@
 ||stussyaustria.at^
 ||stussyaustrias.com^
 ||stussydeutschland.com^
+||stussydeutschland.de^
 ||stussysdeutschland.de^
 ||stussystoredeutschland.com^
+||stussystoresdeutschland.de^
 ||stussywien.at^
 ||stuttgart-mode.de^
 ||stutzschuhe.de^
@@ -14317,6 +14347,7 @@
 ||summarizee.com^
 ||summaryu.com^
 ||summer-island.de^
+||summerbackyard.shop^
 ||summerhill.co^
 ||summerknock.de^
 ||summers4sale.com^
@@ -14340,6 +14371,7 @@
 ||sunnylas.com^
 ||sunplux.com^
 ||sunsetwell.com^
+||sunshinemo.com^
 ||sunsolaraz.shop^
 ||suntr.shop^
 ||supavero.com^
@@ -14391,6 +14423,7 @@
 ||surfabenteuer.com^
 ||surfapparelus.com^
 ||surfgearpioneer.com^
+||surfhobby.com^
 ||surfingneeds.com^
 ||surfneue.com^
 ||surroun.com^
@@ -14419,6 +14452,7 @@
 ||swissnovapharmaceuticals.com^
 ||swisspartners-ag.com^
 ||swissstand.com^
+||swissvendo.ch^
 ||swisswatche.com^
 ||swisswatchsale.shop^
 ||switchesangebote.de^
@@ -14467,6 +14501,7 @@
 ||takebstbsdeals.shop^
 ||takejourney.com^
 ||takeyadeutschland.de^
+||taki-taki.de^
 ||takones.cl^
 ||taktikinvestakademie.com^
 ||taktischewelt.com^
@@ -14481,6 +14516,7 @@
 ||talerkaffee.de^
 ||talkbuds.de^
 ||tallerfelix.com^
+||talvenix.com^
 ||talvurieks.at^
 ||talvurieks.cloud^
 ||talvurieks.com^
@@ -14509,9 +14545,11 @@
 ||taschenmesser-de.com^
 ||taschenrabatt.com^
 ||taschenschmied.de^
+||tassenbrennerei.shop^
 ||tastefulsl.com^
 ||tasteo.net^
 ||tastin.shop^
+||tatadress.com^
 ||tatamibjjstore-eu.com^
 ||tatonka-de.com^
 ||tatonkaoutdoor.com^
@@ -14523,6 +14561,7 @@
 ||taxoflex.de^
 ||tbcicv.shop^
 ||tbclacrosse.com^
+||tbnlmv.shop^
 ||tbtconcept.com^
 ||tbz-versand.de^
 ||tcomplex.de^
@@ -16395,6 +16434,7 @@
 ||xlumina.de^
 ||xmarket-finance.com^
 ||xmb.cc^
+||xn--7369-tg9g424pigdmy0a.top^
 ||xn--aloyogamnchen-3ob.de^
 ||xn--axelarigatokbenhavn-67b.com^
 ||xn--bapeespaa-s6a.com^
@@ -16408,11 +16448,13 @@
 ||xn--holzgartenhuser-blb.de^
 ||xn--huntergummistvler-d1b.com^
 ||xn--hunterstvler-2jb.com^
+||xn--lmntsterreich-lmb.at^
 ||xn--modernegartenhuser-ytb.de^
 ||xn--norronatrkiye-3ob.com^
 ||xn--parfm-probe-whb.de^
 ||xn--pooldcher-z2a.de^
 ||xn--rnoholzpelletsgmbh-d3b.de^
+||xn--sphynx-ktzchenheim-stb.de^
 ||xn--vejazrich-u9a.com^
 ||xnvest.com^
 ||xo-trier.de^

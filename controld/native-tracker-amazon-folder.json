@@ -316,13 +316,6 @@
       }
     },
     {
-      "PK": "aax-ott-sdk.amazon-adsystem.amazon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "aax-ott-sdk.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -1584,6 +1577,13 @@
     },
     {
       "PK": "origin-sq-tungsten-ts.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "origin-sq-tungsten-ts-fe.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

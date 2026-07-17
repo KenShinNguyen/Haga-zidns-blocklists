@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 18:07 UTC
-# Version: 2026.0710.1807.47
+# Last modified: 17 Jul 2026 17:35 UTC
+# Version: 2026.0717.1735.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 388
+# Number of entries: 386
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -103,12 +103,8 @@ local=/pgteu4-word-telemetry-vip.officeapps.live.com/
 local=/pgteu5-excel-telemetry-vip.officeapps.live.com/
 local=/pgteu5-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgteu5-word-telemetry-vip.officeapps.live.com/
-local=/pgtmx1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtmx1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtmx1-word-telemetry-vip.officeapps.live.com/
-local=/pgtsg1-excel-telemetry-vip.officeapps.live.com/
-local=/pgtsg1-powerpoint-telemetry-vip.officeapps.live.com/
-local=/pgtsg1-word-telemetry-vip.officeapps.live.com/
 local=/pgtus1-excel-telemetry-vip.officeapps.live.com/
 local=/pgtus1-powerpoint-telemetry-vip.officeapps.live.com/
 local=/pgtus1-word-telemetry-vip.officeapps.live.com/
@@ -283,6 +279,8 @@ local=/arc9.msn.com/
 local=/confiant.msn.com/
 local=/flex.msn.com/
 local=/g00.msn.com/
+local=/h1.msn.com/
+local=/h2.msn.com/
 local=/h6.msn.com/
 local=/mobileads.msn.com/
 local=/mobileleads.msn.com/

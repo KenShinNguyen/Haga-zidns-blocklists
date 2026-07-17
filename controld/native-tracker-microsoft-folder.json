@@ -1219,6 +1219,20 @@
       }
     },
     {
+      "PK": "h1.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "h2.msn.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "h4g3z1-native.winoffice.web.app",
       "action": {
         "do": 0,
@@ -1814,13 +1828,6 @@
       }
     },
     {
-      "PK": "pgtmx1-excel-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "pgtmx1-powerpoint-telemetry-vip.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1829,27 +1836,6 @@
     },
     {
       "PK": "pgtmx1-word-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pgtsg1-excel-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pgtsg1-powerpoint-telemetry-vip.officeapps.live.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pgtsg1-word-telemetry-vip.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1

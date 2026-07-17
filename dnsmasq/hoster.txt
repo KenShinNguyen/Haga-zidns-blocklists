@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jul 2026 18:28 UTC
-# Version: 2026.0715.1828.27
+# Last modified: 17 Jul 2026 18:13 UTC
+# Version: 2026.0717.1813.49
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1238
 #
@@ -956,6 +956,7 @@ local=/qu.am/
 local=/quiztionnaire.uk/
 local=/r.gp/
 local=/r-e.kr/
+local=/radiola.club/
 local=/rapidshare.com/
 local=/rapidshare.de/
 local=/rapidshare.se/
@@ -1028,7 +1029,6 @@ local=/socialsmp.com/
 local=/solidwebhost.com/
 local=/sophiashantidaniel.com/
 local=/space.lc/
-local=/speed4up.net/
 local=/sport-pro.de/
 local=/sportsontheweb.net/
 local=/spruz.com/

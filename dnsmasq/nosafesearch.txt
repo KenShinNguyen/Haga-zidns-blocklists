@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Jul 2026 18:34 UTC
-# Version: 2026.0703.1834.29
+# Last modified: 17 Jul 2026 17:20 UTC
+# Version: 2026.0717.1720.39
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 206
 #
@@ -97,6 +97,7 @@ local=/searx.nakhan.net/
 local=/search.nebulacentre.net/
 local=/searx.netzspielplatz.de/
 local=/searxng.nicfab.eu/
+local=/searx.nightmare.life/
 local=/searx.nixnet.services/
 local=/searxng.no-logs.com/
 local=/whoogle.no-logs.com/
@@ -203,7 +204,6 @@ local=/searx.party/
 local=/searx.ru/
 local=/searx.si/
 local=/searx.space/
-local=/searx.stream/
 local=/searx.work/
 local=/searx.xyz/
 local=/searxng.biz/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jul 2026 18:07 UTC
-! Version: 2026.0710.1807.47
+! Last modified: 17 Jul 2026 17:35 UTC
+! Version: 2026.0717.1735.45
 ! Syntax: AdBlock
-! Number of entries: 388
+! Number of entries: 386
 !
 ||c-bingapis-com.dual-a-0034.a-msedge.net^
 ||measure.office.com.akamaized.net^
@@ -104,12 +104,8 @@
 ||pgteu5-excel-telemetry-vip.officeapps.live.com^
 ||pgteu5-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu5-word-telemetry-vip.officeapps.live.com^
-||pgtmx1-excel-telemetry-vip.officeapps.live.com^
 ||pgtmx1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtmx1-word-telemetry-vip.officeapps.live.com^
-||pgtsg1-excel-telemetry-vip.officeapps.live.com^
-||pgtsg1-powerpoint-telemetry-vip.officeapps.live.com^
-||pgtsg1-word-telemetry-vip.officeapps.live.com^
 ||pgtus1-excel-telemetry-vip.officeapps.live.com^
 ||pgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtus1-word-telemetry-vip.officeapps.live.com^
@@ -284,6 +280,8 @@
 ||confiant.msn.com^
 ||flex.msn.com^
 ||g00.msn.com^
+||h1.msn.com^
+||h2.msn.com^
 ||h6.msn.com^
 ||mobileads.msn.com^
 ||mobileleads.msn.com^

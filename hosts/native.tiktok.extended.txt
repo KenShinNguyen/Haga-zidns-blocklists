@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 07:34 UTC
-# Version: 2026.0710.0734.51
+# Last modified: 17 Jul 2026 17:38 UTC
+# Version: 2026.0717.1738.07
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 582
+# Number of entries: 583
 #
 0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
@@ -438,6 +438,7 @@
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
+0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger16-normal-useastred.tiktokv.eu
 0.0.0.0 rtlog.tiktokv.com

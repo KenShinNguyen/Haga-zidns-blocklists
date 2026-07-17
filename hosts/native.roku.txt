@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jun 2026 18:39 UTC
-# Version: 2026.0619.1839.47
+# Last modified: 17 Jul 2026 17:39 UTC
+# Version: 2026.0717.1739.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 159
+# Number of entries: 160
 #
 0.0.0.0 ravm.tv
 0.0.0.0 cdn.ravm.tv
@@ -33,6 +33,7 @@
 0.0.0.0 admon.acr.roku.com
 0.0.0.0 admon-api.acr.roku.com
 0.0.0.0 adview.acr.roku.com
+0.0.0.0 ca.acr.roku.com
 0.0.0.0 admon.ca.acr.roku.com
 0.0.0.0 ca-service.acr.roku.com
 0.0.0.0 channels.acr.roku.com

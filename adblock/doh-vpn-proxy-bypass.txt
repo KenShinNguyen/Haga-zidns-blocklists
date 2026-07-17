@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Jul 2026 08:10 UTC
-! Version: 2026.0717.0810.24
+! Last modified: 17 Jul 2026 17:22 UTC
+! Version: 2026.0717.1722.37
 ! Syntax: AdBlock
-! Number of entries: 16757
+! Number of entries: 16786
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -452,6 +452,7 @@
 ||player-nation.anjumanallana.in^
 ||playernation.anjumanallana.in^
 ||pto.anjumanallana.in^
+||qusa.anjumanallana.in^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||a-regist.anondns.net^
@@ -662,6 +663,7 @@
 ||aqua.bastaff.ru^
 ||hackedsites.bastaff.ru^
 ||powerschoolportal.bastaff.ru^
+||smack.bastaff.ru^
 ||tacobelljobs.bastaff.ru^
 ||we-hate-school.bastaff.ru^
 ||home.basthorst.eu^
@@ -693,6 +695,7 @@
 ||mathforfun.firstgrad.bestprogramsforkids.com^
 ||learnvcsa.bestprogramsforkids.com^
 ||officialcepheusx.bestprogramsforkids.com^
+||space.bestprogramsforkids.com^
 ||v2202510290637393088.bestsrv.de^
 ||dns.bezmezhau.com^
 ||dns.bgeneto.com^
@@ -2426,6 +2429,7 @@
 ||wkldjfs.wlkdlf.dingsheng-yule.com^
 ||iopsfwjrklewrdf.xcvjklesdfewf.dingsheng-yule.com^
 ||oijkmuiojk.yhujnmok.dingsheng-yule.com^
+||support.dingsheng-yule.com^
 ||travel-to-ur-lovely.collage.dinprima.ro^
 ||mlkjr.day.dinprima.ro^
 ||feather.fork.dinprima.ro^
@@ -6407,6 +6411,7 @@
 ||dns.veikus.com^
 ||dns.vemo.cc^
 ||dns.venclous.org^
+||securedns.vendorvista.xyz^
 ||bookings.verandahotels.com^
 ||fer.verandahotels.com^
 ||playernation.verandahotels.com^
@@ -7703,6 +7708,7 @@
 ||azzico.com^
 ||azzico.pw^
 ||b-dns.se^
+||b-ii.com^
 ||b16c43b3a4aba893962ec9400015aea5.top^
 ||b19d4bf166bb2647cfaa6133b12254c84819a074.com^
 ||b2bwhitelabel.com^
@@ -9249,6 +9255,13 @@
 ||doyouyou.com^
 ||doyunfan.com^
 ||dozapp.xyz^
+||dp-ca-01.live^
+||dp-de-01.live^
+||dp-es-01.live^
+||dp-hu-01.live^
+||dp-it-01.live^
+||dp-pl-01.live^
+||dp-tr-01.live^
 ||dpbaxcum.com^
 ||dpivpn.help^
 ||dplrkwze.com^
@@ -10590,6 +10603,9 @@
 ||gsoula.life^
 ||gsouyou.space^
 ||gsyvipaff.cc^
+||gt-ch-01.live^
+||gt-ch-02.live^
+||gt-fr-01.live^
 ||gtag.club^
 ||gtdqambjtl3.online^
 ||gtkpw.com^
@@ -12326,6 +12342,7 @@
 ||lywsrqs3.xyz^
 ||lz3nwoz.online^
 ||lzarflbw.com^
+||m247-br-01.live^
 ||m3mhtvbfy.online^
 ||mad4todo.com^
 ||madeinchile.io^
@@ -12450,6 +12467,7 @@
 ||mexi.rest^
 ||mfhermkp.cc^
 ||mfimail.eu^
+||mg-kz-01.live^
 ||mgnet.vip^
 ||mgxray.xyz^
 ||mgyfyvyo.com^
@@ -12704,6 +12722,7 @@
 ||muxyuji.ru^
 ||mvipcloud.xyz^
 ||mwhgfscc.cc^
+||mws-ru-01.live^
 ||mxvhiahu.com^
 ||mxvszrpta.com^
 ||mxwljsq.com^
@@ -14014,6 +14033,7 @@
 ||racevpn.com^
 ||radiodoubt.com^
 ||radmin-vpn.com^
+||radmin-vpn.org^
 ||radminvpn.org^
 ||rahavard365.co^
 ||raidnas.xyz^
@@ -14113,6 +14133,7 @@
 ||rinki.pro^
 ||rinki.space^
 ||rinki.wiki^
+||rinki.xyz^
 ||riolu.icu^
 ||riolu.ooo^
 ||riolu.work^
@@ -14174,6 +14195,7 @@
 ||runnervamp.net^
 ||rusa.loan^
 ||rushproxy.com^
+||rusnet-android.click^
 ||rustynailspace.com^
 ||rusuojiasu.net^
 ||rusvpn.com^
@@ -14224,6 +14246,7 @@
 ||safeworldpay.com^
 ||safing.io^
 ||sagrantapp.com^
+||sahi.uk^
 ||sailing.ink^
 ||sailingnet.pro^
 ||sakirdakproxy.tk^
@@ -14295,6 +14318,7 @@
 ||secure-proxy.shop^
 ||secure-vpn.com^
 ||secureconnect.me^
+||secured.wiki^
 ||securefor.com^
 ||secureguardpro.com^
 ||securehole.com^
@@ -14326,6 +14350,7 @@
 ||seeu.dev^
 ||seipvscpuneji.xyz^
 ||selenite.cc^
+||selfadserver.com^
 ||seligmania-online.com^
 ||selsby.info^
 ||sentinel.com^
@@ -14367,6 +14392,7 @@
 ||shadowrocketdownload.com^
 ||shadowrocketid.com^
 ||shadowrocketios.org^
+||shadowrocketjj.com^
 ||shadowrocketvpn.app^
 ||shadowrocketvpn.com^
 ||shadowsocks.click^
@@ -14500,6 +14526,7 @@
 ||sms8b04szwtm.online^
 ||snapclass.site^
 ||snapillustrates.com^
+||snapxs.com^
 ||snetwork.space^
 ||snipermixer.com^
 ||snookerwood.org^
@@ -14538,6 +14565,7 @@
 ||spedo.co^
 ||speedboost.website^
 ||speedcat.info^
+||speedcatjc.com^
 ||speedcn.in^
 ||speedify.com^
 ||speedifynetworks.com^
@@ -14782,6 +14810,7 @@
 ||surfshell.io^
 ||surfsjark.com^
 ||surfsuark.com^
+||surfwithease.com^
 ||surfy-chinaz.com^
 ||surfy-chiny.com^
 ||surge.best^

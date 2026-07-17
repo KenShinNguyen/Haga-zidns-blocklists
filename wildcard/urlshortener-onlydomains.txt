@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jul 2026 07:00 UTC
-# Version: 2026.0717.0700.13
+# Last modified: 17 Jul 2026 17:23 UTC
+# Version: 2026.0717.1723.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 9972
+# Number of entries: 9996
 #
 a.189.cn
 t.2merkato.com
@@ -737,6 +737,7 @@ link.tomalvarez.com
 go.tomary.de
 a.trp.red
 go.trtmn.io
+sc.ts460.com
 lnk.tu-bs.de
 link.tubi.tv
 s.tunpok.com
@@ -3100,6 +3101,7 @@ e2s.in
 e2share.in
 e37.eu
 e49.us
+e6ui.shop
 e7.al
 e78installers.com
 e9e.ir
@@ -6455,6 +6457,7 @@ polamax.win
 polbb.eu
 politi.co
 polrproject.org
+popden.link
 popfeed.co
 popm.ch
 poprl.com
@@ -6641,6 +6644,7 @@ qr-codes.io
 qr-in.com
 qr-man.com
 qr-th.com
+qr-url.com
 qr1.be
 qr1.jp
 qr123reg.click
@@ -6712,6 +6716,7 @@ qry.kr
 qrybaan.com
 qs1.it
 qt.ke
+qti.ai
 qton.top
 qtr.sh
 qty3e.pro
@@ -6742,6 +6747,7 @@ qutt.me
 qutt.us
 quurls.com
 qvc.co
+qxa.me
 qxp.cz
 qxp.sk
 qzr2.com
@@ -6757,6 +6763,7 @@ r2c.ovh
 r2links.com
 r303.de
 r4u.in
+r8z.cn
 rabetak.me
 rabit.ae
 raceclip.com
@@ -6791,10 +6798,12 @@ rblx.co
 rbm.li
 rbrandly.com
 rbtly.com
+rbtxt.com
 rbxurl.pro
 rch.lt
 rcknr.io
 rckstr.bz
+rcl.ink
 rcld.io
 rd.gt
 rd-client.com
@@ -7005,6 +7014,8 @@ rtube.nl
 rtvote.com
 rtxt.co
 rubyurl.com
+rumahlink.com
+runi.surf
 runty.link
 rupilinks.com
 ruplink.com
@@ -7013,6 +7024,7 @@ rushgiving.com
 rushivili.com
 rusuhkali.xyz
 rutgon.top
+ruvi.me
 rvpaste.com
 rvr.link
 rvrsd.org
@@ -7315,6 +7327,7 @@ short.tips
 short.to
 short-belink.com
 short-bio.com
+short-fact.com
 short-gg.org
 short-it.cc
 short-link.co
@@ -7582,8 +7595,10 @@ shrinkin.xyz
 shrinkl.com
 shrinklinx.com
 shrinkme.app
+shrinkme.cc
 shrinkme.click
 shrinkme.dev
+shrinkme.in
 shrinkme.info
 shrinkme.ink
 shrinkme.io
@@ -7794,9 +7809,11 @@ smashed.by
 smdisc.com
 smilytech.in
 smiurl.com
+smixtools.com
 smkt.app
 smlfy.com
 smlk.es
+smll.cc
 smlnk.us
 smlr.nu
 smo.do
@@ -7831,6 +7848,7 @@ snappyshort.com
 snappyurl.com
 snapt.io
 snapurl.org
+snapurl.to
 snapurl.xyz
 snapybio.com
 snapylink.com
@@ -8018,6 +8036,7 @@ stor.ee
 stor.live
 storagesch.com
 storals.com
+storeman.online
 storiediviaggio.com
 stormurl.com
 storycor.ps
@@ -8055,10 +8074,12 @@ sunrabike.com
 suo.fyi
 suo.im
 suo.su
+suoc.me
 suolink.cn
 suolinks.com
 supaqr.com
 supbgn.at
+superbl.ink
 superboltz.com
 supercool.marketing
 supershort.to
@@ -8135,6 +8156,7 @@ t-bi.link
 t-iny.com
 t-mo.co
 t-short.top
+t111.pro
 t1p.de
 t2k.in
 t2m.ca
@@ -8157,6 +8179,7 @@ tabzi.com
 taedy.com
 tagbuilder.io
 taggpro.me
+tagli.net
 tagly.us
 tahmil.net
 tailurl.com
@@ -8208,6 +8231,7 @@ tdi2u.com
 tdotly.com
 tdrive.li
 tdv-adm.live
+tdy.lol
 tdy.sg
 teachselfgov.com
 teamenoch.co

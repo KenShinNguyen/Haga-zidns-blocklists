@@ -6581,6 +6581,13 @@
       }
     },
     {
+      "PK": "radiola.club",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "rapidshare.com",
       "action": {
         "do": 0,
@@ -7086,13 +7093,6 @@
     },
     {
       "PK": "space.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "speed4up.net",
       "action": {
         "do": 0,
         "status": 1
