@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jul 2026 07:06 UTC
-# Version: 2026.0718.0706.45
+# Last modified: 18 Jul 2026 17:58 UTC
+# Version: 2026.0718.1758.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10015
+# Number of entries: 10020
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -655,6 +655,7 @@ local=/shop.scghome.com/
 local=/smaba.sch.id/
 local=/vita.sch.id/
 local=/kutt.schantli.cloud/
+local=/yourls.sci.io/
 local=/go.scify.org/
 local=/surl.scrapc.com/
 local=/go.screbo.com/
@@ -9663,6 +9664,7 @@ local=/x2c.eu/
 local=/x2l.ir/
 local=/x2t.com/
 local=/x2y.me/
+local=/x5n.cn/
 local=/x7.lv/
 local=/x89.us/
 local=/xaddr.com/
@@ -9872,6 +9874,7 @@ local=/yukibio.com/
 local=/yul.is/
 local=/yulllu01.online/
 local=/yun.ir/
+local=/yurl.bio/
 local=/yweb.com/
 local=/yww.uy/
 local=/yx.si/
@@ -9883,6 +9886,7 @@ local=/z20.su/
 local=/z23.ru/
 local=/z2h.it/
 local=/z4sh.com/
+local=/z5h.cn/
 local=/z6c.de/
 local=/z9.fr/
 local=/z9n.net/
@@ -9914,6 +9918,7 @@ local=/zenlinkit.com/
 local=/zensus.io/
 local=/zenurl.in/
 local=/zephb.com/
+local=/zeroshort.xyz/
 local=/zetir.com/
 local=/zeurl.net/
 local=/zeus4d.mom/

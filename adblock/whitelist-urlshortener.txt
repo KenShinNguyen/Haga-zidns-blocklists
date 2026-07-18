@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 18 Jul 2026 07:06 UTC
-! Version: 2026.0718.0706.45
+! Last modified: 18 Jul 2026 17:58 UTC
+! Version: 2026.0718.1758.03
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -651,6 +651,7 @@
 @@||smaba.sch.id^
 @@||vita.sch.id^
 @@||kutt.schantli.cloud^
+@@||yourls.sci.io^
 @@||go.scify.org^
 @@||surl.scrapc.com^
 @@||go.screbo.com^
@@ -9655,6 +9656,7 @@
 @@||x2l.ir^
 @@||x2t.com^
 @@||x2y.me^
+@@||x5n.cn^
 @@||x7.lv^
 @@||x89.us^
 @@||xaddr.com^
@@ -9864,6 +9866,7 @@
 @@||yul.is^
 @@||yulllu01.online^
 @@||yun.ir^
+@@||yurl.bio^
 @@||yweb.com^
 @@||yww.uy^
 @@||yx.si^
@@ -9875,6 +9878,7 @@
 @@||z23.ru^
 @@||z2h.it^
 @@||z4sh.com^
+@@||z5h.cn^
 @@||z6c.de^
 @@||z9.fr^
 @@||z9n.net^
@@ -9906,6 +9910,7 @@
 @@||zensus.io^
 @@||zenurl.in^
 @@||zephb.com^
+@@||zeroshort.xyz^
 @@||zetir.com^
 @@||zeurl.net^
 @@||zeus4d.mom^

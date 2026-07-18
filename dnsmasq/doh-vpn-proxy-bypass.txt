@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jul 2026 08:21 UTC
-# Version: 2026.0718.0821.48
+# Last modified: 18 Jul 2026 19:05 UTC
+# Version: 2026.0718.1905.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16806
+# Number of entries: 16815
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -453,6 +453,7 @@ local=/playernation.anjumanallana.in/
 local=/pto.anjumanallana.in/
 local=/qusa.anjumanallana.in/
 local=/we2education.anjumanallana.in/
+local=/xz.anjumanallana.in/
 local=/dns.anne-pierre.fr/
 local=/dns.anon.no/
 local=/a-regist.anondns.net/
@@ -4908,7 +4909,11 @@ local=/x.ns1net.com/
 local=/dnscache0.ns71.net/
 local=/garlandisd.nseuropa.org/
 local=/nljkjfdssdf.ckejlsd.nshosting.xyz/
+local=/xcvidskjklxcvkdkdfs.dkfkjgldfds.nshosting.xyz/
 local=/uiovsjdfkldsf.jksdlfkesdf.nshosting.xyz/
+local=/xjhvkjsjkdfklxfd.skdjlxvdsf.nshosting.xyz/
+local=/xcvjkslkcjfsdfesfd.xcvjhsdkdfs.nshosting.xyz/
+local=/xcvjklekscfjklsd.xcvkjleskfs.nshosting.xyz/
 local=/dns.ntccloud.vn/
 local=/dns.ntr.lol/
 local=/dns1.ntus.io/
@@ -16333,6 +16338,7 @@ local=/xhjpro.com/
 local=/xholgm.top/
 local=/xianmfenglinktools.com/
 local=/xianxinhn.xyz/
+local=/xianyujsq.com/
 local=/xianyuwangluo.net/
 local=/xianyuwangluo.top/
 local=/xianyuwangluohost.net/
@@ -16450,6 +16456,7 @@ local=/xn--yfrp36ea9901a.com/
 local=/xn--yfrp5enpj81a6w4d.com/
 local=/xn--yfrw1g0upg04amnn.com/
 local=/xn--yfrw1glt6awpb6x3e.xyz/
+local=/xn--yfrw1goy3egzffc.com/
 local=/xn--yrs494l.com/
 local=/xn--yun-2t1ej483a.com/
 local=/xn--z4vu10a.com/
@@ -16559,6 +16566,7 @@ local=/yihuacenter.com/
 local=/yilian.me/
 local=/yiyo.io/
 local=/yiyo.mobi/
+local=/yiyuangw.com/
 local=/yiyuanjichang.info/
 local=/yizhimao.cloud/
 local=/yizhimao.me/
@@ -16788,6 +16796,7 @@ local=/zorlunet.ru/
 local=/zorrovpn.io/
 local=/zorvian.com/
 local=/zougloub.eu/
+local=/zpn.im/
 local=/zproxy.de/
 local=/zproxy.org/
 local=/zqazgydo.cc/
