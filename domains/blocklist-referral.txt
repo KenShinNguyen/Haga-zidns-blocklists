@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jul 2026 06:43 UTC
-# Version: 2026.0717.0643.51
+# Last modified: 18 Jul 2026 06:49 UTC
+# Version: 2026.0718.0649.03
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2361
+# Number of entries: 2364
 #
 1-aclk.net
 1aurl.io
@@ -317,6 +317,7 @@ seu1.cleverreach.com
 49569.seu1.cleverreach.com
 49850.seu1.cleverreach.com
 51881.seu1.cleverreach.com
+52439.seu1.cleverreach.com
 52586.seu1.cleverreach.com
 52908.seu1.cleverreach.com
 54253.seu1.cleverreach.com
@@ -585,6 +586,7 @@ seu2.cleverreach.com
 361290.seu2.cleverreach.com
 363224.seu2.cleverreach.com
 365213.seu2.cleverreach.com
+367713.seu2.cleverreach.com
 369476.seu2.cleverreach.com
 369713.seu2.cleverreach.com
 372077.seu2.cleverreach.com
@@ -593,6 +595,7 @@ seu2.cleverreach.com
 374768.seu2.cleverreach.com
 374956.seu2.cleverreach.com
 379879.seu2.cleverreach.com
+380250.seu2.cleverreach.com
 381059.seu2.cleverreach.com
 382058.seu2.cleverreach.com
 382064.seu2.cleverreach.com
@@ -607,6 +610,7 @@ seu2.cleverreach.com
 410317.seu2.cleverreach.com
 411956.seu2.cleverreach.com
 413084.seu2.cleverreach.com
+413220.seu2.cleverreach.com
 414859.seu2.cleverreach.com
 415017.seu2.cleverreach.com
 415753.seu2.cleverreach.com
@@ -632,7 +636,6 @@ seu2.cleverreach.com
 451364.seu2.cleverreach.com
 451645.seu2.cleverreach.com
 92140.seu2.cleverreach.com
-94324.seu2.cleverreach.com
 94641.seu2.cleverreach.com
 95253.seu2.cleverreach.com
 97054.seu2.cleverreach.com
@@ -1079,7 +1082,6 @@ suite3-cf.emarsys.net
 suite30.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
-suite32.emarsys.net
 suite33.emarsys.net
 suite33-cf.emarsys.net
 suite34.emarsys.net
@@ -1123,6 +1125,8 @@ suite7-cf.emarsys.net
 suite8.emarsys.net
 suite9.emarsys.net
 suite9-cf.emarsys.net
+suitepmta01.emarsys.net
+suitepmta02.emarsys.net
 emjcd.com
 eat.emmasolutions.net
 t.en25.com
@@ -1171,7 +1175,6 @@ s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
 mc.s13.exacttarget.com
-members.s13.exacttarget.com
 s4.exacttarget.com
 mc.s4.exacttarget.com
 members.s4.exacttarget.com
@@ -1210,7 +1213,6 @@ pages.s7.exacttarget.com
 pub.s7.exacttarget.com
 view.s7.exacttarget.com
 virt.s7.exacttarget.com
-s8.exacttarget.com
 cl.exct.net
 click.e.usa.experian.com
 4patientcare-cdn.exponea.com
@@ -1226,6 +1228,7 @@ fis-iittala-cdn.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
+neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
@@ -1396,6 +1399,7 @@ group0.sites.hscoscdn-eu1.net
 144743966.group0.sites.hscoscdn-eu1.net
 145326533.group0.sites.hscoscdn-eu1.net
 145365426.group0.sites.hscoscdn-eu1.net
+145620301.group0.sites.hscoscdn-eu1.net
 145637459.group0.sites.hscoscdn-eu1.net
 145721053.group0.sites.hscoscdn-eu1.net
 145830670.group0.sites.hscoscdn-eu1.net
@@ -1476,7 +1480,6 @@ group48.sites.hscoscdn40.net
 group49.sites.hscoscdn40.net
 api.hubapi.com
 api-ap1.hubapi.com
-api-auto.hubapi.com
 api-eu1.hubapi.com
 api-na1.hubapi.com
 api-na2.hubapi.com
@@ -1531,6 +1534,7 @@ gr-go.kelkoogroup.net
 it-go.kelkoogroup.net
 no-go.kelkoogroup.net
 pl-go.kelkoogroup.net
+pt-go.kelkoogroup.net
 ro-go.kelkoogroup.net
 uk-go.kelkoogroup.net
 k.keyade.com
@@ -1624,7 +1628,6 @@ track.mfilter.net
 micpn.com
 email.microsoft.com
 bounce4.email.microsoft.com
-bounce5.email.microsoft.com
 go.microsoft.com
 target.microsoft.com
 click.email.microsoftemail.com
@@ -1668,7 +1671,6 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
-mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -1715,6 +1717,7 @@ mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
 mkto-ab480166.com
+mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
 mkto-ab540143.com

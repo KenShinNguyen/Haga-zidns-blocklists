@@ -99,13 +99,6 @@
       }
     },
     {
-      "PK": "builders",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "business",
       "action": {
         "do": 0,

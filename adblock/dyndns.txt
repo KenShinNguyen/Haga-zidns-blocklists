@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Jul 2026 17:21 UTC
-! Version: 2026.0717.1721.10
+! Last modified: 17 Jul 2026 22:49 UTC
+! Version: 2026.0717.2249.42
 ! Syntax: AdBlock
-! Number of entries: 1521
+! Number of entries: 1522
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -933,6 +933,7 @@
 ||logisoft-cy.com^
 ||logular.com^
 ||longmusic.com^
+||loophole.site^
 ||loseyourip.com^
 ||lospenitentes.com^
 ||lostgumball.com^

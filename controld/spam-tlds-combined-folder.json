@@ -616,6 +616,13 @@
       }
     },
     {
+      "PK": "benz.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.best",
       "action": {
         "do": 0,
@@ -4922,6 +4929,13 @@
     },
     {
       "PK": "mint.lgbt",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mintlify.builders",
       "action": {
         "do": 1,
         "status": 1

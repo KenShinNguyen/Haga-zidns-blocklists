@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Jul 2026 08:10 UTC
-! Version: 2026.0717.0810.20
+! Last modified: 18 Jul 2026 08:21 UTC
+! Version: 2026.0718.0821.41
 ! Syntax: AdBlock
-! Number of entries: 259
+! Number of entries: 257
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -36,6 +36,7 @@
 ||ore-dns.bitdefender.net^
 ||tky-dns.bitdefender.net^
 ||doh-de.blahdns.com^
+||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
 ||dns.brahma.world^
@@ -76,7 +77,6 @@
 ||dns.iqiyi.com^
 ||doh.iqiyi.com^
 ||dns.jd.com^
-||unfiltered.joindns4.eu^
 ||opencdn.jomodns.com^
 ||hdns.ksyun.com^
 ||doh.libredns.gr^
@@ -119,7 +119,6 @@
 ||dns.rubyfish.cn^
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
-||dns.surfsharkdns.com^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
 ||homenet.telecomitalia.it^
@@ -133,7 +132,6 @@
 ||h4g3z1-doh.top.web.app^
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
-||dns.weibo.cn^
 ||doh2.gslb2.xfinity.com^
 ||doh.xfinity.com^
 ||common.dot.dns.yandex.net^

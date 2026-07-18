@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jul 2026 17:21 UTC
-# Version: 2026.0717.1721.45
+# Last modified: 18 Jul 2026 08:20 UTC
+# Version: 2026.0718.0820.50
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 3856
 #
@@ -845,7 +845,6 @@ dot.cox.net
 dohdot.coxlab.net
 nrusimha.crabdance.com
 adguard.crestfallen.de
-dns.criena.net
 cristianocosta.me
 dns.itsec.crolla.net
 crypto.sx
@@ -1636,7 +1635,6 @@ st.flyzhouyc.win
 yin.flyzhouyc.win
 gateway.fomichev.cloud
 dns.foximao.cn
-de-f1.foxyfy.net
 dns.foxyfy.net
 es-ma.foxyfy.net
 jp-to.foxyfy.net
@@ -3421,6 +3419,7 @@ tecdrive.site
 dns.techcpu.net
 dns1.techeasy.org
 adguard.techlike.in
+vpn.technicule.info
 dns1.techniverse.net
 doh.technochat.in
 dns.technologycage.com
@@ -3647,6 +3646,7 @@ killads.vpms.xyz
 vpnhellings.nl
 www.vpnhellings.nl
 dns.vps.pw
+vtcuong.site
 vuivn.site
 ns1.vuivn.site
 ns2.vuivn.site

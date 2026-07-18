@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jul 2026 17:21 UTC
-# Version: 2026.0717.1721.45
+# Last modified: 18 Jul 2026 08:20 UTC
+# Version: 2026.0718.0820.50
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3421
 #
@@ -601,7 +601,6 @@ local=/dot.cox.net/
 local=/dohdot.coxlab.net/
 local=/nrusimha.crabdance.com/
 local=/adguard.crestfallen.de/
-local=/dns.criena.net/
 local=/dns.itsec.crolla.net/
 local=/dns.cryptomize.com/
 local=/ae-agh1.dns.cryptroute.net/
@@ -1209,7 +1208,6 @@ local=/st.flyzhouyc.win/
 local=/yin.flyzhouyc.win/
 local=/gateway.fomichev.cloud/
 local=/dns.foximao.cn/
-local=/de-f1.foxyfy.net/
 local=/dns.foxyfy.net/
 local=/es-ma.foxyfy.net/
 local=/jp-to.foxyfy.net/
@@ -2614,6 +2612,7 @@ local=/dns-br.leonardo.tec.br/
 local=/dns.techcpu.net/
 local=/dns1.techeasy.org/
 local=/adguard.techlike.in/
+local=/vpn.technicule.info/
 local=/dns1.techniverse.net/
 local=/doh.technochat.in/
 local=/dns.technologycage.com/
@@ -3391,6 +3390,7 @@ local=/villalazza.stream/
 local=/vladpro.ru/
 local=/vorlif.org/
 local=/vpnhellings.nl/
+local=/vtcuong.site/
 local=/vuivn.site/
 local=/wallpap.eu/
 local=/wantaquddin.com/
