@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jul 2026 17:58 UTC
-# Version: 2026.0718.1758.03
+# Last modified: 18 Jul 2026 21:56 UTC
+# Version: 2026.0718.2156.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10020
+# Number of entries: 10022
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2501,6 +2501,7 @@ local=/click360.gr/
 local=/clickbase.pro/
 local=/clickbio.co/
 local=/clicke.me/
+local=/clickgenee.com/
 local=/clickhub.cc/
 local=/clicklink.dev/
 local=/clicklinkearn.com/
@@ -10036,4 +10037,5 @@ local=/zz-tw.co/
 local=/zz3.co/
 local=/zzb.bz/
 local=/zzlinks.com/
+local=/zzlocalsquared.com/
 local=/zzu.info/

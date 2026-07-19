@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jul 2026 18:57 UTC
-# Version: 2026.0718.1857.49
+# Last modified: 18 Jul 2026 22:45 UTC
+# Version: 2026.0718.2245.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 35058
+# Number of entries: 35060
 #
 local=/blink-stresser.000webhostapp.com/
 local=/ddos-ovh-v6.000webhostapp.com/
@@ -3221,6 +3221,7 @@ local=/animepahetv.to/
 local=/animepictures.top/
 local=/animepill.com/
 local=/animeplex.fun/
+local=/animeplus.id/
 local=/animeram.cc/
 local=/animerealms.org/
 local=/animerush.tv/
@@ -28672,6 +28673,7 @@ local=/seriesvip.org/
 local=/seriesway.com/
 local=/seriousfiles.com/
 local=/seriousurls.com/
+local=/seroiptv.tv/
 local=/serrdce-drakona-lordfilm.ru/
 local=/serv24.eu/
 local=/serverbd247.com/

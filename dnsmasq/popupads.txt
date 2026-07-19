@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jul 2026 17:53 UTC
-# Version: 2026.0718.1753.56
+# Last modified: 19 Jul 2026 01:51 UTC
+# Version: 2026.0719.0151.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 56566
+# Number of entries: 56573
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/0db65504c2.012dadaa06.com/
@@ -1844,6 +1844,7 @@ local=/mb.indecentes-voisines.com/
 local=/bu.indusacta.com/
 local=/dhl-express-ppd.infanion.com/
 local=/dhl-rpa-portal.infanion.com/
+local=/promo.info-chatdome.com/
 local=/qk.inkblotconusor.com/
 local=/zv.inlinegiggly.top/
 local=/et.inrollteacher.com/
@@ -8528,6 +8529,7 @@ local=/7lyonline.com/
 local=/7me0ssd6.de/
 local=/7mts.com/
 local=/7nt9p4d4.de/
+local=/7ploraon.com/
 local=/7re8.com/
 local=/7seas.asia/
 local=/7techitservices.com/
@@ -25996,6 +25998,7 @@ local=/glimpsemankind.com/
 local=/glimsleaning.com/
 local=/glimtors.net/
 local=/glingabsoufturd.net/
+local=/glintarkoses.qpon/
 local=/gliptareemote.net/
 local=/gliraimsofu.net/
 local=/glish.media/
@@ -27001,6 +27004,7 @@ local=/guwupmxscowhp.online/
 local=/guxidrookr.com/
 local=/guyjrraidsrlk.store/
 local=/guyoetiepwijy.online/
+local=/guyprior.com/
 local=/guysubscriptionborrowing.com/
 local=/guzedaggar.com/
 local=/guzzlealibied.cyou/
@@ -27240,6 +27244,7 @@ local=/handsomehose.com/
 local=/handtub.com/
 local=/handwritingautumn.com/
 local=/handwritingnomad.com/
+local=/handy-sextreffen.info/
 local=/handy-tab.com/
 local=/handyfireman.com/
 local=/hangoverknock.com/
@@ -29605,6 +29610,7 @@ local=/influencer2020.com/
 local=/influenza.chat/
 local=/influenzacandiedbarracks.com/
 local=/influxgodless.com/
+local=/info-flirtme.com/
 local=/info-meta-noreply.com/
 local=/info-top-letter.com/
 local=/infoclan.digital/
@@ -45602,6 +45608,7 @@ local=/seekmymatch.com/
 local=/seekoflol.com/
 local=/seekticketunfit.com/
 local=/seemingunevenlag.com/
+local=/seenearbywomen.pics/
 local=/seenstep.com/
 local=/seeonderfulstatue.com/
 local=/seepsoaceva.net/
